@@ -1,0 +1,33 @@
+﻿technical_anchor,present_in_vocabulary,document_frequency,document_frequency_percent,present_in_inclusive_primary,present_in_content_focused_sensitivity
+air source,True,101.0,0.237719773107068,True,True
+air tightness,True,62.0,0.1459269894320615,True,True
+airflow,True,259.0,0.6095982300468379,True,True
+airtightness,True,51.0,0.12003671711347,True,True
+battery,True,1015.0,2.3889660366700403,True,True
+boiler,True,1786.0,4.203638760091322,True,True
+cavity wall,True,302.0,0.7108056582013321,True,True
+cold bridge,True,33.0,0.0776708169557747,True,True
+condensation,True,1050.0,2.4713441758655588,True,True
+damp,True,1234.0,2.904417821922,True,True
+draught,True,99.0,0.2330124508673241,True,True
+external wall,True,110.0,0.2589027231859157,True,True
+flow temperature,True,136.0,0.3200979123025866,True,True
+heat loss,True,337.0,0.7931837973968509,True,True
+heat pump,True,1651.0,3.885894508908607,True,True
+heating system,False,,,False,False
+insulation,True,5581.0,13.135782710005412,True,True
+internal wall,True,78.0,0.1835855673500129,True,True
+mechanical ventilation,True,48.0,0.1129757337538541,True,True
+moisture,True,1620.0,3.8129310141925767,True,True
+radiator,True,820.0,1.930002118295008,True,True
+retrofit,True,153.0,0.36011015134041,True,True
+roof insulation,True,61.0,0.1435733283121896,True,True
+solar,True,1853.0,4.361334055122743,True,True
+solar panels,True,487.0,1.1462329653776449,True,True
+thermal bridge,True,30.0,0.0706098335961588,True,True
+u-value,True,19.0,0.0447195612775672,True,True
+underfloor heating,True,306.0,0.72022030268082,True,True
+vapour barrier,True,505.0,1.1885988655353403,True,True
+ventilation,True,1001.0,2.3560147809918326,True,True
+wall insulation,True,362.0,0.8520253253936498,True,True
+window,True,905.0,2.1300633134841247,True,True

@@ -1,0 +1,33 @@
+﻿technical_anchor,present_in_vocabulary,document_frequency,document_frequency_percent
+air source,True,101,0.237719773107068
+air tightness,True,62,0.1459269894320615
+airflow,True,259,0.6095982300468379
+airtightness,True,51,0.12003671711347
+battery,True,1015,2.3889660366700403
+boiler,True,1786,4.203638760091322
+cavity wall,True,302,0.7108056582013321
+cold bridge,True,33,0.0776708169557747
+condensation,True,1050,2.4713441758655588
+damp,True,1234,2.904417821922
+draught,True,99,0.2330124508673241
+external wall,True,110,0.2589027231859157
+flow temperature,True,136,0.3200979123025866
+heat loss,True,337,0.7931837973968509
+heat pump,True,1651,3.885894508908607
+heating system,False,,
+insulation,True,5581,13.135782710005412
+internal wall,True,78,0.1835855673500129
+mechanical ventilation,True,48,0.1129757337538541
+moisture,True,1620,3.8129310141925767
+radiator,True,820,1.930002118295008
+retrofit,True,153,0.36011015134041
+roof insulation,True,61,0.1435733283121896
+solar,True,1853,4.361334055122743
+solar panels,True,487,1.1462329653776449
+thermal bridge,True,30,0.0706098335961588
+u-value,True,19,0.0447195612775672
+underfloor heating,True,306,0.72022030268082
+vapour barrier,True,505,1.1885988655353403
+ventilation,True,1001,2.3560147809918326
+wall insulation,True,362,0.8520253253936498
+window,True,905,2.1300633134841247

@@ -1,0 +1,81 @@
+{
+  "analysis_stage": "Parallel TF-IDF representation freeze",
+  "primary_representation": {
+    "id": "inclusive_primary",
+    "source": "Existing Stage 3 conservative TF-IDF representation",
+    "purpose": "Capture technical content alongside trust, endorsement, gratitude, social validation and platform-mediated interaction.",
+    "corpus_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\02_nmf_model_corpus_conservative.csv",
+    "matrix_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\02_tfidf_matrix_conservative.npz",
+    "vectorizer_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\models\\02_tfidf_vectorizer_conservative.joblib"
+  },
+  "sensitivity_representation": {
+    "id": "content_focused_sensitivity",
+    "purpose": "Assess whether generic platform and praise language obscures more specific technical retrofit themes.",
+    "additional_stop_words": [
+      "amazing",
+      "awesome",
+      "channel",
+      "com",
+      "comment",
+      "comments",
+      "content",
+      "excellent",
+      "great",
+      "nice",
+      "subscribe",
+      "subscribed",
+      "subscriber",
+      "subscribers",
+      "thank",
+      "thanks",
+      "video",
+      "videos",
+      "watch",
+      "watched",
+      "watching",
+      "youtube"
+    ],
+    "deliberately_retained_ambiguous_terms": [
+      "good",
+      "love",
+      "liked",
+      "like",
+      "just"
+    ],
+    "deliberately_retained_outcome_terms": [
+      "worked",
+      "works",
+      "working",
+      "helped",
+      "helpful",
+      "fixed",
+      "solved",
+      "successful",
+      "effective",
+      "failed",
+      "recommend",
+      "recommended"
+    ],
+    "corpus_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\04_nmf_model_corpus_content_focused.csv",
+    "matrix_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\04_tfidf_matrix_content_focused.npz",
+    "vectorizer_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\models\\04_tfidf_vectorizer_content_focused.joblib"
+  },
+  "shared_vectorizer_settings": {
+    "representation": "TF-IDF",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 10,
+    "max_df": 0.85,
+    "sublinear_tf": true,
+    "use_idf": true,
+    "smooth_idf": true,
+    "norm": "l2",
+    "strip_accents": "unicode",
+    "token_pattern": "(?u)\\b(?:[a-zA-Z][a-zA-Z0-9]*(?:[-_][a-zA-Z0-9]+)+|[a-zA-Z][a-zA-Z0-9]+)\\b",
+    "dtype": "float64",
+    "stemming": false,
+    "lemmatisation": false
+  }
+}

@@ -1,0 +1,6 @@
+﻿feature,ngram_size,document_frequency,document_frequency_percent,reason
+amp,1,88,0.2071221785487325,Possible HTML-entity residue
+com,1,32,0.0753171558359027,Possible URL or web-address residue
+amp breaker,2,13,0.0305975945583354,Possible HTML-entity residue
+com enter,2,12,0.0282439334384635,Possible URL or web-address residue
+heatgeek com,2,12,0.0282439334384635,Possible URL or web-address residue

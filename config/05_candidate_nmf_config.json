@@ -1,0 +1,33 @@
+{
+  "analysis_stage": "Inclusive primary candidate NMF screening",
+  "topic_counts": [
+    8,
+    10,
+    12,
+    14,
+    16,
+    20
+  ],
+  "input_corpus": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\02_nmf_model_corpus_conservative.csv",
+  "input_matrix": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\02_tfidf_matrix_conservative.npz",
+  "input_vectorizer": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\models\\02_tfidf_vectorizer_conservative.joblib",
+  "nmf_parameters": {
+    "init": "nndsvda",
+    "solver": "cd",
+    "beta_loss": "frobenius",
+    "tol": 0.0001,
+    "max_iter": 500,
+    "random_state": 20260806,
+    "alpha_W": 0.0,
+    "alpha_H": 0.0,
+    "l1_ratio": 0.0,
+    "shuffle": false
+  },
+  "diagnostics": {
+    "coherence": "Mean normalized pointwise mutual information across top 10 features",
+    "topic_diversity": "Unique features divided by all top-20 topic-feature positions",
+    "topic_similarity": "Cosine similarity between complete topic-term vectors",
+    "representatives_per_topic": 10,
+    "maximum_representatives_per_video": 2
+  }
+}

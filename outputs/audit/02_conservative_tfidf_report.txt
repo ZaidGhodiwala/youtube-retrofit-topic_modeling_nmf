@@ -1,0 +1,55 @@
+YOUTUBE RETROFIT CONSERVATIVE TF-IDF AUDIT
+===============================================
+
+Overall status: PASS
+
+Source corpus
+-------------
+Input rows: 42,487
+Unique videos: 1,159
+Input SHA-256: 1fd8fdbf84bfb22aa7b22bb1e8633821938ee78cfb04917de7dd199f11b68350
+Source text column: comment_text_no_urls
+
+Normalised corpus
+-----------------
+Blank normalised texts: 0
+Comments retained in TF-IDF model corpus: 42,443
+Comments excluded as zero vectors: 44
+
+TF-IDF matrix
+-------------
+Matrix dimensions: 42,443 rows x 14,427 features
+Non-zero values: 1,013,411
+Matrix density: 0.001655
+Unigram features: 6,433
+Bigram features: 7,994
+
+Vectorisation settings
+----------------------
+N-grams: unigrams and bigrams
+Minimum document frequency: 10 comments
+Maximum document frequency: 85% of comments
+Sublinear term frequency: enabled
+L2 normalisation: enabled
+Stemming: not used
+Lemmatisation: not used
+
+Validation checks
+-----------------
+PASS: Input hash matches audited corpus
+PASS: Expected input row count
+PASS: Expected unique-video count
+PASS: No blank normalised text
+PASS: Model matrix rows match model corpus
+PASS: No zero rows in saved model matrix
+PASS: TF-IDF vocabulary is non-empty
+
+Output hashes
+-------------
+Model corpus SHA-256: 9baccc2467c1dc5a68d2c01ae23ae708bb94bc92d20a24e33a75e0dd00dde86d
+TF-IDF matrix SHA-256: 897f5989f9861f16b851e9e04ce98ba6ee196a84bff2c4e1a5fe2499348469a7
+Vectorizer SHA-256: ca257f25ff4680dd54589019f7eebc5375aee8aaf90ab3257f137c38a183ebec
+
+Interpretive note
+-----------------
+Comments producing zero vectors are retained in a separate audit table. They are not silently deleted. They contain no vocabulary surviving the documented stop-word and document-frequency criteria and cannot receive a meaningful NMF topic allocation.

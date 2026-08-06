@@ -1,0 +1,43 @@
+YOUTUBE RETROFIT NMF CORPUS AUDIT
+==========================================
+
+Overall status: PASS
+
+Input
+-----
+File: D:\work\youtube_retrofit_project\topic_modeling_nmf\data\input\core_comments_substantive_ge3_words.csv
+SHA-256: 1fd8fdbf84bfb22aa7b22bb1e8633821938ee78cfb04917de7dd199f11b68350
+Selected text column: comment_text_for_coding
+
+Corpus dimensions
+-----------------
+Rows: 42,487
+Unique videos: 1,159
+Unique comment IDs: 42,487
+
+Text diagnostics
+----------------
+Missing selected text: 0
+Blank selected text: 0
+Unique selected texts: 42,343
+Rows involved in repeated text across corpus: 253
+Rows involved in repeated text within the same video: 102
+
+Comment length
+--------------
+Words — minimum / median / mean / maximum: 3 / 30.0 / 47.1 / 1,430
+Characters — minimum / median / mean / maximum: 8 / 162.0 / 254.6 / 7,785
+
+Validation checks
+-----------------
+PASS: Expected row count
+PASS: Expected video count
+PASS: No missing comment IDs
+PASS: No duplicate comment IDs
+PASS: No missing modelling text
+PASS: No blank modelling text
+PASS: Minimum three words
+
+Interpretive note
+-----------------
+Repeated text is reported but is not automatically removed. A repeated comment may represent genuine repeated posting rather than extraction duplication. Unique comment IDs are therefore the primary integrity check.

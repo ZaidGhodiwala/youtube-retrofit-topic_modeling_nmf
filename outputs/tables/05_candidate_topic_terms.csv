@@ -1,0 +1,1601 @@
+﻿representation,candidate_topic_count,topic_number,term_rank,term,term_weight
+inclusive_primary,8,1,1,insulation,2.2027114826732004
+inclusive_primary,8,1,2,wall,1.1374696979653984
+inclusive_primary,8,1,3,roof,1.132970781819342
+inclusive_primary,8,1,4,air,1.0949703048607846
+inclusive_primary,8,1,5,barrier,0.7926763640007395
+inclusive_primary,8,1,6,walls,0.725126961925
+inclusive_primary,8,1,7,floor,0.654069295553628
+inclusive_primary,8,1,8,moisture,0.5821912462038681
+inclusive_primary,8,1,9,cavity,0.5691743552008207
+inclusive_primary,8,1,10,between,0.5663963714927791
+inclusive_primary,8,1,11,cold,0.5544517849946553
+inclusive_primary,8,1,12,attic,0.5192523157049437
+inclusive_primary,8,1,13,vapour,0.5187658280398242
+inclusive_primary,8,1,14,no,0.5006384476626027
+inclusive_primary,8,1,15,inside,0.47271747709649764
+inclusive_primary,8,1,16,vents,0.44741182771312693
+inclusive_primary,8,1,17,house,0.4472475422327068
+inclusive_primary,8,1,18,gap,0.42938129190810537
+inclusive_primary,8,1,19,damp,0.4190059457948961
+inclusive_primary,8,1,20,warm,0.4081069254855671
+inclusive_primary,8,2,1,foam,2.625069746643644
+inclusive_primary,8,2,2,spray,1.9024956323166398
+inclusive_primary,8,2,3,spray foam,1.8235193332306714
+inclusive_primary,8,2,4,cell,0.3015289124916469
+inclusive_primary,8,2,5,use,0.2952993557085617
+inclusive_primary,8,2,6,foam insulation,0.26240783585182736
+inclusive_primary,8,2,7,closed,0.24554909140887635
+inclusive_primary,8,2,8,closed cell,0.24089426078180529
+inclusive_primary,8,2,9,expanding,0.21330028716610347
+inclusive_primary,8,2,10,foam board,0.21159852477675525
+inclusive_primary,8,2,11,board,0.20068172569075993
+inclusive_primary,8,2,12,expanding foam,0.19323524674831238
+inclusive_primary,8,2,13,cell spray,0.1720426281969652
+inclusive_primary,8,2,14,use spray,0.14924962139519374
+inclusive_primary,8,2,15,attic,0.12825040577255564
+inclusive_primary,8,2,16,foam not,0.12174003852119206
+inclusive_primary,8,2,17,seal,0.10791646183026321
+inclusive_primary,8,2,18,cell foam,0.10276145943599713
+inclusive_primary,8,2,19,wool,0.0989283225438356
+inclusive_primary,8,2,20,mortgage,0.0939744027683514
+inclusive_primary,8,3,1,what,3.4620544092336405
+inclusive_primary,8,3,2,what would,0.15499967824951633
+inclusive_primary,8,3,3,what happens,0.14766127961318665
+inclusive_primary,8,3,4,happens,0.14254331498275621
+inclusive_primary,8,3,5,what brand,0.13564460584660132
+inclusive_primary,8,3,6,using,0.1355882634769988
+inclusive_primary,8,3,7,know what,0.1354398418336123
+inclusive_primary,8,3,8,what did,0.13363982331070906
+inclusive_primary,8,3,9,what kind,0.13154624958056252
+inclusive_primary,8,3,10,brand,0.12864574590779276
+inclusive_primary,8,3,11,did,0.12337510141345617
+inclusive_primary,8,3,12,kind,0.1170012742105777
+inclusive_primary,8,3,13,what cost,0.11076254395868791
+inclusive_primary,8,3,14,what size,0.10966218357755249
+inclusive_primary,8,3,15,use,0.10576999214043467
+inclusive_primary,8,3,16,size,0.10384165596914756
+inclusive_primary,8,3,17,did use,0.09300424028549299
+inclusive_primary,8,3,18,know,0.09208208183936205
+inclusive_primary,8,3,19,called,0.09150259767953012
+inclusive_primary,8,3,20,cost,0.08676107870238638
+inclusive_primary,8,4,1,how,3.2584907902969618
+inclusive_primary,8,4,2,how did,0.4313066156889049
+inclusive_primary,8,4,3,cost,0.40274838014111697
+inclusive_primary,8,4,4,did,0.40138806676109196
+inclusive_primary,8,4,5,does,0.3910039240904215
+inclusive_primary,8,4,6,how does,0.3863778944661487
+inclusive_primary,8,4,7,how long,0.24676771591894794
+inclusive_primary,8,4,8,know,0.2359627017571845
+inclusive_primary,8,4,9,how would,0.21383168047577586
+inclusive_primary,8,4,10,long,0.20005831419847644
+inclusive_primary,8,4,11,know how,0.16022229943361335
+inclusive_primary,8,4,12,how cost,0.15786414096477908
+inclusive_primary,8,4,13,how know,0.12482626789669744
+inclusive_primary,8,4,14,video how,0.11144754148960455
+inclusive_primary,8,4,15,work,0.10764271559134707
+inclusive_primary,8,4,16,did cost,0.10101689312537286
+inclusive_primary,8,4,17,how fix,0.0968466654385564
+inclusive_primary,8,4,18,fix,0.09410966969808095
+inclusive_primary,8,4,19,does cost,0.0850355077826376
+inclusive_primary,8,4,20,how install,0.07331536511393062
+inclusive_primary,8,5,1,would,1.2943454373477281
+inclusive_primary,8,5,2,like,0.9907642378914702
+inclusive_primary,8,5,3,house,0.9508804786184514
+inclusive_primary,8,5,4,just,0.8818663432435314
+inclusive_primary,8,5,5,solar,0.7403648219018651
+inclusive_primary,8,5,6,more,0.7182893440870928
+inclusive_primary,8,5,7,when,0.6943185904217465
+inclusive_primary,8,5,8,never,0.6241822837270499
+inclusive_primary,8,5,9,years,0.6208671220018313
+inclusive_primary,8,5,10,good,0.5505686069458631
+inclusive_primary,8,5,11,time,0.5292012276692993
+inclusive_primary,8,5,12,no,0.5214139354728023
+inclusive_primary,8,5,13,need,0.5150465653578908
+inclusive_primary,8,5,14,panels,0.4860263096081688
+inclusive_primary,8,5,15,home,0.47943932886447016
+inclusive_primary,8,5,16,work,0.4766323184525108
+inclusive_primary,8,5,17,not,0.47521913698630464
+inclusive_primary,8,5,18,power,0.47397085007420536
+inclusive_primary,8,5,19,battery,0.46399539253243804
+inclusive_primary,8,5,20,could,0.451645344278084
+inclusive_primary,8,6,1,video,1.9614870557006752
+inclusive_primary,8,6,2,great,1.5139641877018322
+inclusive_primary,8,6,3,great video,1.1901865577055566
+inclusive_primary,8,6,4,thanks,1.0347585602393545
+inclusive_primary,8,6,5,thank,0.43879561245002424
+inclusive_primary,8,6,6,hi,0.2837824860254609
+inclusive_primary,8,6,7,video thanks,0.26800324543840104
+inclusive_primary,8,6,8,thanks video,0.23483812232562373
+inclusive_primary,8,6,9,thermostat,0.19957839564116583
+inclusive_primary,8,6,10,question,0.19524077969411044
+inclusive_primary,8,6,11,videos,0.18126654736140937
+inclusive_primary,8,6,12,informative,0.16954790930080296
+inclusive_primary,8,6,13,thanks great,0.12516671527572867
+inclusive_primary,8,6,14,helpful,0.12242648679258235
+inclusive_primary,8,6,15,did,0.12168415149488856
+inclusive_primary,8,6,16,video what,0.12166598638007105
+inclusive_primary,8,6,17,wire,0.12155904828704378
+inclusive_primary,8,6,18,job,0.11871556101580027
+inclusive_primary,8,6,19,where,0.11562645310002391
+inclusive_primary,8,6,20,sharing,0.11080050744496299
+inclusive_primary,8,7,1,not,2.19485858876296
+inclusive_primary,8,7,2,why,1.5888437245124276
+inclusive_primary,8,7,3,did,0.7479254864735059
+inclusive_primary,8,7,4,does,0.6550926152652456
+inclusive_primary,8,7,5,why not,0.6534266369881795
+inclusive_primary,8,7,6,did not,0.5150895040423914
+inclusive_primary,8,7,7,does not,0.5034023924093802
+inclusive_primary,8,7,8,use,0.40419211910923203
+inclusive_primary,8,7,9,wire,0.2927169907591251
+inclusive_primary,8,7,10,not use,0.2707242174139186
+inclusive_primary,8,7,11,just,0.26439896250982176
+inclusive_primary,8,7,12,not just,0.24552823745876007
+inclusive_primary,8,7,13,why did,0.2423487058181439
+inclusive_primary,8,7,14,why would,0.1995023721411482
+inclusive_primary,8,7,15,not know,0.18636913072382483
+inclusive_primary,8,7,16,thermostat,0.18607945634589154
+inclusive_primary,8,7,17,know,0.1828867086318748
+inclusive_primary,8,7,18,not work,0.1777967106879907
+inclusive_primary,8,7,19,would not,0.1699445099948021
+inclusive_primary,8,7,20,work,0.16151856175004128
+inclusive_primary,8,8,1,heat,2.3000291676778732
+inclusive_primary,8,8,2,pump,1.5219423204069524
+inclusive_primary,8,8,3,heat pump,1.4209111179765248
+inclusive_primary,8,8,4,water,0.6888779118084504
+inclusive_primary,8,8,5,heating,0.620435751456225
+inclusive_primary,8,8,6,gas,0.5866489087425628
+inclusive_primary,8,8,7,boiler,0.5416277132012528
+inclusive_primary,8,8,8,air,0.5172276158574703
+inclusive_primary,8,8,9,pumps,0.5026062462367396
+inclusive_primary,8,8,10,heat pumps,0.4699112392410345
+inclusive_primary,8,8,11,hot,0.46162213848266226
+inclusive_primary,8,8,12,temperature,0.3855518775356396
+inclusive_primary,8,8,13,hot water,0.3672452511369207
+inclusive_primary,8,8,14,cold,0.31498384220708087
+inclusive_primary,8,8,15,radiators,0.27729720314258244
+inclusive_primary,8,8,16,electric,0.2651219968873016
+inclusive_primary,8,8,17,furnace,0.25937312009006475
+inclusive_primary,8,8,18,flow,0.23224531579302934
+inclusive_primary,8,8,19,room,0.22484746394944755
+inclusive_primary,8,8,20,heater,0.21818428858589412
+inclusive_primary,10,1,1,insulation,2.274606757451984
+inclusive_primary,10,1,2,wall,1.1741397880894036
+inclusive_primary,10,1,3,roof,1.1565330315452467
+inclusive_primary,10,1,4,air,1.1135125252846076
+inclusive_primary,10,1,5,barrier,0.8104308831705797
+inclusive_primary,10,1,6,walls,0.7608366208713156
+inclusive_primary,10,1,7,floor,0.678216872732463
+inclusive_primary,10,1,8,moisture,0.5934348629928072
+inclusive_primary,10,1,9,cavity,0.5905387869406347
+inclusive_primary,10,1,10,cold,0.5846049933452766
+inclusive_primary,10,1,11,between,0.581712072007997
+inclusive_primary,10,1,12,no,0.5517139058542168
+inclusive_primary,10,1,13,attic,0.5365632998163787
+inclusive_primary,10,1,14,vapour,0.5312684527332421
+inclusive_primary,10,1,15,house,0.5146666001565763
+inclusive_primary,10,1,16,inside,0.4915688695343042
+inclusive_primary,10,1,17,vents,0.46135526293574747
+inclusive_primary,10,1,18,damp,0.44714889808250985
+inclusive_primary,10,1,19,gap,0.4413121680447659
+inclusive_primary,10,1,20,warm,0.42949791925419617
+inclusive_primary,10,2,1,foam,2.5890394621592927
+inclusive_primary,10,2,2,spray,1.8766613780276982
+inclusive_primary,10,2,3,spray foam,1.7987886612584176
+inclusive_primary,10,2,4,cell,0.2972677740007214
+inclusive_primary,10,2,5,use,0.29113985824085287
+inclusive_primary,10,2,6,foam insulation,0.2589486343228951
+inclusive_primary,10,2,7,closed,0.242042101465808
+inclusive_primary,10,2,8,closed cell,0.23755422301150614
+inclusive_primary,10,2,9,expanding,0.21032274447302776
+inclusive_primary,10,2,10,foam board,0.20908947092738653
+inclusive_primary,10,2,11,board,0.19863479741533974
+inclusive_primary,10,2,12,expanding foam,0.19056393971225014
+inclusive_primary,10,2,13,cell spray,0.16966818854194612
+inclusive_primary,10,2,14,use spray,0.1478447177513309
+inclusive_primary,10,2,15,attic,0.12677632255730736
+inclusive_primary,10,2,16,foam not,0.11987422182585727
+inclusive_primary,10,2,17,seal,0.10694352105185481
+inclusive_primary,10,2,18,cell foam,0.10123742014678852
+inclusive_primary,10,2,19,wool,0.0977755499985784
+inclusive_primary,10,2,20,mortgage,0.09285268158997317
+inclusive_primary,10,3,1,what,3.4277847087352544
+inclusive_primary,10,3,2,what would,0.15154471731473135
+inclusive_primary,10,3,3,what happens,0.14551005344725518
+inclusive_primary,10,3,4,happens,0.14044249734507935
+inclusive_primary,10,3,5,using,0.13517077449625295
+inclusive_primary,10,3,6,what brand,0.13370546048537416
+inclusive_primary,10,3,7,know what,0.1320127671238964
+inclusive_primary,10,3,8,what did,0.130696171554737
+inclusive_primary,10,3,9,what kind,0.13028245100450786
+inclusive_primary,10,3,10,brand,0.1267119615403911
+inclusive_primary,10,3,11,kind,0.11571854238804491
+inclusive_primary,10,3,12,use,0.11060563513088294
+inclusive_primary,10,3,13,what cost,0.10853391707491787
+inclusive_primary,10,3,14,what size,0.1074094692466528
+inclusive_primary,10,3,15,size,0.1023749823746131
+inclusive_primary,10,3,16,did,0.09960464777579842
+inclusive_primary,10,3,17,did use,0.09125100871970489
+inclusive_primary,10,3,18,called,0.09023378089691626
+inclusive_primary,10,3,19,know,0.08589740871729727
+inclusive_primary,10,3,20,what type,0.08571406018819766
+inclusive_primary,10,4,1,how,3.1831074249411824
+inclusive_primary,10,4,2,how did,0.3969284438770205
+inclusive_primary,10,4,3,cost,0.3712666871128442
+inclusive_primary,10,4,4,how does,0.3386820099446075
+inclusive_primary,10,4,5,did,0.31328058080692667
+inclusive_primary,10,4,6,how long,0.24009817816823636
+inclusive_primary,10,4,7,know,0.21613180561432363
+inclusive_primary,10,4,8,does,0.20947325726636556
+inclusive_primary,10,4,9,how would,0.207721007904566
+inclusive_primary,10,4,10,long,0.19338549726588258
+inclusive_primary,10,4,11,know how,0.15520585475861107
+inclusive_primary,10,4,12,how cost,0.15428027643629882
+inclusive_primary,10,4,13,how know,0.12213645554408618
+inclusive_primary,10,4,14,video how,0.11007320144059739
+inclusive_primary,10,4,15,how fix,0.09550856799905305
+inclusive_primary,10,4,16,fix,0.09239021636523963
+inclusive_primary,10,4,17,did cost,0.09223750026124078
+inclusive_primary,10,4,18,does cost,0.07530493707041648
+inclusive_primary,10,4,19,how install,0.0717943692317519
+inclusive_primary,10,4,20,work,0.06657852598453778
+inclusive_primary,10,5,1,heat,2.342636665130145
+inclusive_primary,10,5,2,pump,1.5409255932536154
+inclusive_primary,10,5,3,heat pump,1.4352903223419067
+inclusive_primary,10,5,4,water,0.7432227451641111
+inclusive_primary,10,5,5,heating,0.7114716489485893
+inclusive_primary,10,5,6,gas,0.6186295035739436
+inclusive_primary,10,5,7,boiler,0.5935216333157576
+inclusive_primary,10,5,8,air,0.5178236343586845
+inclusive_primary,10,5,9,pumps,0.5117958435304529
+inclusive_primary,10,5,10,hot,0.5026420742449992
+inclusive_primary,10,5,11,heat pumps,0.47798971049051375
+inclusive_primary,10,5,12,temperature,0.43425143935707106
+inclusive_primary,10,5,13,hot water,0.39749150167921427
+inclusive_primary,10,5,14,cold,0.3452272157376912
+inclusive_primary,10,5,15,radiators,0.3126108921545812
+inclusive_primary,10,5,16,electric,0.27871187052277613
+inclusive_primary,10,5,17,room,0.2772043137583716
+inclusive_primary,10,5,18,furnace,0.2525608611059895
+inclusive_primary,10,5,19,flow,0.2521252724799689
+inclusive_primary,10,5,20,house,0.23296690240681808
+inclusive_primary,10,6,1,video,1.9000738508506367
+inclusive_primary,10,6,2,great,1.4742925430495508
+inclusive_primary,10,6,3,great video,1.1571637690294583
+inclusive_primary,10,6,4,thanks,0.9960785484567385
+inclusive_primary,10,6,5,thank,0.42588240146792505
+inclusive_primary,10,6,6,hi,0.26744939542461105
+inclusive_primary,10,6,7,video thanks,0.2603890748741247
+inclusive_primary,10,6,8,thanks video,0.22676316783804196
+inclusive_primary,10,6,9,question,0.18690225816666492
+inclusive_primary,10,6,10,videos,0.17821211108708
+inclusive_primary,10,6,11,informative,0.16488648911628326
+inclusive_primary,10,6,12,thermostat,0.13248221122721474
+inclusive_primary,10,6,13,thanks great,0.1215126260050066
+inclusive_primary,10,6,14,video what,0.11835264401252929
+inclusive_primary,10,6,15,helpful,0.11797541182642256
+inclusive_primary,10,6,16,job,0.11671309304954453
+inclusive_primary,10,6,17,excellent,0.10807902092580965
+inclusive_primary,10,6,18,sharing,0.10707793759869356
+inclusive_primary,10,6,19,nice,0.10583915129549398
+inclusive_primary,10,6,20,really,0.10004306857417622
+inclusive_primary,10,7,1,why,2.5834984110901895
+inclusive_primary,10,7,2,why not,0.9180762520755226
+inclusive_primary,10,7,3,use,0.420765629642938
+inclusive_primary,10,7,4,why would,0.3586193233777038
+inclusive_primary,10,7,5,not,0.3076849866319845
+inclusive_primary,10,7,6,why did,0.29892900271775374
+inclusive_primary,10,7,7,not just,0.24326389791039127
+inclusive_primary,10,7,8,did,0.22422126480416715
+inclusive_primary,10,7,9,just,0.2208450033828918
+inclusive_primary,10,7,10,not use,0.1983356187125098
+inclusive_primary,10,7,11,would,0.14447554172189186
+inclusive_primary,10,7,12,instead,0.1119237989371973
+inclusive_primary,10,7,13,did not,0.102864417324775
+inclusive_primary,10,7,14,tape,0.09593455307912553
+inclusive_primary,10,7,15,why does,0.09372837817024837
+inclusive_primary,10,7,16,just use,0.09281054632306712
+inclusive_primary,10,7,17,why use,0.08932250909904621
+inclusive_primary,10,7,18,illegal,0.08578269472573344
+inclusive_primary,10,7,19,know why,0.07677208482451008
+inclusive_primary,10,7,20,why no,0.07129987397018878
+inclusive_primary,10,8,1,would,0.91680914467054
+inclusive_primary,10,8,2,like,0.6811737764491567
+inclusive_primary,10,8,3,house,0.6103942536969444
+inclusive_primary,10,8,4,solar,0.571537632295683
+inclusive_primary,10,8,5,just,0.5517612053061172
+inclusive_primary,10,8,6,more,0.48076671861289094
+inclusive_primary,10,8,7,never,0.45746605729560946
+inclusive_primary,10,8,8,years,0.4238469050810492
+inclusive_primary,10,8,9,panels,0.3821989954563562
+inclusive_primary,10,8,10,when,0.3527323967670394
+inclusive_primary,10,8,11,battery,0.3502497078969301
+inclusive_primary,10,8,12,use,0.33939528344991343
+inclusive_primary,10,8,13,good,0.3366146667209109
+inclusive_primary,10,8,14,cost,0.32905399333924956
+inclusive_primary,10,8,15,time,0.32578321639112556
+inclusive_primary,10,8,16,power,0.3210043773219085
+inclusive_primary,10,8,17,no,0.3101380548248488
+inclusive_primary,10,8,18,home,0.2994554150671703
+inclusive_primary,10,8,19,could,0.2769434760457024
+inclusive_primary,10,8,20,energy,0.2756307518593105
+inclusive_primary,10,9,1,not,2.287351017309205
+inclusive_primary,10,9,2,does,1.0651011139672493
+inclusive_primary,10,9,3,does not,0.6785693395372684
+inclusive_primary,10,9,4,thermostat,0.45134368772402633
+inclusive_primary,10,9,5,work,0.4364400994464658
+inclusive_primary,10,9,6,wire,0.4136971267421787
+inclusive_primary,10,9,7,did not,0.3155719292642159
+inclusive_primary,10,9,8,need,0.28225798516409745
+inclusive_primary,10,9,9,know,0.25465793859038494
+inclusive_primary,10,9,10,not work,0.23746509589076792
+inclusive_primary,10,9,11,not know,0.20309507577586078
+inclusive_primary,10,9,12,when,0.2008480634235392
+inclusive_primary,10,9,13,did,0.20042533966721426
+inclusive_primary,10,9,14,not need,0.19349069456535428
+inclusive_primary,10,9,15,wires,0.18534684090732895
+inclusive_primary,10,9,16,just,0.18294003927042274
+inclusive_primary,10,9,17,boiler,0.17377731270919392
+inclusive_primary,10,9,18,sure,0.1571380804881042
+inclusive_primary,10,9,19,nest,0.15208779375145956
+inclusive_primary,10,9,20,would not,0.14399705839181376
+inclusive_primary,10,10,1,where,2.72465066517081
+inclusive_primary,10,10,2,did,1.020261054608057
+inclusive_primary,10,10,3,where did,0.4272136647448894
+inclusive_primary,10,10,4,buy,0.3647083774587742
+inclusive_primary,10,10,5,where buy,0.32592707820789896
+inclusive_primary,10,10,6,did not,0.26847751338855513
+inclusive_primary,10,10,7,how did,0.1530545688971754
+inclusive_primary,10,10,8,where does,0.11343248615596399
+inclusive_primary,10,10,9,link,0.09163934865916663
+inclusive_primary,10,10,10,know where,0.08890502924831549
+inclusive_primary,10,10,11,live,0.08681219154691429
+inclusive_primary,10,10,12,did use,0.0865086290690128
+inclusive_primary,10,10,13,what did,0.08626517083318432
+inclusive_primary,10,10,14,why did,0.08074302284141262
+inclusive_primary,10,10,15,located,0.07286124001584153
+inclusive_primary,10,10,16,where live,0.06901923591563913
+inclusive_primary,10,10,17,video where,0.06365359795349282
+inclusive_primary,10,10,18,wire,0.06130803826725927
+inclusive_primary,10,10,19,where would,0.05638823981959564
+inclusive_primary,10,10,20,based,0.05579387498794642
+inclusive_primary,12,1,1,not,1.7498808335303755
+inclusive_primary,12,1,2,would,1.475365362236074
+inclusive_primary,12,1,3,house,1.4137662942993825
+inclusive_primary,12,1,4,like,1.2640623290187134
+inclusive_primary,12,1,5,just,1.2155074583081071
+inclusive_primary,12,1,6,good,0.7660004995648819
+inclusive_primary,12,1,7,when,0.7458954608798525
+inclusive_primary,12,1,8,never,0.7422135528370221
+inclusive_primary,12,1,9,years,0.720205669961848
+inclusive_primary,12,1,10,more,0.6888496445064188
+inclusive_primary,12,1,11,no,0.5986163177930601
+inclusive_primary,12,1,12,time,0.5695789386738948
+inclusive_primary,12,1,13,could,0.5694838200220084
+inclusive_primary,12,1,14,old,0.5667186654862506
+inclusive_primary,12,1,15,new,0.523714604679789
+inclusive_primary,12,1,16,think,0.511804553438392
+inclusive_primary,12,1,17,work,0.4893254632987507
+inclusive_primary,12,1,18,really,0.48840732429139455
+inclusive_primary,12,1,19,way,0.48543718141673387
+inclusive_primary,12,1,20,people,0.46235812461120845
+inclusive_primary,12,2,1,foam,2.6466903806960604
+inclusive_primary,12,2,2,spray,1.9211356171515925
+inclusive_primary,12,2,3,spray foam,1.8417379946990313
+inclusive_primary,12,2,4,cell,0.30427004919090067
+inclusive_primary,12,2,5,use,0.29604367049279995
+inclusive_primary,12,2,6,foam insulation,0.258156782963977
+inclusive_primary,12,2,7,closed,0.2467242969753032
+inclusive_primary,12,2,8,closed cell,0.24305385756347117
+inclusive_primary,12,2,9,expanding,0.21452426863361176
+inclusive_primary,12,2,10,foam board,0.21274721560044008
+inclusive_primary,12,2,11,board,0.1995429208463355
+inclusive_primary,12,2,12,expanding foam,0.19410778802553155
+inclusive_primary,12,2,13,cell spray,0.1737373384970236
+inclusive_primary,12,2,14,use spray,0.1511340814267706
+inclusive_primary,12,2,15,foam not,0.12461859572247945
+inclusive_primary,12,2,16,attic,0.12457489863157208
+inclusive_primary,12,2,17,seal,0.10974639197344872
+inclusive_primary,12,2,18,cell foam,0.10355058205931231
+inclusive_primary,12,2,19,wool,0.09574590195006177
+inclusive_primary,12,2,20,mortgage,0.09469414637800964
+inclusive_primary,12,3,1,what,3.418996843803466
+inclusive_primary,12,3,2,what would,0.15502711235816274
+inclusive_primary,12,3,3,what happens,0.14479789037252544
+inclusive_primary,12,3,4,happens,0.13968195610970666
+inclusive_primary,12,3,5,what brand,0.13342481359428227
+inclusive_primary,12,3,6,what did,0.13184562036586953
+inclusive_primary,12,3,7,using,0.13145865837266713
+inclusive_primary,12,3,8,know what,0.1311378029503759
+inclusive_primary,12,3,9,what kind,0.12921913823803413
+inclusive_primary,12,3,10,brand,0.12655409152369626
+inclusive_primary,12,3,11,kind,0.11503739954011769
+inclusive_primary,12,3,12,what cost,0.10762937334520863
+inclusive_primary,12,3,13,did,0.10637573973385755
+inclusive_primary,12,3,14,what size,0.10582828432196706
+inclusive_primary,12,3,15,use,0.10498956131911778
+inclusive_primary,12,3,16,size,0.10116435199779278
+inclusive_primary,12,3,17,cost,0.09527151886715023
+inclusive_primary,12,3,18,did use,0.0919797749683937
+inclusive_primary,12,3,19,called,0.09006192492891377
+inclusive_primary,12,3,20,know,0.08618959804410319
+inclusive_primary,12,4,1,how,3.2113435082669466
+inclusive_primary,12,4,2,how did,0.4207707351614571
+inclusive_primary,12,4,3,did,0.3924053067230881
+inclusive_primary,12,4,4,cost,0.3913444235705619
+inclusive_primary,12,4,5,how does,0.2798739923032258
+inclusive_primary,12,4,6,how long,0.24096858403795826
+inclusive_primary,12,4,7,know,0.22887830414473864
+inclusive_primary,12,4,8,how would,0.2163362213591157
+inclusive_primary,12,4,9,long,0.19640878513506357
+inclusive_primary,12,4,10,know how,0.1588461179563854
+inclusive_primary,12,4,11,how cost,0.1563672543041416
+inclusive_primary,12,4,12,how know,0.12395616972707005
+inclusive_primary,12,4,13,video how,0.11156483199347407
+inclusive_primary,12,4,14,did cost,0.09852126368274168
+inclusive_primary,12,4,15,how fix,0.0962830725222316
+inclusive_primary,12,4,16,fix,0.09500421213797056
+inclusive_primary,12,4,17,would,0.07859246413920021
+inclusive_primary,12,4,18,how install,0.07254278039319588
+inclusive_primary,12,4,19,not how,0.06573045451837262
+inclusive_primary,12,4,20,insulate,0.06405692270617723
+inclusive_primary,12,5,1,heat,2.3958700465588723
+inclusive_primary,12,5,2,pump,1.6141357610912266
+inclusive_primary,12,5,3,heat pump,1.5069870640638978
+inclusive_primary,12,5,4,water,0.6805846257224046
+inclusive_primary,12,5,5,heating,0.6517855943327375
+inclusive_primary,12,5,6,gas,0.6505486563498418
+inclusive_primary,12,5,7,boiler,0.5664785981661101
+inclusive_primary,12,5,8,pumps,0.5295895790786899
+inclusive_primary,12,5,9,heat pumps,0.496010487613846
+inclusive_primary,12,5,10,hot,0.43365596914883486
+inclusive_primary,12,5,11,hot water,0.3773621134725339
+inclusive_primary,12,5,12,temperature,0.37434050093373533
+inclusive_primary,12,5,13,electric,0.31502441206992937
+inclusive_primary,12,5,14,radiators,0.28298780993372974
+inclusive_primary,12,5,15,furnace,0.24797345675239904
+inclusive_primary,12,5,16,air,0.24346394860607146
+inclusive_primary,12,5,17,heater,0.22656418118136726
+inclusive_primary,12,5,18,run,0.20776298573115945
+inclusive_primary,12,5,19,cold,0.20570401279984316
+inclusive_primary,12,5,20,loss,0.20405015932140427
+inclusive_primary,12,6,1,video,1.9169940769073868
+inclusive_primary,12,6,2,great,1.494307339639676
+inclusive_primary,12,6,3,great video,1.1752405846914407
+inclusive_primary,12,6,4,thanks,0.9893886634866162
+inclusive_primary,12,6,5,thank,0.4155401488005742
+inclusive_primary,12,6,6,video thanks,0.26314435080959725
+inclusive_primary,12,6,7,hi,0.2573136998187544
+inclusive_primary,12,6,8,thanks video,0.22666048471846031
+inclusive_primary,12,6,9,question,0.1840905263700873
+inclusive_primary,12,6,10,videos,0.17564322435145313
+inclusive_primary,12,6,11,informative,0.16576847187758187
+inclusive_primary,12,6,12,thanks great,0.12268547589893138
+inclusive_primary,12,6,13,video what,0.12057088739240245
+inclusive_primary,12,6,14,helpful,0.11630340671776235
+inclusive_primary,12,6,15,excellent,0.1077998219154179
+inclusive_primary,12,6,16,sharing,0.10658434135326512
+inclusive_primary,12,6,17,nice,0.10559350328227536
+inclusive_primary,12,6,18,job,0.10308824725120265
+inclusive_primary,12,6,19,video how,0.09907506137834023
+inclusive_primary,12,6,20,video thank,0.09498775729412208
+inclusive_primary,12,7,1,why,2.4664447197014248
+inclusive_primary,12,7,2,not,0.9544139890289917
+inclusive_primary,12,7,3,why not,0.9314695019909887
+inclusive_primary,12,7,4,use,0.40535079137116936
+inclusive_primary,12,7,5,did,0.3916133823325167
+inclusive_primary,12,7,6,why would,0.3342980028991578
+inclusive_primary,12,7,7,why did,0.3130800284436565
+inclusive_primary,12,7,8,did not,0.26949528272776313
+inclusive_primary,12,7,9,not just,0.2653131466970996
+inclusive_primary,12,7,10,not use,0.2547240166727844
+inclusive_primary,12,7,11,just,0.18610106738864055
+inclusive_primary,12,7,12,instead,0.10355912194197436
+inclusive_primary,12,7,13,would not,0.10273883610564316
+inclusive_primary,12,7,14,just use,0.08455008689817606
+inclusive_primary,12,7,15,would,0.08349128446550315
+inclusive_primary,12,7,16,why use,0.08150946171849795
+inclusive_primary,12,7,17,understand,0.08092837021389164
+inclusive_primary,12,7,18,know why,0.07957931177215066
+inclusive_primary,12,7,19,why does,0.07901441314484875
+inclusive_primary,12,7,20,illegal,0.07742537566128908
+inclusive_primary,12,8,1,solar,1.4083623794680473
+inclusive_primary,12,8,2,panels,0.9806214568512117
+inclusive_primary,12,8,3,battery,0.7371931978788082
+inclusive_primary,12,8,4,solar panels,0.5658407432826761
+inclusive_primary,12,8,5,power,0.5214411330798535
+inclusive_primary,12,8,6,panel,0.44357706741348263
+inclusive_primary,12,8,7,inverter,0.3881917576699234
+inclusive_primary,12,8,8,batteries,0.379803839892358
+inclusive_primary,12,8,9,grid,0.32812751029520576
+inclusive_primary,12,8,10,cost,0.29725409979451783
+inclusive_primary,12,8,11,charge,0.28308887472312655
+inclusive_primary,12,8,12,energy,0.256038521456502
+inclusive_primary,12,8,13,use,0.25384944884600985
+inclusive_primary,12,8,14,solar panel,0.21989865121970786
+inclusive_primary,12,8,15,electric,0.1862066910167877
+inclusive_primary,12,8,16,kwh,0.17837687230845845
+inclusive_primary,12,8,17,need,0.16639902415446972
+inclusive_primary,12,8,18,electricity,0.1601817206330938
+inclusive_primary,12,8,19,more,0.15232179341917498
+inclusive_primary,12,8,20,day,0.1346992354379142
+inclusive_primary,12,9,1,does,1.8052898599454537
+inclusive_primary,12,9,2,does not,0.8605032181968103
+inclusive_primary,12,9,3,wire,0.8014692035580351
+inclusive_primary,12,9,4,thermostat,0.7976342306422245
+inclusive_primary,12,9,5,not,0.7942602980897961
+inclusive_primary,12,9,6,work,0.5370857097310296
+inclusive_primary,12,9,7,wires,0.32569795996962164
+inclusive_primary,12,9,8,how does,0.28374681684643294
+inclusive_primary,12,9,9,boiler,0.28155220401109304
+inclusive_primary,12,9,10,need,0.2757864583287295
+inclusive_primary,12,9,11,nest,0.2741993586966009
+inclusive_primary,12,9,12,not work,0.25400790610277274
+inclusive_primary,12,9,13,does work,0.24889943289723473
+inclusive_primary,12,9,14,connected,0.17488746009502568
+inclusive_primary,12,9,15,blue,0.1713946680016346
+inclusive_primary,12,9,16,red,0.16607072688846963
+inclusive_primary,12,9,17,connect,0.16584728611953442
+inclusive_primary,12,9,18,smart,0.16056899280993622
+inclusive_primary,12,9,19,hive,0.14576656716921793
+inclusive_primary,12,9,20,white,0.1339646430748687
+inclusive_primary,12,10,1,where,3.0466715704156724
+inclusive_primary,12,10,2,did,0.8273780545352879
+inclusive_primary,12,10,3,where did,0.4475467563988704
+inclusive_primary,12,10,4,buy,0.41221640181361063
+inclusive_primary,12,10,5,where buy,0.36856441921304384
+inclusive_primary,12,10,6,did not,0.20864966151511283
+inclusive_primary,12,10,7,where does,0.12367563356981798
+inclusive_primary,12,10,8,how did,0.10610020743190789
+inclusive_primary,12,10,9,link,0.10311636028950603
+inclusive_primary,12,10,10,know where,0.10040145228914084
+inclusive_primary,12,10,11,live,0.0935725688521905
+inclusive_primary,12,10,12,located,0.082430399690243
+inclusive_primary,12,10,13,where live,0.07726781882825376
+inclusive_primary,12,10,14,video where,0.07176874042007073
+inclusive_primary,12,10,15,wire,0.07038436118571739
+inclusive_primary,12,10,16,where would,0.06412993281144963
+inclusive_primary,12,10,17,what did,0.0640711033913622
+inclusive_primary,12,10,18,did use,0.06332065999099862
+inclusive_primary,12,10,19,based,0.062472625285886166
+inclusive_primary,12,10,20,hi,0.05857414285994888
+inclusive_primary,12,11,1,insulation,2.6723500316384863
+inclusive_primary,12,11,2,wall,1.36668031861918
+inclusive_primary,12,11,3,barrier,0.8410394183616761
+inclusive_primary,12,11,4,cavity,0.6741975779221735
+inclusive_primary,12,11,5,walls,0.6560830946034782
+inclusive_primary,12,11,6,floor,0.6161588898450082
+inclusive_primary,12,11,7,vapour,0.529242771302336
+inclusive_primary,12,11,8,vapour barrier,0.44310532616348375
+inclusive_primary,12,11,9,vapor,0.4374231285318212
+inclusive_primary,12,11,10,wall insulation,0.42126058627751645
+inclusive_primary,12,11,11,between,0.41922925515688203
+inclusive_primary,12,11,12,board,0.38362283140190584
+inclusive_primary,12,11,13,vapor barrier,0.3663420227040704
+inclusive_primary,12,11,14,cavity wall,0.34008454469903787
+inclusive_primary,12,11,15,moisture,0.3334245812500092
+inclusive_primary,12,11,16,inside,0.3060981655693316
+inclusive_primary,12,11,17,brick,0.2970660919800127
+inclusive_primary,12,11,18,concrete,0.2904754595034555
+inclusive_primary,12,11,19,damp,0.2842122802487393
+inclusive_primary,12,11,20,plaster,0.2663985737404823
+inclusive_primary,12,12,1,air,1.5965499160505618
+inclusive_primary,12,12,2,roof,1.5145035319742213
+inclusive_primary,12,12,3,vents,0.7062574182213179
+inclusive_primary,12,12,4,attic,0.6744830597906278
+inclusive_primary,12,12,5,cold,0.6731068096890306
+inclusive_primary,12,12,6,vent,0.5392888495750174
+inclusive_primary,12,12,7,warm,0.4851976625145972
+inclusive_primary,12,12,8,ventilation,0.3755943103162436
+inclusive_primary,12,12,9,ridge,0.37052314332003056
+inclusive_primary,12,12,10,soffit,0.31056451735386115
+inclusive_primary,12,12,11,gap,0.2828182638827012
+inclusive_primary,12,12,12,space,0.27947676772873836
+inclusive_primary,12,12,13,warm roof,0.26018783496080417
+inclusive_primary,12,12,14,through,0.2527076558902474
+inclusive_primary,12,12,15,condensation,0.25146766307355006
+inclusive_primary,12,12,16,moisture,0.24921246607719225
+inclusive_primary,12,12,17,ceiling,0.2455514540595341
+inclusive_primary,12,12,18,cold air,0.2444626711724255
+inclusive_primary,12,12,19,fan,0.24220773652877337
+inclusive_primary,12,12,20,flow,0.21972177778756652
+inclusive_primary,14,1,1,insulation,3.8769464068182877
+inclusive_primary,14,1,2,wall,1.9130816069868808
+inclusive_primary,14,1,3,cavity,0.99090781877168
+inclusive_primary,14,1,4,walls,0.7770214606711567
+inclusive_primary,14,1,5,floor,0.7428501642773369
+inclusive_primary,14,1,6,wall insulation,0.6431923199562193
+inclusive_primary,14,1,7,cavity wall,0.5211185606412687
+inclusive_primary,14,1,8,would,0.5127556308329263
+inclusive_primary,14,1,9,board,0.46382967131348646
+inclusive_primary,14,1,10,between,0.45910742712912167
+inclusive_primary,14,1,11,brick,0.3824785653540802
+inclusive_primary,14,1,12,loft,0.33330105829359374
+inclusive_primary,14,1,13,plaster,0.33257548618053817
+inclusive_primary,14,1,14,boards,0.3310514468133112
+inclusive_primary,14,1,15,concrete,0.32739299687863727
+inclusive_primary,14,1,16,gap,0.3088665041376472
+inclusive_primary,14,1,17,damp,0.3035522485643055
+inclusive_primary,14,1,18,external,0.28735396262670504
+inclusive_primary,14,1,19,exterior,0.28024791556468126
+inclusive_primary,14,1,20,wool,0.27769440156008296
+inclusive_primary,14,2,1,foam,2.69845036130955
+inclusive_primary,14,2,2,spray,1.954660661118027
+inclusive_primary,14,2,3,spray foam,1.8734187952884058
+inclusive_primary,14,2,4,use,0.31374675780888567
+inclusive_primary,14,2,5,cell,0.3086881170703267
+inclusive_primary,14,2,6,foam insulation,0.2608864714365725
+inclusive_primary,14,2,7,closed,0.2511500632972146
+inclusive_primary,14,2,8,closed cell,0.24716696810210267
+inclusive_primary,14,2,9,expanding,0.21930905960476987
+inclusive_primary,14,2,10,foam board,0.21838341225282848
+inclusive_primary,14,2,11,board,0.20791311086827113
+inclusive_primary,14,2,12,expanding foam,0.19853514125917449
+inclusive_primary,14,2,13,cell spray,0.17680105308080396
+inclusive_primary,14,2,14,use spray,0.15421102368575926
+inclusive_primary,14,2,15,attic,0.13916780944744528
+inclusive_primary,14,2,16,foam not,0.12348767815054607
+inclusive_primary,14,2,17,seal,0.11681830570512804
+inclusive_primary,14,2,18,cell foam,0.10459459310361709
+inclusive_primary,14,2,19,wool,0.09970476224301049
+inclusive_primary,14,2,20,mortgage,0.09643965172177621
+inclusive_primary,14,3,1,what,3.42599717479564
+inclusive_primary,14,3,2,what would,0.14588939291016645
+inclusive_primary,14,3,3,what happens,0.14533721511002254
+inclusive_primary,14,3,4,happens,0.14064750920417352
+inclusive_primary,14,3,5,what brand,0.13341103529737677
+inclusive_primary,14,3,6,know what,0.13257931654111021
+inclusive_primary,14,3,7,using,0.13242495514633043
+inclusive_primary,14,3,8,what kind,0.1290868327563508
+inclusive_primary,14,3,9,brand,0.1262784911513186
+inclusive_primary,14,3,10,kind,0.11581051758396418
+inclusive_primary,14,3,11,what did,0.1063202791429073
+inclusive_primary,14,3,12,what cost,0.1045955550278705
+inclusive_primary,14,3,13,what size,0.10358609974998224
+inclusive_primary,14,3,14,size,0.09913196800734639
+inclusive_primary,14,3,15,know,0.09281318453884047
+inclusive_primary,14,3,16,called,0.09149449655677476
+inclusive_primary,14,3,17,use,0.08564565941937959
+inclusive_primary,14,3,18,doing,0.08421145957060534
+inclusive_primary,14,3,19,what type,0.08396704183221194
+inclusive_primary,14,3,20,type,0.07951132195001089
+inclusive_primary,14,4,1,how,3.2916816887109586
+inclusive_primary,14,4,2,how does,0.3595938520872152
+inclusive_primary,14,4,3,cost,0.3270226387202386
+inclusive_primary,14,4,4,how did,0.2818959607728625
+inclusive_primary,14,4,5,does,0.2526452892614132
+inclusive_primary,14,4,6,how long,0.2487232416902745
+inclusive_primary,14,4,7,know,0.23096784223230885
+inclusive_primary,14,4,8,how would,0.20931381486347336
+inclusive_primary,14,4,9,long,0.20231733707297955
+inclusive_primary,14,4,10,know how,0.16240573364799302
+inclusive_primary,14,4,11,how cost,0.1551555486744473
+inclusive_primary,14,4,12,how know,0.1271962895194999
+inclusive_primary,14,4,13,video how,0.11315497800321699
+inclusive_primary,14,4,14,how fix,0.09913775198257616
+inclusive_primary,14,4,15,fix,0.08883956967738375
+inclusive_primary,14,4,16,work,0.07962343025897463
+inclusive_primary,14,4,17,does cost,0.07844657332069455
+inclusive_primary,14,4,18,how install,0.07400034614298028
+inclusive_primary,14,4,19,not how,0.06261120426986341
+inclusive_primary,14,4,20,insulate,0.06232857381197729
+inclusive_primary,14,5,1,heat,2.500523767774644
+inclusive_primary,14,5,2,pump,1.716023875939024
+inclusive_primary,14,5,3,heat pump,1.6072607646168
+inclusive_primary,14,5,4,gas,0.6504898630685871
+inclusive_primary,14,5,5,pumps,0.5604700790456552
+inclusive_primary,14,5,6,water,0.5580654094049904
+inclusive_primary,14,5,7,heating,0.5360894556222087
+inclusive_primary,14,5,8,heat pumps,0.5261524758507043
+inclusive_primary,14,5,9,boiler,0.4804345460504609
+inclusive_primary,14,5,10,hot,0.32187817179659933
+inclusive_primary,14,5,11,hot water,0.31267038709760947
+inclusive_primary,14,5,12,electric,0.3056322205936715
+inclusive_primary,14,5,13,temperature,0.27930338083053236
+inclusive_primary,14,5,14,radiators,0.25050081505054556
+inclusive_primary,14,5,15,furnace,0.235967165041163
+inclusive_primary,14,5,16,loss,0.21205036206694192
+inclusive_primary,14,5,17,heater,0.2044916145343073
+inclusive_primary,14,5,18,heat loss,0.20211603553512816
+inclusive_primary,14,5,19,gas boiler,0.1911588472823788
+inclusive_primary,14,5,20,run,0.18418529967121058
+inclusive_primary,14,6,1,video,1.9430952752097088
+inclusive_primary,14,6,2,great,1.529459122918355
+inclusive_primary,14,6,3,great video,1.1883131151410835
+inclusive_primary,14,6,4,thanks,0.9750673283441945
+inclusive_primary,14,6,5,thank,0.4290598472515573
+inclusive_primary,14,6,6,video thanks,0.26537631838491105
+inclusive_primary,14,6,7,hi,0.22795106168297807
+inclusive_primary,14,6,8,thanks video,0.2230320116193292
+inclusive_primary,14,6,9,videos,0.20188033645628783
+inclusive_primary,14,6,10,question,0.173204724090133
+inclusive_primary,14,6,11,informative,0.17149144579382652
+inclusive_primary,14,6,12,job,0.1505565402324074
+inclusive_primary,14,6,13,good,0.14964259060803925
+inclusive_primary,14,6,14,work,0.13381255713349668
+inclusive_primary,14,6,15,would,0.13281574966127746
+inclusive_primary,14,6,16,nice,0.12555649427417157
+inclusive_primary,14,6,17,really,0.12517435743867536
+inclusive_primary,14,6,18,thanks great,0.12398468787195563
+inclusive_primary,14,6,19,video what,0.12095850463442218
+inclusive_primary,14,6,20,love,0.12000300624931799
+inclusive_primary,14,7,1,why,2.741764748643639
+inclusive_primary,14,7,2,why not,0.9626079019398412
+inclusive_primary,14,7,3,why would,0.377279417769474
+inclusive_primary,14,7,4,use,0.35997527926016387
+inclusive_primary,14,7,5,just,0.27028923364024027
+inclusive_primary,14,7,6,why did,0.2567158113433625
+inclusive_primary,14,7,7,not just,0.2550872026749166
+inclusive_primary,14,7,8,not,0.23773795984480456
+inclusive_primary,14,7,9,not use,0.18424682907308235
+inclusive_primary,14,7,10,would,0.13408014551201594
+inclusive_primary,14,7,11,instead,0.11487401329684896
+inclusive_primary,14,7,12,tape,0.10220756194929295
+inclusive_primary,14,7,13,why does,0.10178130687763555
+inclusive_primary,14,7,14,just use,0.09772727808821814
+inclusive_primary,14,7,15,why use,0.09356558724003589
+inclusive_primary,14,7,16,illegal,0.09037332399546293
+inclusive_primary,14,7,17,know why,0.08168520405422405
+inclusive_primary,14,7,18,why no,0.07709089541890914
+inclusive_primary,14,7,19,understand why,0.07412460752892289
+inclusive_primary,14,7,20,understand,0.06591680597068524
+inclusive_primary,14,8,1,solar,1.174288597372253
+inclusive_primary,14,8,2,would,1.018112645211655
+inclusive_primary,14,8,3,panels,0.8146029501931072
+inclusive_primary,14,8,4,battery,0.6552916618074197
+inclusive_primary,14,8,5,power,0.48373709471797005
+inclusive_primary,14,8,6,cost,0.4769370208941689
+inclusive_primary,14,8,7,solar panels,0.454984305500297
+inclusive_primary,14,8,8,panel,0.37995678167720615
+inclusive_primary,14,8,9,batteries,0.3603855063750697
+inclusive_primary,14,8,10,inverter,0.34218419692038987
+inclusive_primary,14,8,11,more,0.3166245657846946
+inclusive_primary,14,8,12,grid,0.3055995143002008
+inclusive_primary,14,8,13,energy,0.2982105634449591
+inclusive_primary,14,8,14,use,0.280946145364787
+inclusive_primary,14,8,15,like,0.26994848729817683
+inclusive_primary,14,8,16,charge,0.2603360971416702
+inclusive_primary,14,8,17,need,0.19490145752605917
+inclusive_primary,14,8,18,electric,0.18813486311815844
+inclusive_primary,14,8,19,install,0.18590747635255034
+inclusive_primary,14,8,20,kwh,0.17734585272998823
+inclusive_primary,14,9,1,not,2.7671010890044063
+inclusive_primary,14,9,2,does,1.1811252068576175
+inclusive_primary,14,9,3,does not,0.7741695679471742
+inclusive_primary,14,9,4,work,0.5842303023052634
+inclusive_primary,14,9,5,know,0.34388397022831024
+inclusive_primary,14,9,6,not work,0.271281270782046
+inclusive_primary,14,9,7,need,0.2400061885858204
+inclusive_primary,14,9,8,not know,0.23519049927826405
+inclusive_primary,14,9,9,like,0.2191532441464949
+inclusive_primary,14,9,10,not need,0.20563301667545242
+inclusive_primary,14,9,11,would not,0.20373539006485583
+inclusive_primary,14,9,12,sure,0.2032861965936264
+inclusive_primary,14,9,13,just,0.19491602601724953
+inclusive_primary,14,9,14,did not,0.18236241105784473
+inclusive_primary,14,9,15,want,0.17460283871508422
+inclusive_primary,14,9,16,good,0.1734552681773717
+inclusive_primary,14,9,17,not want,0.16291133627236046
+inclusive_primary,14,9,18,people,0.1479631459019678
+inclusive_primary,14,9,19,not use,0.14438074345715488
+inclusive_primary,14,9,20,make,0.144202098745065
+inclusive_primary,14,10,1,where,3.3645604538157845
+inclusive_primary,14,10,2,buy,0.46635717050208214
+inclusive_primary,14,10,3,where buy,0.4176799444288844
+inclusive_primary,14,10,4,where did,0.3614763852554349
+inclusive_primary,14,10,5,where does,0.1448498940006583
+inclusive_primary,14,10,6,live,0.11658020526754548
+inclusive_primary,14,10,7,know where,0.11197966129711628
+inclusive_primary,14,10,8,link,0.1096702003382703
+inclusive_primary,14,10,9,located,0.09273462623613793
+inclusive_primary,14,10,10,know,0.08743789741691654
+inclusive_primary,14,10,11,where live,0.08668798795512912
+inclusive_primary,14,10,12,video where,0.07948662092136764
+inclusive_primary,14,10,13,based,0.07278427294167761
+inclusive_primary,14,10,14,where would,0.07247699940386391
+inclusive_primary,14,10,15,tool,0.0710194626224607
+inclusive_primary,14,10,16,uk,0.06781367525678622
+inclusive_primary,14,10,17,where not,0.0651444326448673
+inclusive_primary,14,10,18,goes,0.06213086955924774
+inclusive_primary,14,10,19,product,0.05859972146242711
+inclusive_primary,14,10,20,purchase,0.056860514342838876
+inclusive_primary,14,11,1,roof,2.285328654150419
+inclusive_primary,14,11,2,barrier,1.6743994514114413
+inclusive_primary,14,11,3,vapour,1.1246573764716579
+inclusive_primary,14,11,4,vapour barrier,0.9892940538183644
+inclusive_primary,14,11,5,vapor,0.7416772347543206
+inclusive_primary,14,11,6,vapor barrier,0.6516866951648111
+inclusive_primary,14,11,7,warm,0.5927930602610082
+inclusive_primary,14,11,8,warm roof,0.4666912841469896
+inclusive_primary,14,11,9,vents,0.42352747790018935
+inclusive_primary,14,11,10,vent,0.36944122291239323
+inclusive_primary,14,11,11,cold,0.35512560953619404
+inclusive_primary,14,11,12,between,0.3476512781141825
+inclusive_primary,14,11,13,flat,0.3455340221637725
+inclusive_primary,14,11,14,moisture,0.3377777331358797
+inclusive_primary,14,11,15,cold roof,0.3271787519008033
+inclusive_primary,14,11,16,attic,0.3061179486740899
+inclusive_primary,14,11,17,joists,0.2994387183570402
+inclusive_primary,14,11,18,flat roof,0.29837277978724347
+inclusive_primary,14,11,19,ridge,0.2929296722750938
+inclusive_primary,14,11,20,osb,0.2863391765320295
+inclusive_primary,14,12,1,house,1.3289576589187253
+inclusive_primary,14,12,2,air,1.034449775557772
+inclusive_primary,14,12,3,no,0.5674667443323036
+inclusive_primary,14,12,4,when,0.5327449071718527
+inclusive_primary,14,12,5,just,0.5047838952853091
+inclusive_primary,14,12,6,cold,0.4784102480851862
+inclusive_primary,14,12,7,never,0.4746401552264556
+inclusive_primary,14,12,8,like,0.42511896168057944
+inclusive_primary,14,12,9,years,0.4133785318037648
+inclusive_primary,14,12,10,old,0.3982627976219086
+inclusive_primary,14,12,11,windows,0.39167854924500656
+inclusive_primary,14,12,12,room,0.38820966787009187
+inclusive_primary,14,12,13,outside,0.3550697484618504
+inclusive_primary,14,12,14,heating,0.349106289664493
+inclusive_primary,14,12,15,more,0.3434103072069288
+inclusive_primary,14,12,16,water,0.33415238629665206
+inclusive_primary,14,12,17,open,0.30215946829345564
+inclusive_primary,14,12,18,problem,0.2960401190306673
+inclusive_primary,14,12,19,good,0.2940853613089064
+inclusive_primary,14,12,20,damp,0.29253955561025174
+inclusive_primary,14,13,1,thermostat,1.6179313259526988
+inclusive_primary,14,13,2,wire,1.6025259945540096
+inclusive_primary,14,13,3,boiler,0.6613260546105539
+inclusive_primary,14,13,4,wires,0.654962245277672
+inclusive_primary,14,13,5,nest,0.5197754632993327
+inclusive_primary,14,13,6,connected,0.3485621360857734
+inclusive_primary,14,13,7,connect,0.3397332338472759
+inclusive_primary,14,13,8,red,0.335623363349657
+inclusive_primary,14,13,9,blue,0.3340286201044883
+inclusive_primary,14,13,10,smart,0.30421895598407295
+inclusive_primary,14,13,11,need,0.302138189779873
+inclusive_primary,14,13,12,white,0.2951738973998213
+inclusive_primary,14,13,13,hive,0.2753975731436721
+inclusive_primary,14,13,14,honeywell,0.24846194098584393
+inclusive_primary,14,13,15,control,0.24510733527333195
+inclusive_primary,14,13,16,old,0.24437280745781662
+inclusive_primary,14,13,17,set,0.243873807087843
+inclusive_primary,14,13,18,furnace,0.243721764752278
+inclusive_primary,14,13,19,just,0.2354928962415881
+inclusive_primary,14,13,20,common,0.204423673358547
+inclusive_primary,14,14,1,did,3.1712715213450986
+inclusive_primary,14,14,2,did not,1.062314887244036
+inclusive_primary,14,14,3,how did,0.6688142468452338
+inclusive_primary,14,14,4,why did,0.3625736972629252
+inclusive_primary,14,14,5,did use,0.35348705111387724
+inclusive_primary,14,14,6,what did,0.3223647556535091
+inclusive_primary,14,14,7,where did,0.3058761974220499
+inclusive_primary,14,14,8,use,0.26317182499185204
+inclusive_primary,14,14,9,did cost,0.17435009417661976
+inclusive_primary,14,14,10,job,0.16471804437040663
+inclusive_primary,14,14,11,not,0.12269244663530218
+inclusive_primary,14,14,12,cost,0.11570134764046487
+inclusive_primary,14,14,13,years,0.10500041446437157
+inclusive_primary,14,14,14,ago,0.08977330947885288
+inclusive_primary,14,14,15,install,0.08430556393954922
+inclusive_primary,14,14,16,before,0.08360558735100916
+inclusive_primary,14,14,17,say,0.0806989916047976
+inclusive_primary,14,14,18,years ago,0.07931339651443646
+inclusive_primary,14,14,19,not know,0.07221441595798095
+inclusive_primary,14,14,20,video did,0.07206904486364067
+inclusive_primary,16,1,1,house,2.0445043225845634
+inclusive_primary,16,1,2,not,1.8312633877529911
+inclusive_primary,16,1,3,just,1.4625711273485902
+inclusive_primary,16,1,4,when,1.0788611075202523
+inclusive_primary,16,1,5,never,0.9263278733521509
+inclusive_primary,16,1,6,years,0.9239915274157101
+inclusive_primary,16,1,7,no,0.8922426691226533
+inclusive_primary,16,1,8,like,0.8769980860269805
+inclusive_primary,16,1,9,good,0.861556626031842
+inclusive_primary,16,1,10,more,0.8000519104308154
+inclusive_primary,16,1,11,old,0.7225416159813082
+inclusive_primary,16,1,12,time,0.7090795121076121
+inclusive_primary,16,1,13,heating,0.6497065029021711
+inclusive_primary,16,1,14,new,0.624724716719268
+inclusive_primary,16,1,15,way,0.589098504924805
+inclusive_primary,16,1,16,over,0.5748213447277263
+inclusive_primary,16,1,17,people,0.5663119365760049
+inclusive_primary,16,1,18,windows,0.5548109487742177
+inclusive_primary,16,1,19,problem,0.5377139613334555
+inclusive_primary,16,1,20,really,0.5357694917270349
+inclusive_primary,16,2,1,foam,2.7545221289484276
+inclusive_primary,16,2,2,spray,2.0009132866397445
+inclusive_primary,16,2,3,spray foam,1.9180666435831555
+inclusive_primary,16,2,4,cell,0.3144947457370706
+inclusive_primary,16,2,5,use,0.29333946132945937
+inclusive_primary,16,2,6,foam insulation,0.26780450052561433
+inclusive_primary,16,2,7,closed,0.25544646862746684
+inclusive_primary,16,2,8,closed cell,0.2517066130166554
+inclusive_primary,16,2,9,expanding,0.22349149279280006
+inclusive_primary,16,2,10,foam board,0.22087854751432548
+inclusive_primary,16,2,11,board,0.21200775332886573
+inclusive_primary,16,2,12,expanding foam,0.2024045493123247
+inclusive_primary,16,2,13,cell spray,0.18078069594235915
+inclusive_primary,16,2,14,use spray,0.15739329675914818
+inclusive_primary,16,2,15,foam not,0.12958718599708047
+inclusive_primary,16,2,16,attic,0.1250246739766019
+inclusive_primary,16,2,17,seal,0.11393148252951286
+inclusive_primary,16,2,18,cell foam,0.10600556096218819
+inclusive_primary,16,2,19,wool,0.10008051960632786
+inclusive_primary,16,2,20,mortgage,0.09865427659877626
+inclusive_primary,16,3,1,what,3.42172004067518
+inclusive_primary,16,3,2,what happens,0.1446715352280767
+inclusive_primary,16,3,3,happens,0.1396801447692239
+inclusive_primary,16,3,4,know what,0.13346617077644243
+inclusive_primary,16,3,5,what brand,0.1321836718231649
+inclusive_primary,16,3,6,using,0.1319284504872695
+inclusive_primary,16,3,7,what would,0.13087313644068232
+inclusive_primary,16,3,8,what kind,0.12867383176866762
+inclusive_primary,16,3,9,brand,0.1251389361129887
+inclusive_primary,16,3,10,kind,0.11501598173584297
+inclusive_primary,16,3,11,what cost,0.10756729795163926
+inclusive_primary,16,3,12,what did,0.10666139305898656
+inclusive_primary,16,3,13,what size,0.1034678129169706
+inclusive_primary,16,3,14,size,0.09914330296857554
+inclusive_primary,16,3,15,called,0.09053735757293423
+inclusive_primary,16,3,16,know,0.08917413629969612
+inclusive_primary,16,3,17,cost,0.0859362647963474
+inclusive_primary,16,3,18,what type,0.08424932731521644
+inclusive_primary,16,3,19,use,0.08345948675310086
+inclusive_primary,16,3,20,doing,0.08053003729918005
+inclusive_primary,16,4,1,how,3.333270994219471
+inclusive_primary,16,4,2,cost,0.35997892282831034
+inclusive_primary,16,4,3,how did,0.29148303282960863
+inclusive_primary,16,4,4,how does,0.2763053233745071
+inclusive_primary,16,4,5,how long,0.24758301465849863
+inclusive_primary,16,4,6,know,0.23766250448362106
+inclusive_primary,16,4,7,long,0.2035048806657924
+inclusive_primary,16,4,8,how would,0.1908861390632402
+inclusive_primary,16,4,9,know how,0.16641036616646274
+inclusive_primary,16,4,10,how cost,0.16227984653255834
+inclusive_primary,16,4,11,how know,0.1305518602483637
+inclusive_primary,16,4,12,video how,0.11537490558088118
+inclusive_primary,16,4,13,how fix,0.10099635123676101
+inclusive_primary,16,4,14,fix,0.09153386228096515
+inclusive_primary,16,4,15,how install,0.07591947634633617
+inclusive_primary,16,4,16,not how,0.06676813787349946
+inclusive_primary,16,4,17,did cost,0.06400129441259599
+inclusive_primary,16,4,18,does cost,0.06023079441651224
+inclusive_primary,16,4,19,insulate,0.06019722128308931
+inclusive_primary,16,4,20,set,0.0584949064634453
+inclusive_primary,16,5,1,heat,2.4410280971477016
+inclusive_primary,16,5,2,pump,1.6652520896552232
+inclusive_primary,16,5,3,heat pump,1.5590614078452432
+inclusive_primary,16,5,4,gas,0.6246241812539842
+inclusive_primary,16,5,5,water,0.6159765692149555
+inclusive_primary,16,5,6,pumps,0.5429339779282508
+inclusive_primary,16,5,7,heating,0.5343206202630076
+inclusive_primary,16,5,8,heat pumps,0.5091314010343752
+inclusive_primary,16,5,9,boiler,0.4621119050250594
+inclusive_primary,16,5,10,hot,0.3827055907411092
+inclusive_primary,16,5,11,hot water,0.34086685215837015
+inclusive_primary,16,5,12,temperature,0.3040919109376587
+inclusive_primary,16,5,13,electric,0.30324497067708966
+inclusive_primary,16,5,14,air,0.2774006277527046
+inclusive_primary,16,5,15,radiators,0.24286163748431527
+inclusive_primary,16,5,16,furnace,0.23365749144606074
+inclusive_primary,16,5,17,heater,0.21486462534640952
+inclusive_primary,16,5,18,loss,0.20523264695347393
+inclusive_primary,16,5,19,heat loss,0.19622057064835013
+inclusive_primary,16,5,20,run,0.1906517908469018
+inclusive_primary,16,6,1,video,1.942021776883451
+inclusive_primary,16,6,2,great,1.5298656339788885
+inclusive_primary,16,6,3,great video,1.1999945412753614
+inclusive_primary,16,6,4,thanks,0.9704596218499568
+inclusive_primary,16,6,5,thank,0.4063290037463061
+inclusive_primary,16,6,6,video thanks,0.2671576643324719
+inclusive_primary,16,6,7,hi,0.22908098401738303
+inclusive_primary,16,6,8,thanks video,0.22337456483392878
+inclusive_primary,16,6,9,videos,0.18198237507010642
+inclusive_primary,16,6,10,question,0.17346710703189444
+inclusive_primary,16,6,11,informative,0.1678563960180016
+inclusive_primary,16,6,12,thanks great,0.12445411197724758
+inclusive_primary,16,6,13,video what,0.12316190443644243
+inclusive_primary,16,6,14,job,0.11601761534371376
+inclusive_primary,16,6,15,helpful,0.11388432744573206
+inclusive_primary,16,6,16,nice,0.11080871629073798
+inclusive_primary,16,6,17,excellent,0.11028802533055122
+inclusive_primary,16,6,18,sharing,0.10745909239038531
+inclusive_primary,16,6,19,good,0.10294121181778285
+inclusive_primary,16,6,20,really,0.10104214022036488
+inclusive_primary,16,7,1,why,2.6510628030012358
+inclusive_primary,16,7,2,why not,1.0183179964896052
+inclusive_primary,16,7,3,not,0.9281542274803957
+inclusive_primary,16,7,4,use,0.3202003777698196
+inclusive_primary,16,7,5,why would,0.3141243443261899
+inclusive_primary,16,7,6,not just,0.28909120220946816
+inclusive_primary,16,7,7,not use,0.23925735364634262
+inclusive_primary,16,7,8,why did,0.23873421410252116
+inclusive_primary,16,7,9,just,0.2244714461845519
+inclusive_primary,16,7,10,instead,0.1064374904627298
+inclusive_primary,16,7,11,understand,0.08923705813996681
+inclusive_primary,16,7,12,just use,0.08676417369293628
+inclusive_primary,16,7,13,why use,0.08569181186257005
+inclusive_primary,16,7,14,why does,0.08561294335644987
+inclusive_primary,16,7,15,know why,0.08524891987791594
+inclusive_primary,16,7,16,would not,0.08501144852572134
+inclusive_primary,16,7,17,understand why,0.07790563426337781
+inclusive_primary,16,7,18,illegal,0.07746945973217709
+inclusive_primary,16,7,19,not understand,0.07546350136286344
+inclusive_primary,16,7,20,why no,0.07007675053500886
+inclusive_primary,16,8,1,solar,1.4916424174666518
+inclusive_primary,16,8,2,panels,1.0348506453640633
+inclusive_primary,16,8,3,battery,0.7780240808264471
+inclusive_primary,16,8,4,solar panels,0.5991788814020618
+inclusive_primary,16,8,5,power,0.5379643455254611
+inclusive_primary,16,8,6,panel,0.46140631831147494
+inclusive_primary,16,8,7,inverter,0.4087829950932783
+inclusive_primary,16,8,8,batteries,0.39828672482827915
+inclusive_primary,16,8,9,grid,0.346840493770514
+inclusive_primary,16,8,10,cost,0.32997738392451886
+inclusive_primary,16,8,11,charge,0.29685013911913277
+inclusive_primary,16,8,12,energy,0.2730691835511001
+inclusive_primary,16,8,13,use,0.24015370479448686
+inclusive_primary,16,8,14,solar panel,0.23204556665609827
+inclusive_primary,16,8,15,electric,0.1946958478990107
+inclusive_primary,16,8,16,kwh,0.18825874421108812
+inclusive_primary,16,8,17,more,0.1697782964434891
+inclusive_primary,16,8,18,electricity,0.16939759855507153
+inclusive_primary,16,8,19,need,0.15562020451782127
+inclusive_primary,16,8,20,day,0.13695614720759072
+inclusive_primary,16,9,1,does,2.396084639436103
+inclusive_primary,16,9,2,does not,1.1248473533155532
+inclusive_primary,16,9,3,not,1.0007727341059236
+inclusive_primary,16,9,4,work,0.8177623203346434
+inclusive_primary,16,9,5,how does,0.4268801405737188
+inclusive_primary,16,9,6,does work,0.3522058452118376
+inclusive_primary,16,9,7,not work,0.3377458477461369
+inclusive_primary,16,9,8,mean,0.13395055754356794
+inclusive_primary,16,9,9,need,0.12283765967404563
+inclusive_primary,16,9,10,what does,0.11614051212265417
+inclusive_primary,16,9,11,matter,0.11272233595770989
+inclusive_primary,16,9,12,not need,0.09934837440321011
+inclusive_primary,16,9,13,does cost,0.09164769720272828
+inclusive_primary,16,9,14,does mean,0.08941262506006745
+inclusive_primary,16,9,15,why does,0.08289066943152776
+inclusive_primary,16,9,16,know,0.08142929791959706
+inclusive_primary,16,9,17,does know,0.0809782589412357
+inclusive_primary,16,9,18,where does,0.07960800795647642
+inclusive_primary,16,9,19,does need,0.07447262761423425
+inclusive_primary,16,9,20,foam does,0.07392515704609079
+inclusive_primary,16,10,1,did,3.1229860096665614
+inclusive_primary,16,10,2,did not,1.1240281922378137
+inclusive_primary,16,10,3,how did,0.6442781664206545
+inclusive_primary,16,10,4,not,0.44245504991471957
+inclusive_primary,16,10,5,why did,0.3496716717855725
+inclusive_primary,16,10,6,did use,0.33958471772087756
+inclusive_primary,16,10,7,what did,0.3140993931951888
+inclusive_primary,16,10,8,where did,0.296553249451658
+inclusive_primary,16,10,9,use,0.2396566227120662
+inclusive_primary,16,10,10,did cost,0.1674956163129366
+inclusive_primary,16,10,11,job,0.13448640497755354
+inclusive_primary,16,10,12,not know,0.12059403600450892
+inclusive_primary,16,10,13,cost,0.10359423039446919
+inclusive_primary,16,10,14,install,0.08115616386479893
+inclusive_primary,16,10,15,say,0.0808033627122745
+inclusive_primary,16,10,16,work,0.07873304819337423
+inclusive_primary,16,10,17,video did,0.07262442217767928
+inclusive_primary,16,10,18,know,0.06832617901164291
+inclusive_primary,16,10,19,did install,0.06627882238963417
+inclusive_primary,16,10,20,not use,0.06486029169313721
+inclusive_primary,16,11,1,where,3.923922659563866
+inclusive_primary,16,11,2,buy,0.5420557328793649
+inclusive_primary,16,11,3,where buy,0.48703009279127096
+inclusive_primary,16,11,4,where did,0.42273703324584583
+inclusive_primary,16,11,5,where does,0.1645206388175603
+inclusive_primary,16,11,6,live,0.13656824037166956
+inclusive_primary,16,11,7,know where,0.13105434700053842
+inclusive_primary,16,11,8,link,0.12815424688913024
+inclusive_primary,16,11,9,located,0.1082944417196869
+inclusive_primary,16,11,10,where live,0.10119393878998258
+inclusive_primary,16,11,11,video where,0.09280545150508111
+inclusive_primary,16,11,12,know,0.08775742569858785
+inclusive_primary,16,11,13,based,0.08490715988427935
+inclusive_primary,16,11,14,where would,0.08291647824047793
+inclusive_primary,16,11,15,tool,0.08091804088533133
+inclusive_primary,16,11,16,uk,0.07853542771101119
+inclusive_primary,16,11,17,where not,0.07636820053847912
+inclusive_primary,16,11,18,goes,0.07225227616416156
+inclusive_primary,16,11,19,door,0.06889688800430617
+inclusive_primary,16,11,20,purchase,0.06602358702379148
+inclusive_primary,16,12,1,roof,1.523310484125665
+inclusive_primary,16,12,2,air,1.5123172692632532
+inclusive_primary,16,12,3,vents,0.6918508104745594
+inclusive_primary,16,12,4,attic,0.6469728124768803
+inclusive_primary,16,12,5,cold,0.5842655269627657
+inclusive_primary,16,12,6,vent,0.5312926071561913
+inclusive_primary,16,12,7,warm,0.4402551922008901
+inclusive_primary,16,12,8,ridge,0.3699617580481697
+inclusive_primary,16,12,9,ventilation,0.347416823363442
+inclusive_primary,16,12,10,soffit,0.30812165530827273
+inclusive_primary,16,12,11,gap,0.2925553166896092
+inclusive_primary,16,12,12,space,0.28117304212856176
+inclusive_primary,16,12,13,warm roof,0.2557704129824426
+inclusive_primary,16,12,14,ceiling,0.243123408005764
+inclusive_primary,16,12,15,through,0.23069561292018123
+inclusive_primary,16,12,16,fan,0.23021584299193804
+inclusive_primary,16,12,17,cold air,0.2277017143124872
+inclusive_primary,16,12,18,between,0.22276822735756208
+inclusive_primary,16,12,19,condensation,0.22224499916654739
+inclusive_primary,16,12,20,air gap,0.21156346200792778
+inclusive_primary,16,13,1,insulation,2.8533921742441666
+inclusive_primary,16,13,2,wall,1.402462813031013
+inclusive_primary,16,13,3,cavity,0.7373192305381836
+inclusive_primary,16,13,4,walls,0.5808311272698471
+inclusive_primary,16,13,5,floor,0.5346986446175835
+inclusive_primary,16,13,6,wall insulation,0.4799657447414549
+inclusive_primary,16,13,7,cavity wall,0.38971616631355727
+inclusive_primary,16,13,8,between,0.3250878174359725
+inclusive_primary,16,13,9,board,0.31233200993822574
+inclusive_primary,16,13,10,brick,0.28246290411940705
+inclusive_primary,16,13,11,damp,0.2794938688127161
+inclusive_primary,16,13,12,loft,0.24128050533937484
+inclusive_primary,16,13,13,plaster,0.22965902962179757
+inclusive_primary,16,13,14,boards,0.22609785694756482
+inclusive_primary,16,13,15,external,0.21502626146039816
+inclusive_primary,16,13,16,concrete,0.21411722896875784
+inclusive_primary,16,13,17,inside,0.20429415924388422
+inclusive_primary,16,13,18,under,0.2003082175662639
+inclusive_primary,16,13,19,internal,0.19415662418675908
+inclusive_primary,16,13,20,exterior,0.19103644307632375
+inclusive_primary,16,14,1,wire,2.0233928924959295
+inclusive_primary,16,14,2,thermostat,1.972466795818884
+inclusive_primary,16,14,3,wires,0.8180077358534286
+inclusive_primary,16,14,4,boiler,0.7189308720447947
+inclusive_primary,16,14,5,nest,0.6309404492545561
+inclusive_primary,16,14,6,connected,0.43166714524670663
+inclusive_primary,16,14,7,connect,0.4216978174542228
+inclusive_primary,16,14,8,blue,0.421175401433723
+inclusive_primary,16,14,9,red,0.4182411525730063
+inclusive_primary,16,14,10,need,0.3865217008019291
+inclusive_primary,16,14,11,white,0.36943498174688477
+inclusive_primary,16,14,12,smart,0.3565047017880453
+inclusive_primary,16,14,13,hive,0.3144818969588597
+inclusive_primary,16,14,14,furnace,0.3087536772246096
+inclusive_primary,16,14,15,honeywell,0.30279201898679686
+inclusive_primary,16,14,16,control,0.28451988407035583
+inclusive_primary,16,14,17,common,0.25651305742434466
+inclusive_primary,16,14,18,old,0.25645822754630976
+inclusive_primary,16,14,19,terminal,0.2546604666268321
+inclusive_primary,16,14,20,blue wire,0.24875121572233672
+inclusive_primary,16,15,1,barrier,1.7644947378092468
+inclusive_primary,16,15,2,vapour,1.0715532756050483
+inclusive_primary,16,15,3,vapour barrier,0.9755695895417781
+inclusive_primary,16,15,4,vapor,0.8770184849515871
+inclusive_primary,16,15,5,vapor barrier,0.7952064816580237
+inclusive_primary,16,15,6,use,0.3392436130109495
+inclusive_primary,16,15,7,moisture,0.3094709070404116
+inclusive_primary,16,15,8,inside,0.15208457137576425
+inclusive_primary,16,15,9,no vapour,0.13494656627947424
+inclusive_primary,16,15,10,joists,0.13486060396548302
+inclusive_primary,16,15,11,foil,0.13361781801718683
+inclusive_primary,16,15,12,drywall,0.12967460387215454
+inclusive_primary,16,15,13,osb,0.12626421326474624
+inclusive_primary,16,15,14,radiant,0.12450969187468094
+inclusive_primary,16,15,15,between,0.12167535271420851
+inclusive_primary,16,15,16,radiant barrier,0.12012628363792217
+inclusive_primary,16,15,17,plasterboard,0.11223898052221142
+inclusive_primary,16,15,18,no,0.11136512669872069
+inclusive_primary,16,15,19,plastic,0.10405350763308321
+inclusive_primary,16,15,20,steve,0.10277994588727687
+inclusive_primary,16,16,1,would,2.9825494874959233
+inclusive_primary,16,16,2,like,0.7112438654887595
+inclusive_primary,16,16,3,would not,0.5358792725558867
+inclusive_primary,16,16,4,would like,0.3402825589920283
+inclusive_primary,16,16,5,work,0.310751681612986
+inclusive_primary,16,16,6,recommend,0.3090476857319393
+inclusive_primary,16,16,7,what would,0.2986192115877188
+inclusive_primary,16,16,8,how would,0.29590388530568884
+inclusive_primary,16,16,9,why would,0.28869117678245976
+inclusive_primary,16,16,10,love,0.2768860004868512
+inclusive_primary,16,16,11,would recommend,0.266884779308428
+inclusive_primary,16,16,12,would need,0.22209817402990462
+inclusive_primary,16,16,13,would love,0.2085116781679633
+inclusive_primary,16,16,14,better,0.19228665842945677
+inclusive_primary,16,16,15,would work,0.1729774226397088
+inclusive_primary,16,16,16,think,0.16876383164268427
+inclusive_primary,16,16,17,could,0.16141656578632368
+inclusive_primary,16,16,18,would use,0.1592553070199599
+inclusive_primary,16,16,19,looks,0.15150197606331822
+inclusive_primary,16,16,20,would never,0.1494849231846111
+inclusive_primary,20,1,1,not,5.655400631821743
+inclusive_primary,20,1,2,did,1.8990997091094333
+inclusive_primary,20,1,3,did not,1.2963199420439107
+inclusive_primary,20,1,4,know,0.6800947076389234
+inclusive_primary,20,1,5,not know,0.5557832596498188
+inclusive_primary,20,1,6,just,0.507044573281283
+inclusive_primary,20,1,7,sure,0.461930803615478
+inclusive_primary,20,1,8,not need,0.3848480339379484
+inclusive_primary,20,1,9,does not,0.37417030292278275
+inclusive_primary,20,1,10,want,0.3586424703973688
+inclusive_primary,20,1,11,not want,0.3415102069766367
+inclusive_primary,20,1,12,need,0.33660874701831583
+inclusive_primary,20,1,13,people,0.325596410772774
+inclusive_primary,20,1,14,not sure,0.3112615981208409
+inclusive_primary,20,1,15,when,0.3011286310830129
+inclusive_primary,20,1,16,would not,0.2948026538800243
+inclusive_primary,20,1,17,could,0.2829594469982984
+inclusive_primary,20,1,18,think,0.2780679401288513
+inclusive_primary,20,1,19,could not,0.24637472102451752
+inclusive_primary,20,1,20,thing,0.2420545528639144
+inclusive_primary,20,2,1,foam,2.9556451846411673
+inclusive_primary,20,2,2,spray,2.169885824692231
+inclusive_primary,20,2,3,spray foam,2.0811395412914635
+inclusive_primary,20,2,4,cell,0.34054901901471346
+inclusive_primary,20,2,5,foam insulation,0.2900733720855068
+inclusive_primary,20,2,6,closed,0.279545841141628
+inclusive_primary,20,2,7,closed cell,0.27352229250499055
+inclusive_primary,20,2,8,foam board,0.2360768495876736
+inclusive_primary,20,2,9,expanding,0.2256935546531836
+inclusive_primary,20,2,10,board,0.2147114857113659
+inclusive_primary,20,2,11,expanding foam,0.20421917633455824
+inclusive_primary,20,2,12,cell spray,0.19665629807519983
+inclusive_primary,20,2,13,use spray,0.15176397971649694
+inclusive_primary,20,2,14,foam not,0.13528198491383922
+inclusive_primary,20,2,15,attic,0.13323741144128068
+inclusive_primary,20,2,16,cell foam,0.11428575549800458
+inclusive_primary,20,2,17,seal,0.11159315753558856
+inclusive_primary,20,2,18,mortgage,0.10777314950797294
+inclusive_primary,20,2,19,rot,0.09881512954913542
+inclusive_primary,20,2,20,toxic,0.09851720391140709
+inclusive_primary,20,3,1,what,3.472837928814646
+inclusive_primary,20,3,2,what happens,0.1460983873671601
+inclusive_primary,20,3,3,happens,0.14234176994447262
+inclusive_primary,20,3,4,what brand,0.13404821900245117
+inclusive_primary,20,3,5,know what,0.13305667953758324
+inclusive_primary,20,3,6,what would,0.13304352460216526
+inclusive_primary,20,3,7,using,0.12906040213595715
+inclusive_primary,20,3,8,what kind,0.1285092688376043
+inclusive_primary,20,3,9,what did,0.12771401195978968
+inclusive_primary,20,3,10,brand,0.12671492054198205
+inclusive_primary,20,3,11,kind,0.11516578622308037
+inclusive_primary,20,3,12,what cost,0.1085607957643484
+inclusive_primary,20,3,13,what size,0.10465958193893798
+inclusive_primary,20,3,14,size,0.09998336733988578
+inclusive_primary,20,3,15,called,0.09150110493473108
+inclusive_primary,20,3,16,cost,0.09119877764703421
+inclusive_primary,20,3,17,know,0.08752476232241309
+inclusive_primary,20,3,18,doing,0.0854336060138321
+inclusive_primary,20,3,19,what type,0.082867290555448
+inclusive_primary,20,3,20,type,0.07769302257181357
+inclusive_primary,20,4,1,how,3.574217467856764
+inclusive_primary,20,4,2,how did,0.46009891101617323
+inclusive_primary,20,4,3,cost,0.39584133116965325
+inclusive_primary,20,4,4,did,0.3635083979391675
+inclusive_primary,20,4,5,how does,0.27751593575602856
+inclusive_primary,20,4,6,how long,0.264089060604434
+inclusive_primary,20,4,7,know,0.2454198923812834
+inclusive_primary,20,4,8,long,0.21573842339044486
+inclusive_primary,20,4,9,how would,0.20150528823010533
+inclusive_primary,20,4,10,know how,0.1730352903170042
+inclusive_primary,20,4,11,how cost,0.17133321970583362
+inclusive_primary,20,4,12,how know,0.13788025501089649
+inclusive_primary,20,4,13,video how,0.1233388042808379
+inclusive_primary,20,4,14,how fix,0.10731298392842804
+inclusive_primary,20,4,15,did cost,0.10650856322570888
+inclusive_primary,20,4,16,fix,0.10601501835024042
+inclusive_primary,20,4,17,how install,0.07992526375978441
+inclusive_primary,20,4,18,not how,0.06814957870636675
+inclusive_primary,20,4,19,insulate,0.06664792059276986
+inclusive_primary,20,4,20,how connect,0.062018771035007435
+inclusive_primary,20,5,1,use,3.3741918315608026
+inclusive_primary,20,5,2,not use,0.6219845969184541
+inclusive_primary,20,5,3,tape,0.6136938107374912
+inclusive_primary,20,5,4,did use,0.3778092002225216
+inclusive_primary,20,5,5,just use,0.3413836077052382
+inclusive_primary,20,5,6,just,0.2778653970825087
+inclusive_primary,20,5,7,would use,0.1939833098686736
+inclusive_primary,20,5,8,could use,0.17742683424652053
+inclusive_primary,20,5,9,used,0.1716258325774269
+inclusive_primary,20,5,10,instead,0.17135504453938058
+inclusive_primary,20,5,11,window,0.17014812511966973
+inclusive_primary,20,5,12,should use,0.1459762305018626
+inclusive_primary,20,5,13,rockwool,0.14530218641439033
+inclusive_primary,20,5,14,never use,0.1447834934934837
+inclusive_primary,20,5,15,tool,0.13085281553650832
+inclusive_primary,20,5,16,plastic,0.12561454732253194
+inclusive_primary,20,5,17,what use,0.12251833008851178
+inclusive_primary,20,5,18,could,0.1210608567674768
+inclusive_primary,20,5,19,use foam,0.11499653778000375
+inclusive_primary,20,5,20,better,0.1128464345896215
+inclusive_primary,20,6,1,video,2.0614204418479907
+inclusive_primary,20,6,2,great,1.6195357887068136
+inclusive_primary,20,6,3,great video,1.2673651611257957
+inclusive_primary,20,6,4,thanks,1.03959254420807
+inclusive_primary,20,6,5,thank,0.4402841557559974
+inclusive_primary,20,6,6,video thanks,0.2833417588377172
+inclusive_primary,20,6,7,hi,0.2429209295178398
+inclusive_primary,20,6,8,thanks video,0.23903546244316717
+inclusive_primary,20,6,9,videos,0.19920494907735606
+inclusive_primary,20,6,10,question,0.1829574000889008
+inclusive_primary,20,6,11,informative,0.17924131205085256
+inclusive_primary,20,6,12,thanks great,0.13206948914274416
+inclusive_primary,20,6,13,job,0.1311196739997868
+inclusive_primary,20,6,14,video what,0.1295127318330358
+inclusive_primary,20,6,15,helpful,0.1238583408569321
+inclusive_primary,20,6,16,nice,0.12020453271547019
+inclusive_primary,20,6,17,excellent,0.11891541368136127
+inclusive_primary,20,6,18,really,0.11847576195589098
+inclusive_primary,20,6,19,sharing,0.11640327884823223
+inclusive_primary,20,6,20,good,0.11388656254162824
+inclusive_primary,20,7,1,why,3.419433938736587
+inclusive_primary,20,7,2,why not,1.15179408639723
+inclusive_primary,20,7,3,why would,0.42177920852192413
+inclusive_primary,20,7,4,why did,0.34227580161235693
+inclusive_primary,20,7,5,not just,0.2778912703981644
+inclusive_primary,20,7,6,just,0.22724025039277437
+inclusive_primary,20,7,7,why does,0.13142295014055785
+inclusive_primary,20,7,8,instead,0.11512144702917174
+inclusive_primary,20,7,9,illegal,0.10980633570955443
+inclusive_primary,20,7,10,know why,0.10107864462634165
+inclusive_primary,20,7,11,why no,0.09879682859329021
+inclusive_primary,20,7,12,not use,0.09762478629912154
+inclusive_primary,20,7,13,why use,0.09394090010689854
+inclusive_primary,20,7,14,understand why,0.09114342920272948
+inclusive_primary,20,7,15,not,0.08786244972216478
+inclusive_primary,20,7,16,reason why,0.07754473422314413
+inclusive_primary,20,7,17,question why,0.07684382128905669
+inclusive_primary,20,7,18,understand,0.07667374331632797
+inclusive_primary,20,7,19,explain,0.07253062565014479
+inclusive_primary,20,7,20,question,0.07007298271716471
+inclusive_primary,20,8,1,heat,3.1736384645638083
+inclusive_primary,20,8,2,pump,2.2820364628087524
+inclusive_primary,20,8,3,heat pump,2.1593367368009417
+inclusive_primary,20,8,4,pumps,0.7200194236934414
+inclusive_primary,20,8,5,heat pumps,0.6804832141697627
+inclusive_primary,20,8,6,gas,0.6020398024423853
+inclusive_primary,20,8,7,furnace,0.34378583615667546
+inclusive_primary,20,8,8,air,0.3131501285545371
+inclusive_primary,20,8,9,electric,0.2916468518675089
+inclusive_primary,20,8,10,loss,0.25374313543531124
+inclusive_primary,20,8,11,heat loss,0.24723841939323432
+inclusive_primary,20,8,12,unit,0.23542502706116059
+inclusive_primary,20,8,13,cost,0.2193689915133555
+inclusive_primary,20,8,14,source,0.21220533469537997
+inclusive_primary,20,8,15,source heat,0.16993896327681982
+inclusive_primary,20,8,16,electricity,0.16834150092346606
+inclusive_primary,20,8,17,run,0.16546226646110965
+inclusive_primary,20,8,18,gas furnace,0.15750380184309862
+inclusive_primary,20,8,19,expensive,0.15707335710837023
+inclusive_primary,20,8,20,gas boiler,0.1460799688319181
+inclusive_primary,20,9,1,does,3.075026380868537
+inclusive_primary,20,9,2,does not,1.2156216016801442
+inclusive_primary,20,9,3,work,1.1167618506370725
+inclusive_primary,20,9,4,how does,0.6148333009753595
+inclusive_primary,20,9,5,does work,0.49795734569469696
+inclusive_primary,20,9,6,not work,0.34332046780891484
+inclusive_primary,20,9,7,mean,0.16540782990615327
+inclusive_primary,20,9,8,what does,0.16167614223593182
+inclusive_primary,20,9,9,matter,0.14052817857269034
+inclusive_primary,20,9,10,not,0.13502382525839812
+inclusive_primary,20,9,11,does cost,0.13468487565888781
+inclusive_primary,20,9,12,why does,0.12904703284643312
+inclusive_primary,20,9,13,does mean,0.12007379421006797
+inclusive_primary,20,9,14,where does,0.1124118495348534
+inclusive_primary,20,9,15,does know,0.10861531704792302
+inclusive_primary,20,9,16,does need,0.1007988824067108
+inclusive_primary,20,9,17,does matter,0.09464633715010466
+inclusive_primary,20,9,18,does heat,0.08926221398366432
+inclusive_primary,20,9,19,foam does,0.08479360882821362
+inclusive_primary,20,9,20,window,0.08297955188148497
+inclusive_primary,20,10,1,where,3.5125194380560902
+inclusive_primary,20,10,2,buy,0.4812695261785277
+inclusive_primary,20,10,3,where did,0.4512413220321657
+inclusive_primary,20,10,4,where buy,0.43194255367144235
+inclusive_primary,20,10,5,did,0.3567435857053624
+inclusive_primary,20,10,6,where does,0.14497532350291073
+inclusive_primary,20,10,7,live,0.12051660357705568
+inclusive_primary,20,10,8,know where,0.11490909265027173
+inclusive_primary,20,10,9,link,0.11421866306341506
+inclusive_primary,20,10,10,located,0.09575914592833142
+inclusive_primary,20,10,11,where live,0.08997432529321964
+inclusive_primary,20,10,12,video where,0.08291109428727576
+inclusive_primary,20,10,13,based,0.0752583772558566
+inclusive_primary,20,10,14,where would,0.0733121136227975
+inclusive_primary,20,10,15,tool,0.06632785157624888
+inclusive_primary,20,10,16,where not,0.06610254581594945
+inclusive_primary,20,10,17,uk,0.06562898288229474
+inclusive_primary,20,10,18,door,0.06352715489944258
+inclusive_primary,20,10,19,goes,0.06339495962707498
+inclusive_primary,20,10,20,purchase,0.0630031779975206
+inclusive_primary,20,11,1,solar,2.426642953560324
+inclusive_primary,20,11,2,panels,1.676762506456249
+inclusive_primary,20,11,3,battery,1.2989897736908207
+inclusive_primary,20,11,4,solar panels,0.9636813764007534
+inclusive_primary,20,11,5,power,0.9135248052011686
+inclusive_primary,20,11,6,panel,0.7449621683284431
+inclusive_primary,20,11,7,cost,0.688244245775875
+inclusive_primary,20,11,8,batteries,0.6781675380358699
+inclusive_primary,20,11,9,inverter,0.6727492317612858
+inclusive_primary,20,11,10,grid,0.5862199353766111
+inclusive_primary,20,11,11,energy,0.5238656870849973
+inclusive_primary,20,11,12,charge,0.5016767524613741
+inclusive_primary,20,11,13,more,0.42944670504572746
+inclusive_primary,20,11,14,solar panel,0.37028412714695974
+inclusive_primary,20,11,15,electric,0.3317786852088104
+inclusive_primary,20,11,16,kwh,0.330104488686617
+inclusive_primary,20,11,17,electricity,0.3115860772122259
+inclusive_primary,20,11,18,need,0.2967961134840587
+inclusive_primary,20,11,19,day,0.28319927128358546
+inclusive_primary,20,11,20,price,0.2688702855298216
+inclusive_primary,20,12,1,roof,1.679278126293074
+inclusive_primary,20,12,2,air,1.5705020528927736
+inclusive_primary,20,12,3,vents,0.7578753480074152
+inclusive_primary,20,12,4,attic,0.6972991220388902
+inclusive_primary,20,12,5,cold,0.589388159876883
+inclusive_primary,20,12,6,vent,0.5834465735179476
+inclusive_primary,20,12,7,warm,0.4592236623014117
+inclusive_primary,20,12,8,ridge,0.40676735458923907
+inclusive_primary,20,12,9,ventilation,0.38275727424455114
+inclusive_primary,20,12,10,soffit,0.3382959349641787
+inclusive_primary,20,12,11,gap,0.31592291551408347
+inclusive_primary,20,12,12,space,0.3096410582941724
+inclusive_primary,20,12,13,warm roof,0.280738133787107
+inclusive_primary,20,12,14,ceiling,0.26399069855685947
+inclusive_primary,20,12,15,fan,0.2568323593244972
+inclusive_primary,20,12,16,through,0.254900108615849
+inclusive_primary,20,12,17,condensation,0.24355043032877327
+inclusive_primary,20,12,18,between,0.2341241327916335
+inclusive_primary,20,12,19,cold air,0.23377497747641035
+inclusive_primary,20,12,20,flat,0.22893792716204237
+inclusive_primary,20,13,1,insulation,3.3335980001257646
+inclusive_primary,20,13,2,wall,1.5069368711907603
+inclusive_primary,20,13,3,cavity,0.7872009614752464
+inclusive_primary,20,13,4,floor,0.6024044769131807
+inclusive_primary,20,13,5,wall insulation,0.5413312155950025
+inclusive_primary,20,13,6,walls,0.5338476349183751
+inclusive_primary,20,13,7,cavity wall,0.43260159047258484
+inclusive_primary,20,13,8,between,0.37014553868883265
+inclusive_primary,20,13,9,board,0.3467654217536715
+inclusive_primary,20,13,10,loft,0.27890332861929107
+inclusive_primary,20,13,11,brick,0.2623539675426567
+inclusive_primary,20,13,12,boards,0.25985862842295754
+inclusive_primary,20,13,13,should,0.25591438803953015
+inclusive_primary,20,13,14,under,0.23878534785331282
+inclusive_primary,20,13,15,concrete,0.22730688516813496
+inclusive_primary,20,13,16,external,0.22058076368375593
+inclusive_primary,20,13,17,gap,0.21454532010230584
+inclusive_primary,20,13,18,no insulation,0.2111219200847662
+inclusive_primary,20,13,19,plaster,0.2075680237032117
+inclusive_primary,20,13,20,no,0.2063831096333703
+inclusive_primary,20,14,1,wire,2.2322852875067762
+inclusive_primary,20,14,2,thermostat,1.9318324133954063
+inclusive_primary,20,14,3,wires,0.8822800909408367
+inclusive_primary,20,14,4,nest,0.6325754599293466
+inclusive_primary,20,14,5,blue,0.467114212539138
+inclusive_primary,20,14,6,red,0.45142144118709976
+inclusive_primary,20,14,7,connected,0.4456058033351891
+inclusive_primary,20,14,8,connect,0.43656363300396084
+inclusive_primary,20,14,9,white,0.40540511770119037
+inclusive_primary,20,14,10,furnace,0.35701132629188037
+inclusive_primary,20,14,11,need,0.32938997982418633
+inclusive_primary,20,14,12,old,0.32229603723064354
+inclusive_primary,20,14,13,smart,0.31645976635225853
+inclusive_primary,20,14,14,boiler,0.31305715437268894
+inclusive_primary,20,14,15,honeywell,0.3116115142198397
+inclusive_primary,20,14,16,no,0.2844848080835906
+inclusive_primary,20,14,17,common,0.2806165862740689
+inclusive_primary,20,14,18,blue wire,0.276124734955376
+inclusive_primary,20,14,19,terminal,0.2713714775243782
+inclusive_primary,20,14,20,ac,0.2652801901890123
+inclusive_primary,20,15,1,barrier,1.9431532504099103
+inclusive_primary,20,15,2,vapour,1.1799831023741743
+inclusive_primary,20,15,3,vapour barrier,1.0762557944335234
+inclusive_primary,20,15,4,vapor,0.9623301142701477
+inclusive_primary,20,15,5,vapor barrier,0.8737766651186794
+inclusive_primary,20,15,6,moisture,0.3504551225045367
+inclusive_primary,20,15,7,inside,0.17856085673018596
+inclusive_primary,20,15,8,no vapour,0.15086950603179183
+inclusive_primary,20,15,9,no,0.15082318893205388
+inclusive_primary,20,15,10,joists,0.14675799955624907
+inclusive_primary,20,15,11,drywall,0.13937128941215982
+inclusive_primary,20,15,12,radiant,0.13737143203022556
+inclusive_primary,20,15,13,between,0.1350077075540836
+inclusive_primary,20,15,14,radiant barrier,0.1334862021825172
+inclusive_primary,20,15,15,foil,0.1328309950359916
+inclusive_primary,20,15,16,osb,0.13261825192347865
+inclusive_primary,20,15,17,concrete,0.11895944411859946
+inclusive_primary,20,15,18,plasterboard,0.11789593067614135
+inclusive_primary,20,15,19,exterior,0.10875555058894418
+inclusive_primary,20,15,20,walls,0.10856237012400857
+inclusive_primary,20,16,1,would,3.220086814109463
+inclusive_primary,20,16,2,would not,0.5443948781029735
+inclusive_primary,20,16,3,recommend,0.34514567347944825
+inclusive_primary,20,16,4,work,0.34497317551816786
+inclusive_primary,20,16,5,why would,0.3330890367047653
+inclusive_primary,20,16,6,what would,0.3277602182187787
+inclusive_primary,20,16,7,how would,0.32594767049229123
+inclusive_primary,20,16,8,would recommend,0.29712357659454947
+inclusive_primary,20,16,9,love,0.29007184039751027
+inclusive_primary,20,16,10,would need,0.24711531562234076
+inclusive_primary,20,16,11,would like,0.23223268381592269
+inclusive_primary,20,16,12,would love,0.2249401551346975
+inclusive_primary,20,16,13,think,0.20738443262264494
+inclusive_primary,20,16,14,better,0.20026239683965236
+inclusive_primary,20,16,15,would work,0.18953318731320004
+inclusive_primary,20,16,16,could,0.18606333063738878
+inclusive_primary,20,16,17,would use,0.1474738180151945
+inclusive_primary,20,16,18,say,0.14419947063614033
+inclusive_primary,20,16,19,would never,0.13829697096078952
+inclusive_primary,20,16,20,would better,0.13677657074932206
+inclusive_primary,20,17,1,never,2.9830552916595994
+inclusive_primary,20,17,2,seen,0.8478211285619173
+inclusive_primary,20,17,3,never seen,0.7734808663165131
+inclusive_primary,20,17,4,never knew,0.35866228816251067
+inclusive_primary,20,17,5,knew,0.3527028074173278
+inclusive_primary,20,17,6,thank,0.3101961632516304
+inclusive_primary,20,17,7,heard,0.30726386585373583
+inclusive_primary,20,17,8,never heard,0.28982959419091553
+inclusive_primary,20,17,9,years,0.2692589430859146
+inclusive_primary,20,17,10,would never,0.2597660988661454
+inclusive_primary,20,17,11,before,0.24098290873315464
+inclusive_primary,20,17,12,never use,0.17905433504768306
+inclusive_primary,20,17,13,way,0.12925934754201443
+inclusive_primary,20,17,14,work,0.1180805848733769
+inclusive_primary,20,17,15,years never,0.1145916817462916
+inclusive_primary,20,17,16,people,0.11236791249743726
+inclusive_primary,20,17,17,never thought,0.09576494691649914
+inclusive_primary,20,17,18,thought,0.09254832423344653
+inclusive_primary,20,17,19,seen before,0.09036721115172697
+inclusive_primary,20,17,20,lol,0.08794632550348212
+inclusive_primary,20,18,1,heating,1.2347349465431061
+inclusive_primary,20,18,2,water,1.20778567659661
+inclusive_primary,20,18,3,boiler,0.9674176802020592
+inclusive_primary,20,18,4,hot,0.8157079767885816
+inclusive_primary,20,18,5,temperature,0.8047000141877684
+inclusive_primary,20,18,6,room,0.6575565852802172
+inclusive_primary,20,18,7,hot water,0.6231423896197749
+inclusive_primary,20,18,8,when,0.5728025969495629
+inclusive_primary,20,18,9,radiators,0.5316533327015706
+inclusive_primary,20,18,10,radiator,0.5126158634618259
+inclusive_primary,20,18,11,set,0.4867325135974358
+inclusive_primary,20,18,12,flow,0.3806196163886286
+inclusive_primary,20,18,13,turn,0.35357845101322377
+inclusive_primary,20,18,14,temp,0.3530199986724176
+inclusive_primary,20,18,15,cold,0.3421867263864909
+inclusive_primary,20,18,16,gas,0.32178980572215
+inclusive_primary,20,18,17,valve,0.31012287293000407
+inclusive_primary,20,18,18,more,0.30858477604023665
+inclusive_primary,20,18,19,underfloor,0.2751432769301094
+inclusive_primary,20,18,20,day,0.26609447169334655
+inclusive_primary,20,19,1,like,2.9216117525932646
+inclusive_primary,20,19,2,looks,1.1101046478618977
+inclusive_primary,20,19,3,looks like,0.8252488860126078
+inclusive_primary,20,19,4,good,0.6938426506837205
+inclusive_primary,20,19,5,just,0.5843475461784928
+inclusive_primary,20,19,6,job,0.3518668837510149
+inclusive_primary,20,19,7,would like,0.29729205909907036
+inclusive_primary,20,19,8,more,0.23518477783236266
+inclusive_primary,20,19,9,look,0.23253281443863622
+inclusive_primary,20,19,10,really,0.21925270169129224
+inclusive_primary,20,19,11,product,0.21918722084559913
+inclusive_primary,20,19,12,stuff,0.19460990311760765
+inclusive_primary,20,19,13,not like,0.19055946043533145
+inclusive_primary,20,19,14,tape,0.17288506405906512
+inclusive_primary,20,19,15,people,0.17035164087225044
+inclusive_primary,20,19,16,idea,0.16998281746536972
+inclusive_primary,20,19,17,look like,0.16933238562616462
+inclusive_primary,20,19,18,nice,0.16279982180129873
+inclusive_primary,20,19,19,way,0.15810008199759015
+inclusive_primary,20,19,20,make,0.15078640454719117
+inclusive_primary,20,20,1,house,2.8955057837706817
+inclusive_primary,20,20,2,old,0.8859803898928845
+inclusive_primary,20,20,3,years,0.6855866387494439
+inclusive_primary,20,20,4,damp,0.6563191446897217
+inclusive_primary,20,20,5,no,0.58009464733615
+inclusive_primary,20,20,6,walls,0.5159822762170059
+inclusive_primary,20,20,7,windows,0.5098093896009441
+inclusive_primary,20,20,8,built,0.41879637835484684
+inclusive_primary,20,20,9,new,0.41018069019002035
+inclusive_primary,20,20,10,year,0.3642643572520971
+inclusive_primary,20,20,11,ago,0.3159580731378926
+inclusive_primary,20,20,12,old house,0.31414349445017803
+inclusive_primary,20,20,13,problem,0.31190528998064
+inclusive_primary,20,20,14,live,0.29722733264733364
+inclusive_primary,20,20,15,years ago,0.2692977453267912
+inclusive_primary,20,20,16,houses,0.26841692402572714
+inclusive_primary,20,20,17,winter,0.26143378247964055
+inclusive_primary,20,20,18,humidity,0.25628028925783636
+inclusive_primary,20,20,19,when,0.25137202102610473
+inclusive_primary,20,20,20,build,0.24587897584303245

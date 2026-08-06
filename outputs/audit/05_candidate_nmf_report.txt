@@ -1,0 +1,42 @@
+YOUTUBE RETROFIT INCLUSIVE NMF CANDIDATE SCREENING
+====================================================
+
+Overall status: PASS
+
+Input representation
+--------------------
+Representation: inclusive primary TF-IDF matrix
+Comments: 42,443
+Features: 14,427
+Unique videos represented: 1,158
+
+Candidate models
+----------------
+Topic counts: 8, 10, 12, 14, 16, 20
+Initialisation: NNDSVDa
+Solver: coordinate descent
+Loss: Frobenius
+Maximum iterations: 500
+
+Diagnostic summary
+------------------
+k= 8: relative error=0.98292; mean NPMI=0.1605; diversity=0.875; mean similarity=0.061; max similarity=0.258; small topics=0; iterations=239; warning=False
+k=10: relative error=0.98074; mean NPMI=0.1454; diversity=0.840; mean similarity=0.049; max similarity=0.237; small topics=0; iterations=201; warning=False
+k=12: relative error=0.97874; mean NPMI=0.1839; diversity=0.867; mean similarity=0.045; max similarity=0.201; small topics=0; iterations=149; warning=False
+k=14: relative error=0.97674; mean NPMI=0.1755; diversity=0.825; mean similarity=0.040; max similarity=0.221; small topics=0; iterations=487; warning=False
+k=16: relative error=0.97485; mean NPMI=0.1783; diversity=0.841; mean similarity=0.035; max similarity=0.162; small topics=0; iterations=62; warning=False
+k=20: relative error=0.97137; mean NPMI=0.1805; diversity=0.820; mean similarity=0.030; max similarity=0.140; small topics=0; iterations=282; warning=False
+
+Selection rule
+--------------
+No topic count is selected automatically. The next stage will jointly review reconstruction improvement, topic coherence, topic diversity, redundancy, topic size and representative-comment interpretability.
+Stability testing will be restricted to the strongest two or three candidate topic counts.
+
+Created outputs
+---------------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\05_candidate_model_diagnostics.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\05_candidate_topic_terms.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\05_candidate_topic_summaries.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\05_candidate_representative_comments.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\05_candidate_nmf_config.json
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\models\05_inclusive_candidates

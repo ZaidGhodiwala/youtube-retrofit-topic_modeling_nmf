@@ -1,0 +1,64 @@
+YOUTUBE RETROFIT PARALLEL TF-IDF FREEZE
+===========================================
+
+Overall status: PASS
+
+Design decision
+---------------
+The inclusive representation is the primary representation. It retains technical discussion alongside praise, gratitude, endorsement and platform-mediated interaction.
+The content-focused representation is a preprocessing sensitivity condition. It removes only a narrow set of generic platform, gratitude and strong-praise terms.
+
+Inclusive primary representation
+--------------------------------
+Comments: 42,443
+Unique videos represented: 1,158
+Videos absent after zero-vector filtering: 1
+Features: 14,427
+Non-zero values: 1,013,411
+Matrix dimensions: 42,443 x 14,427
+
+Content-focused sensitivity representation
+------------------------------------------
+Comments retained: 42,424
+Additional zero-vector comments: 19
+Features: 14,084
+Non-zero values: 982,601
+Matrix dimensions: 42,424 x 14,084
+Features removed relative to inclusive representation: 408
+
+Terms deliberately retained in sensitivity model
+------------------------------------------------
+Ambiguous evaluative terms: good, love, liked, like, just
+Practical outcome terms: worked, works, working, helped, helpful, fixed, solved, successful, effective, failed, recommend and recommended
+Negation and help-seeking terms remain available.
+
+Technical-anchor comparison
+---------------------------
+Inclusive primary anchors present: 31 of 32
+Content-focused sensitivity anchors present: 31 of 32
+
+Validation checks
+-----------------
+PASS: Inclusive corpus hash verified
+PASS: Inclusive matrix hash verified
+PASS: Inclusive vectorizer hash verified
+PASS: Inclusive matrix rows match corpus
+PASS: Sensitivity matrix rows match corpus
+PASS: No zero rows in saved sensitivity matrix
+PASS: Inclusive representation retains video
+PASS: Sensitivity representation removes video
+PASS: Inclusive representation retains thanks
+PASS: Sensitivity representation removes thanks
+PASS: Practical outcome term retained
+PASS: Negation retained
+PASS: Core technical phrase retained
+
+Output hashes
+-------------
+Sensitivity corpus SHA-256: bfb9ca0cb355f1476be9f51e9923e718108b3938c609f6071748c6542cb3bcf7
+Sensitivity matrix SHA-256: 742b3dcf55ef8848ec148151c16fde282590d901747c3ef5769708bf1c2c9186
+Sensitivity vectorizer SHA-256: 197c43f3b2d45f487504ef50acff83c322aa76fb0c629a3e2799e27e358d9041
+
+Interpretive note
+-----------------
+Neither representation is treated as the objectively correct preprocessing condition. Candidate NMF solutions will be fitted using the inclusive primary representation, with the content-focused version used to evaluate whether major findings depend on generic social and platform vocabulary.
