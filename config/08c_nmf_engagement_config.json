@@ -1,0 +1,31 @@
+{
+  "analysis_stage": "Standalone NMF engagement/context analysis",
+  "model_status": "frozen; no NMF model fitting",
+  "nmf_video_denominator": 1158,
+  "metadata_source": "D:\\work\\youtube_retrofit_project\\data\\processed\\metadata_engagement_analysis\\integrated_data\\integrated_video_analysis_master.csv",
+  "metrics": {
+    "duration_minutes": "video_context",
+    "view_count": "reach",
+    "like_count": "reach",
+    "api_comment_count": "discussion_volume",
+    "likes_per_1000_views": "engagement_rate",
+    "api_comments_per_1000_views": "discussion_rate",
+    "views_per_day": "age_normalised_provisional",
+    "api_comments_per_day": "age_normalised_provisional"
+  },
+  "comment_count_thresholds": [
+    1,
+    5,
+    10,
+    20
+  ],
+  "correlation_method": "Spearman rank correlation",
+  "multiple_testing_adjustment": "Benjamini-Hochberg within each threshold × metric family of 16 topics",
+  "dominant_topic_test": "Kruskal-Wallis with approximate epsilon-squared effect size",
+  "explicit_exclusions": [
+    "retrofit_topic",
+    "rule-based primary_theme",
+    "rule-based knowledge-sharing modes",
+    "substantive_comment_count as an outcome"
+  ]
+}

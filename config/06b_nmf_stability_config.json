@@ -1,0 +1,29 @@
+{
+  "analysis_stage": "Repeated NMF sampling-stability assessment",
+  "candidates": [
+    12,
+    16
+  ],
+  "primary_representation": "inclusive_primary",
+  "stability_design": {
+    "runs_per_candidate": 10,
+    "subsample_fraction": 0.8,
+    "sampling": "without replacement",
+    "topic_matching": "Hungarian one-to-one assignment maximising cosine similarity between topic-term vectors",
+    "top_term_stability": "Jaccard similarity of top 20 terms",
+    "reference_models": "Full-corpus Stage 5 candidate models"
+  },
+  "reason_for_subsampling": "NNDSVDa is substantially deterministic for an unchanged matrix. Repeating the identical full corpus would therefore provide limited information about robustness. Repeated subsampling tests sensitivity to corpus composition.",
+  "nmf_parameters": {
+    "init": "nndsvda",
+    "solver": "cd",
+    "beta_loss": "frobenius",
+    "tol": 0.0001,
+    "max_iter": 500,
+    "alpha_W": 0.0,
+    "alpha_H": 0.0,
+    "l1_ratio": 0.0,
+    "shuffle": false
+  },
+  "base_random_seed": 20260828
+}

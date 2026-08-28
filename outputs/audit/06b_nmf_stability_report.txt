@@ -1,0 +1,65 @@
+YOUTUBE RETROFIT NMF STABILITY TEST
+======================================
+
+Overall status: PASS
+
+Stability design
+----------------
+Candidates tested: k=12, k=16
+Runs per candidate: 10
+Subsample fraction: 80%
+Comments per run: 33,954
+Sampling: random without replacement
+Topic matching: Hungarian one-to-one assignment using cosine similarity
+Term-set comparison: Jaccard similarity of top 20 terms
+
+Why subsampling was used
+------------------------
+The candidate models use NNDSVDa initialisation, which is substantially deterministic for an unchanged input matrix. Repeatedly fitting the identical corpus would therefore provide little evidence about topic robustness. Repeated 80% corpus subsampling tests whether similar topics are recovered when corpus composition changes.
+
+Candidate stability summary
+---------------------------
+k=12
+  Mean matched cosine to full-corpus reference: 0.9176
+  Median matched cosine: 0.9945
+  10th percentile matched cosine: 0.7508
+  Minimum matched cosine: 0.0182
+  Matches >= 0.90 cosine: 81.7%
+  Matches >= 0.80 cosine: 86.7%
+  Matches >= 0.70 cosine: 92.5%
+  Mean top-20 term Jaccard: 0.7079
+  10th percentile top-20 Jaccard: 0.3747
+  Mean pairwise run cosine: 0.8799
+  Minimum pairwise-run mean cosine: 0.7940
+  Mean absolute topic-prevalence difference: 1.28 percentage points
+  Convergence-warning runs: 2
+
+k=16
+  Mean matched cosine to full-corpus reference: 0.9471
+  Median matched cosine: 0.9976
+  10th percentile matched cosine: 0.9293
+  Minimum matched cosine: 0.0159
+  Matches >= 0.90 cosine: 93.8%
+  Matches >= 0.80 cosine: 94.4%
+  Matches >= 0.70 cosine: 94.4%
+  Mean top-20 term Jaccard: 0.7843
+  10th percentile top-20 Jaccard: 0.6000
+  Mean pairwise run cosine: 0.9169
+  Minimum pairwise-run mean cosine: 0.8321
+  Mean absolute topic-prevalence difference: 0.89 percentage points
+  Convergence-warning runs: 0
+
+Selection rule
+--------------
+No candidate is selected automatically from a single threshold. Final selection will combine sampling stability, topic-level stability, quantitative diagnostics and the previous human interpretability review.
+Cosine thresholds reported above are descriptive diagnostics, not universal cut-offs for acceptable topic stability.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\06b_candidate_stability_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\06b_stability_run_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\06b_reference_topic_stability.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\06b_topic_matches_to_reference.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\06b_pairwise_run_stability.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\06b_nmf_stability_config.json
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\models\06b_stability

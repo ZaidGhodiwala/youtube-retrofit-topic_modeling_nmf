@@ -1,0 +1,89 @@
+YOUTUBE RETROFIT STANDALONE NMF ANALYSIS — STAGE 08c
+==========================================================
+
+Overall status: PASS
+
+Scope
+-----
+This stage relates the frozen k=16 NMF video-level discussion profiles to neutral video metadata and engagement measures.
+No predefined retrofit domain, rule-based comment theme or rule-based knowledge-sharing mode is used.
+
+Denominator
+-----------
+NMF videos matched to metadata: 1,158
+
+Metric denominators
+-------------------
+duration_minutes: valid n=1,158; missing=0; zero=0; median=3.183
+view_count: valid n=1,158; missing=0; zero=0; median=5.461e+04
+like_count: valid n=1,158; missing=0; zero=27; median=491.5
+api_comment_count: valid n=1,158; missing=0; zero=0; median=40
+likes_per_1000_views: valid n=1,158; missing=0; zero=27; median=10.17
+api_comments_per_1000_views: valid n=1,158; missing=0; zero=0; median=0.8974
+views_per_day: valid n=1,158; missing=0; zero=0; median=58.81
+api_comments_per_day: valid n=1,158; missing=0; zero=0; median=0.04766
+
+Strongest full-sample topic–metadata associations
+-------------------------------------------------
+T06 Praise, gratitude and social endorsement × duration_minutes: rho=0.455, n=1,158, BH-FDR p=5.68e-59
+T11 Product sourcing, access and location questions × api_comment_count: rho=0.411, n=1,158, BH-FDR p=3.35e-47
+T10 Implementation follow-up, outcomes and retrospective questions × api_comment_count: rho=0.373, n=1,158, BH-FDR p=1.1e-38
+T10 Implementation follow-up, outcomes and retrospective questions × api_comments_per_day: rho=0.366, n=1,158, BH-FDR p=7.67e-37
+T11 Product sourcing, access and location questions × like_count: rho=0.365, n=1,158, BH-FDR p=1.62e-36
+T11 Product sourcing, access and location questions × api_comments_per_day: rho=0.359, n=1,158, BH-FDR p=1.38e-35
+T11 Product sourcing, access and location questions × view_count: rho=0.343, n=1,158, BH-FDR p=3.7e-32
+T16 Prospective choices, recommendations and alternatives × api_comment_count: rho=0.330, n=1,158, BH-FDR p=5.02e-30
+T16 Prospective choices, recommendations and alternatives × api_comments_per_day: rho=0.329, n=1,158, BH-FDR p=6.33e-30
+T07 Alternative methods, challenges and "why" questions × api_comment_count: rho=0.321, n=1,158, BH-FDR p=1.73e-28
+T02 Spray foam and foam insulation × views_per_day: rho=0.319, n=1,158, BH-FDR p=1.43e-27
+T06 Praise, gratitude and social endorsement × api_comment_count: rho=0.319, n=1,158, BH-FDR p=2.94e-28
+T11 Product sourcing, access and location questions × views_per_day: rho=0.314, n=1,158, BH-FDR p=4.58e-27
+T07 Alternative methods, challenges and "why" questions × like_count: rho=0.314, n=1,158, BH-FDR p=4.63e-27
+T07 Alternative methods, challenges and "why" questions × view_count: rho=0.313, n=1,158, BH-FDR p=8.8e-27
+T02 Spray foam and foam insulation × like_count: rho=0.312, n=1,158, BH-FDR p=8.2e-27
+T07 Alternative methods, challenges and "why" questions × views_per_day: rho=0.310, n=1,158, BH-FDR p=1.57e-26
+T02 Spray foam and foam insulation × view_count: rho=0.309, n=1,158, BH-FDR p=2.38e-26
+T07 Alternative methods, challenges and "why" questions × api_comments_per_day: rho=0.305, n=1,158, BH-FDR p=7.9e-26
+T02 Spray foam and foam insulation × api_comment_count: rho=0.302, n=1,158, BH-FDR p=2.08e-25
+
+Dominant-topic Kruskal-Wallis tests
+-----------------------------------
+duration_minutes: H=144.628, n=1,158, p=2.8e-23, epsilon-squared=0.1135
+view_count: H=72.367, n=1,158, p=1.69e-09, epsilon-squared=0.0502
+like_count: H=105.615, n=1,158, p=1.11e-15, epsilon-squared=0.0793
+api_comment_count: H=159.340, n=1,158, p=3.33e-26, epsilon-squared=0.1264
+likes_per_1000_views: H=116.131, n=1,158, p=1.06e-17, epsilon-squared=0.0886
+api_comments_per_1000_views: H=110.044, n=1,158, p=1.58e-16, epsilon-squared=0.0832
+views_per_day: H=80.112, n=1,158, p=6.66e-11, epsilon-squared=0.0570
+api_comments_per_day: H=154.942, n=1,158, p=2.51e-25, epsilon-squared=0.1225
+
+Low-comment-video sensitivity
+-----------------------------
+Maximum absolute change in a Spearman correlation when restricting from all NMF videos to videos with at least 10 modelled comments: 0.396
+
+Topic-mixture diagnostics
+-------------------------
+dominant_relative_weight × modelled_comment_count: rho=-0.513, n=1,158
+dominance_margin × modelled_comment_count: rho=-0.217, n=1,158
+effective_topic_count × modelled_comment_count: rho=0.781, n=1,158
+
+Interpretive cautions
+--------------------
+Associations are observational and do not show that a discussion topic causes views, likes or commenting behaviour.
+NMF topic weights are compositional: the 16 relative weights within each video sum to one. Positive or negative correlations must therefore be interpreted as relative discussion composition, not independent topic quantities.
+View count, like count and API comment count are strongly right-skewed; Spearman rank correlations and median/IQR summaries are therefore used.
+API comment count represents total platform discussion, not the number of comments extracted for NMF.
+Likes and comments per 1,000 views are engagement-rate measures, not indicators of technical quality.
+Views per day and API comments per day remain provisional because the original metadata snapshot date was not retained.
+Kruskal-Wallis tests compare rank distributions across dominant-topic groups; they are not strictly tests of medians.
+BH-FDR adjusted p-values are exploratory and should be considered alongside effect sizes, not used as automatic importance thresholds.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_engagement_metric_denominators.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_topic_weight_engagement_spearman.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_topic_engagement_comment_count_sensitivity.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_dominant_topic_engagement_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_dominant_topic_engagement_kruskal.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_video_topic_mixture_diagnostics.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08c_nmf_video_profiles_with_engagement.csv

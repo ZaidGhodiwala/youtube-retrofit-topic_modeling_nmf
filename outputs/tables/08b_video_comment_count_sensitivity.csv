@@ -1,0 +1,65 @@
+﻿minimum_modelled_comments,eligible_videos,topic_number,topic_label,dominant_video_count,dominant_video_share,mean_video_relative_weight
+1,1158,1,Situated household retrofit experience and building context,200,0.17271157167530224,0.13025388073052654
+1,1158,2,Spray foam and foam insulation,31,0.02677029360967185,0.02705090739803025
+1,1158,3,Clarification and specification questions,82,0.07081174438687392,0.0794242474140818
+1,1158,4,"Implementation, cost and how-to questions",60,0.05181347150259067,0.06750857808446788
+1,1158,5,Heat pumps and heating systems,105,0.09067357512953368,0.05623631022250098
+1,1158,6,"Praise, gratitude and social endorsement",68,0.05872193436960276,0.07449699362645056
+1,1158,7,"Alternative methods, challenges and ""why"" questions",25,0.02158894645941278,0.052765388638373475
+1,1158,8,"Solar PV, batteries and power systems",92,0.07944732297063903,0.06572460710660688
+1,1158,9,Performance checking and troubleshooting,34,0.02936096718480138,0.062346395917415386
+1,1158,10,"Implementation follow-up, outcomes and retrospective questions",27,0.023316062176165803,0.03978485199291278
+1,1158,11,"Product sourcing, access and location questions",23,0.019861830742659757,0.03340999608344476
+1,1158,12,Roof and attic ventilation and airflow,116,0.1001727115716753,0.07727736071512811
+1,1158,13,"Wall, cavity and floor insulation",147,0.12694300518134716,0.07757982735186324
+1,1158,14,Thermostat wiring and smart heating controls,96,0.08290155440414508,0.05600888667596912
+1,1158,15,Vapour barriers and moisture control,27,0.023316062176165803,0.0349725937947934
+1,1158,16,"Prospective choices, recommendations and alternatives",25,0.02158894645941278,0.06515917424743478
+5,789,1,Situated household retrofit experience and building context,144,0.18250950570342206,0.13125195372523088
+5,789,2,Spray foam and foam insulation,25,0.031685678073510776,0.027759259493933063
+5,789,3,Clarification and specification questions,44,0.05576679340937896,0.07619441569704968
+5,789,4,"Implementation, cost and how-to questions",23,0.029150823827629912,0.06248496751258494
+5,789,5,Heat pumps and heating systems,85,0.10773130544993663,0.05889135300209345
+5,789,6,"Praise, gratitude and social endorsement",52,0.06590621039290241,0.08020128784757553
+5,789,7,"Alternative methods, challenges and ""why"" questions",9,0.011406844106463879,0.050971440235152876
+5,789,8,"Solar PV, batteries and power systems",68,0.08618504435994931,0.06441391199845321
+5,789,9,Performance checking and troubleshooting,13,0.016476552598225603,0.06161035114634614
+5,789,10,"Implementation follow-up, outcomes and retrospective questions",10,0.012674271229404309,0.03956300015842349
+5,789,11,"Product sourcing, access and location questions",8,0.010139416983523447,0.029746411044655852
+5,789,12,Roof and attic ventilation and airflow,92,0.11660329531051965,0.08021412680162936
+5,789,13,"Wall, cavity and floor insulation",111,0.14068441064638784,0.07530559364768412
+5,789,14,Thermostat wiring and smart heating controls,77,0.09759188846641319,0.06034617539832849
+5,789,15,Vapour barriers and moisture control,20,0.025348542458808618,0.036411845961726516
+5,789,16,"Prospective choices, recommendations and alternatives",8,0.010139416983523447,0.06463390632913243
+10,591,1,Situated household retrofit experience and building context,120,0.20304568527918782,0.1336250083135205
+10,591,2,Spray foam and foam insulation,20,0.0338409475465313,0.02951788481022675
+10,591,3,Clarification and specification questions,20,0.0338409475465313,0.07279039316214542
+10,591,4,"Implementation, cost and how-to questions",12,0.02030456852791878,0.06038608956400102
+10,591,5,Heat pumps and heating systems,72,0.1218274111675127,0.06239860840774893
+10,591,6,"Praise, gratitude and social endorsement",37,0.06260575296108291,0.0832131203799813
+10,591,7,"Alternative methods, challenges and ""why"" questions",6,0.01015228426395939,0.05075860287650359
+10,591,8,"Solar PV, batteries and power systems",57,0.09644670050761421,0.06572572823588489
+10,591,9,Performance checking and troubleshooting,5,0.008460236886632826,0.06143443863985299
+10,591,10,"Implementation follow-up, outcomes and retrospective questions",2,0.00338409475465313,0.03824673774989229
+10,591,11,"Product sourcing, access and location questions",3,0.005076142131979695,0.027570617324379956
+10,591,12,Roof and attic ventilation and airflow,75,0.12690355329949238,0.08105620912800009
+10,591,13,"Wall, cavity and floor insulation",84,0.14213197969543148,0.07213972369165265
+10,591,14,Thermostat wiring and smart heating controls,58,0.09813874788494077,0.057021917787747026
+10,591,15,Vapour barriers and moisture control,15,0.025380710659898477,0.03711555955199454
+10,591,16,"Prospective choices, recommendations and alternatives",5,0.008460236886632826,0.06699936037646806
+20,433,1,Situated household retrofit experience and building context,87,0.20092378752886836,0.13221603580769603
+20,433,2,Spray foam and foam insulation,17,0.03926096997690531,0.030713507735521554
+20,433,3,Clarification and specification questions,9,0.020785219399538105,0.06973312625301421
+20,433,4,"Implementation, cost and how-to questions",9,0.020785219399538105,0.05908758621908142
+20,433,5,Heat pumps and heating systems,57,0.13163972286374134,0.06299795021780287
+20,433,6,"Praise, gratitude and social endorsement",28,0.06466512702078522,0.08409376957954307
+20,433,7,"Alternative methods, challenges and ""why"" questions",4,0.009237875288683603,0.04950187243728599
+20,433,8,"Solar PV, batteries and power systems",45,0.10392609699769054,0.06848479330915613
+20,433,9,Performance checking and troubleshooting,1,0.0023094688221709007,0.060547029544826665
+20,433,10,"Implementation follow-up, outcomes and retrospective questions",1,0.0023094688221709007,0.03770177612984084
+20,433,11,"Product sourcing, access and location questions",2,0.004618937644341801,0.027171253291920754
+20,433,12,Roof and attic ventilation and airflow,55,0.12702078521939955,0.08405023941734965
+20,433,13,"Wall, cavity and floor insulation",66,0.15242494226327943,0.07129300753988195
+20,433,14,Thermostat wiring and smart heating controls,35,0.08083140877598152,0.0539235835690935
+20,433,15,Vapour barriers and moisture control,13,0.03002309468822171,0.03909254190324355
+20,433,16,"Prospective choices, recommendations and alternatives",4,0.009237875288683603,0.06939192704474179

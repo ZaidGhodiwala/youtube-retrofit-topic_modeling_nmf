@@ -1,0 +1,132 @@
+YOUTUBE RETROFIT NMF PREPROCESSING SENSITIVITY
+================================================
+
+Overall status: PASS
+
+Design
+------
+Selected topic count: k=16
+Primary representation: inclusive TF-IDF
+Sensitivity representation: content-focused TF-IDF
+Shared vocabulary features used for topic comparison: 14,019
+
+Sensitivity model fit
+---------------------
+Comments: 42,424
+Features: 14,084
+Iterations: 500
+Convergence warning: True
+Runtime seconds: 20.7
+
+Topic-structure comparison
+--------------------------
+Mean matched cosine similarity: 0.8925
+Median matched cosine similarity: 0.9944
+Minimum matched cosine similarity: 0.0958
+Matched topics >= 0.90 cosine: 81.2%
+Matched topics >= 0.80 cosine: 87.5%
+Mean top-20 term Jaccard: 0.6964
+Median top-20 term Jaccard: 0.7787
+Mean absolute topic-prevalence difference: 1.13 percentage points
+
+Comment-level comparison
+------------------------
+Shared comments: 42,424
+Dominant-topic agreement after topic matching: 72.1%
+Adjusted Rand Index: 0.5184
+
+Matched topic details
+---------------------
+Inclusive topic 01 -> sensitivity topic 05
+  cosine=0.8096; top-20 Jaccard=0.3333; prevalence difference=3.72 pp
+  inclusive: house | not | just | when | never | years | no | like | good | more | old | time | heating | new | way | over | people | windows | problem | really
+  sensitivity: house | heating | when | water | room | no | temperature | hot | old | years | boiler | just | cold | more | time | windows | radiators | winter | set | year
+
+Inclusive topic 02 -> sensitivity topic 02
+  cosine=0.9996; top-20 Jaccard=1.0000; prevalence difference=0.07 pp
+  inclusive: foam | spray | spray foam | cell | use | foam insulation | closed | closed cell | expanding | foam board | board | expanding foam | cell spray | use spray | foam not | attic | seal | cell foam | wool | mortgage
+  sensitivity: foam | spray | spray foam | cell | use | foam insulation | closed | closed cell | expanding | foam board | board | expanding foam | cell spray | use spray | foam not | attic | seal | cell foam | wool | mortgage
+
+Inclusive topic 03 -> sensitivity topic 03
+  cosine=0.9997; top-20 Jaccard=0.9048; prevalence difference=0.70 pp
+  inclusive: what | what happens | happens | know what | what brand | using | what would | what kind | brand | kind | what cost | what did | what size | size | called | know | cost | what type | use | doing
+  sensitivity: what | what would | using | what happens | happens | what brand | what kind | know what | brand | kind | what did | what cost | what size | size | doing | use | cost | called | what type | type
+
+Inclusive topic 04 -> sensitivity topic 04
+  cosine=0.9992; top-20 Jaccard=0.7391; prevalence difference=0.68 pp
+  inclusive: how | cost | how did | how does | how long | know | long | how would | know how | how cost | how know | video how | how fix | fix | how install | not how | did cost | does cost | insulate | set
+  sensitivity: how | cost | how did | how does | how long | know | how would | long | know how | how cost | how know | how fix | would | fix | how install | hi | not how | insulate | did cost | how insulate
+
+Inclusive topic 05 -> sensitivity topic 07
+  cosine=0.9705; top-20 Jaccard=0.6667; prevalence difference=1.71 pp
+  inclusive: heat | pump | heat pump | gas | water | pumps | heating | heat pumps | boiler | hot | hot water | temperature | electric | air | radiators | furnace | heater | loss | heat loss | run
+  sensitivity: heat | pump | heat pump | pumps | gas | heat pumps | furnace | electric | air | water | boiler | loss | heat loss | source | cost | unit | heating | gas boiler | heater | run
+
+Inclusive topic 06 -> sensitivity topic 16
+  cosine=0.0958; top-20 Jaccard=0.0526; prevalence difference=4.79 pp
+  inclusive: video | great | great video | thanks | thank | video thanks | hi | thanks video | videos | question | informative | thanks great | video what | job | helpful | nice | excellent | sharing | good | really
+  sensitivity: never | seen | never seen | never knew | knew | years | heard | never heard | would never | before | never use | work | like | good | job | way | years never | people | new | never thought
+
+Inclusive topic 07 -> sensitivity topic 06
+  cosine=0.9713; top-20 Jaccard=0.8182; prevalence difference=0.58 pp
+  inclusive: why | why not | not | use | why would | not just | not use | why did | just | instead | understand | just use | why use | why does | know why | would not | understand why | illegal | not understand | why no
+  sensitivity: why | why not | why would | why did | use | not | not just | not use | just | instead | why does | why use | illegal | know why | why no | understand why | just use | understand | question why | reason why
+
+Inclusive topic 08 -> sensitivity topic 15
+  cosine=0.9951; top-20 Jaccard=0.8182; prevalence difference=0.10 pp
+  inclusive: solar | panels | battery | solar panels | power | panel | inverter | batteries | grid | cost | charge | energy | use | solar panel | electric | kwh | more | electricity | need | day
+  sensitivity: solar | panels | battery | solar panels | power | panel | cost | inverter | batteries | grid | charge | energy | solar panel | more | use | electric | kwh | electricity | install | price
+
+Inclusive topic 09 -> sensitivity topic 08
+  cosine=0.9589; top-20 Jaccard=0.6667; prevalence difference=0.16 pp
+  inclusive: does | does not | not | work | how does | does work | not work | mean | need | what does | matter | not need | does cost | does mean | why does | know | does know | where does | does need | foam does
+  sensitivity: does | does not | work | how does | does work | not work | not | mean | what does | matter | does cost | why does | does mean | where does | does know | when | does need | does matter | does heat | come
+
+Inclusive topic 10 -> sensitivity topic 09
+  cosine=0.9937; top-20 Jaccard=0.6000; prevalence difference=0.47 pp
+  inclusive: did | did not | how did | not | why did | did use | what did | where did | use | did cost | job | not know | cost | install | say | work | video did | know | did install | not use
+  sensitivity: did | did not | how did | why did | did use | what did | where did | use | did cost | job | cost | work | not | years | ago | install | before | years ago | after | did install
+
+Inclusive topic 11 -> sensitivity topic 10
+  cosine=0.9998; top-20 Jaccard=0.9048; prevalence difference=0.20 pp
+  inclusive: where | buy | where buy | where did | where does | live | know where | link | located | where live | video where | know | based | where would | tool | uk | where not | goes | door | purchase
+  sensitivity: where | buy | where buy | where did | where does | live | link | know where | door | located | where live | where would | know | based | uk | tool | product | where not | goes | purchase
+
+Inclusive topic 12 -> sensitivity topic 11
+  cosine=0.9906; top-20 Jaccard=0.7391; prevalence difference=1.48 pp
+  inclusive: roof | air | vents | attic | cold | vent | warm | ridge | ventilation | soffit | gap | space | warm roof | ceiling | through | fan | cold air | between | condensation | air gap
+  sensitivity: roof | air | vents | attic | vent | cold | warm | ridge | ventilation | soffit | warm roof | space | gap | ceiling | flat | between | fan | through | gable | ridge vent
+
+Inclusive topic 13 -> sensitivity topic 12
+  cosine=0.9969; top-20 Jaccard=0.8182; prevalence difference=1.73 pp
+  inclusive: insulation | wall | cavity | walls | floor | wall insulation | cavity wall | between | board | brick | damp | loft | plaster | boards | external | concrete | inside | under | internal | exterior
+  sensitivity: insulation | wall | cavity | walls | floor | wall insulation | cavity wall | damp | between | board | brick | plaster | loft | boards | no | concrete | external | inside | should | under
+
+Inclusive topic 14 -> sensitivity topic 13
+  cosine=0.9955; top-20 Jaccard=1.0000; prevalence difference=0.59 pp
+  inclusive: wire | thermostat | wires | boiler | nest | connected | connect | blue | red | need | white | smart | hive | furnace | honeywell | control | common | old | terminal | blue wire
+  sensitivity: wire | thermostat | wires | nest | boiler | connected | blue | connect | red | white | need | smart | furnace | hive | honeywell | old | common | terminal | control | blue wire
+
+Inclusive topic 15 -> sensitivity topic 14
+  cosine=0.9992; top-20 Jaccard=0.9048; prevalence difference=0.08 pp
+  inclusive: barrier | vapour | vapour barrier | vapor | vapor barrier | use | moisture | inside | no vapour | joists | foil | drywall | osb | radiant | between | radiant barrier | plasterboard | no | plastic | steve
+  sensitivity: barrier | vapour | vapour barrier | vapor | vapor barrier | use | moisture | inside | joists | no vapour | foil | drywall | no | osb | radiant | between | radiant barrier | plasterboard | steve | hi
+
+Inclusive topic 16 -> sensitivity topic 01
+  cosine=0.5046; top-20 Jaccard=0.1765; prevalence difference=0.98 pp
+  inclusive: would | like | would not | would like | work | recommend | what would | how would | why would | love | would recommend | would need | would love | better | would work | think | could | would use | looks | would never
+  sensitivity: not | would | like | just | know | good | would not | need | could | use | want | sure | think | make | looks | not know | people | job | really | more
+
+Interpretive rule
+-----------------
+The sensitivity representation is not expected to reproduce the inclusive model perfectly because generic platform, gratitude and strong-praise terms were deliberately removed. Particular attention should therefore be paid to whether substantive technical topics remain recognisable and stable.
+A reorganisation of the inclusive social-endorsement topic is expected and should not by itself be treated as evidence of poor preprocessing robustness.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\07_preprocessing_topic_matching.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\07_preprocessing_assignment_comparison.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\07_content_focused_representative_comments.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\models\07_preprocessing_sensitivity\07_content_focused_nmf_k16.joblib
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\models\07_preprocessing_sensitivity\07_content_focused_document_topic_k16.npz
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\07_preprocessing_sensitivity_config.json

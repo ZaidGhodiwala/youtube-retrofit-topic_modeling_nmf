@@ -1,0 +1,15 @@
+{
+  "analysis_stage": "Final human interpretation of selected k=16 NMF",
+  "selected_model": "inclusive_primary_k16",
+  "topic_count": 16,
+  "top_terms_per_topic": 20,
+  "representative_comments_per_topic": 20,
+  "maximum_representatives_per_video": 2,
+  "topic_types_available": [
+    "technical_subject",
+    "knowledge_sharing_behaviour",
+    "social_interaction",
+    "mixed"
+  ],
+  "interpretation_rule": "Final labels require human review of terms, representative comments, topic distributions, sampling stability and preprocessing sensitivity."
+}

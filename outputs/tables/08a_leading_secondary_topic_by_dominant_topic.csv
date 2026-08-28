@@ -1,0 +1,17 @@
+﻿dominant_topic_number,dominant_topic_label,most_common_secondary_topic_number,most_common_secondary_topic_label,pair_comment_count,share_within_dominant_topic,mean_secondary_relative_weight
+1,Situated household retrofit experience and building context,12,Roof and attic ventilation and airflow,655,0.12830558276199805,0.23954750315444268
+2,Spray foam and foam insulation,1,Situated household retrofit experience and building context,331,0.20232273838630807,0.1551332152480077
+3,Clarification and specification questions,1,Situated household retrofit experience and building context,667,0.23770491803278687,0.17428649302077373
+4,"Implementation, cost and how-to questions",1,Situated household retrofit experience and building context,561,0.23680878007598144,0.17934339835519375
+5,Heat pumps and heating systems,1,Situated household retrofit experience and building context,805,0.2715008431703204,0.22020466659823207
+6,"Praise, gratitude and social endorsement",1,Situated household retrofit experience and building context,1074,0.2864,0.20428810488834506
+7,"Alternative methods, challenges and ""why"" questions",1,Situated household retrofit experience and building context,269,0.153363740022805,0.15669690370054315
+8,"Solar PV, batteries and power systems",1,Situated household retrofit experience and building context,945,0.27794117647058825,0.20305104304935626
+9,Performance checking and troubleshooting,1,Situated household retrofit experience and building context,404,0.16591375770020533,0.20159368896494465
+10,"Implementation follow-up, outcomes and retrospective questions",1,Situated household retrofit experience and building context,308,0.17969661610268378,0.2143858972170545
+11,"Product sourcing, access and location questions",1,Situated household retrofit experience and building context,196,0.18791946308724833,0.1912786786070215
+12,Roof and attic ventilation and airflow,1,Situated household retrofit experience and building context,1061,0.26152329307369976,0.22149840738055734
+13,"Wall, cavity and floor insulation",1,Situated household retrofit experience and building context,928,0.2833587786259542,0.21915008421148852
+14,Thermostat wiring and smart heating controls,1,Situated household retrofit experience and building context,346,0.18773738469886056,0.2123072138089919
+15,Vapour barriers and moisture control,13,"Wall, cavity and floor insulation",315,0.196875,0.20906867021650485
+16,"Prospective choices, recommendations and alternatives",1,Situated household retrofit experience and building context,644,0.23931623931623933,0.22502211595766966

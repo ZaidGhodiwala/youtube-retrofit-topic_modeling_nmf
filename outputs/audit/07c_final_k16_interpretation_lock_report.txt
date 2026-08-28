@@ -1,0 +1,61 @@
+YOUTUBE RETROFIT FINAL k=16 INTERPRETATION LOCK
+===================================================
+
+Overall status: PASS
+
+Model interpretation
+--------------------
+Selected representation: inclusive primary TF-IDF
+Selected topic count: 16
+Topics human-reviewed: 16
+Topics retained: 16
+
+Topic-type structure
+--------------------
+Technical subjects: 7
+Knowledge-sharing behaviours: 7
+Social-interaction topics: 1
+Mixed/contextual topics: 1
+
+Confidence
+----------
+Confidence 3/5: 2 topics
+Confidence 4/5: 6 topics
+Confidence 5/5: 8 topics
+
+Locked topic labels
+-------------------
+01. Situated household retrofit experience and building context [mixed; confidence 4/5]
+02. Spray foam and foam insulation [technical_subject; confidence 5/5]
+03. Clarification and specification questions [knowledge_sharing_behaviour; confidence 4/5]
+04. Implementation, cost and how-to questions [knowledge_sharing_behaviour; confidence 4/5]
+05. Heat pumps and heating systems [technical_subject; confidence 5/5]
+06. Praise, gratitude and social endorsement [social_interaction; confidence 5/5]
+07. Alternative methods, challenges and "why" questions [knowledge_sharing_behaviour; confidence 4/5]
+08. Solar PV, batteries and power systems [technical_subject; confidence 5/5]
+09. Performance checking and troubleshooting [knowledge_sharing_behaviour; confidence 4/5]
+10. Implementation follow-up, outcomes and retrospective questions [knowledge_sharing_behaviour; confidence 3/5]
+11. Product sourcing, access and location questions [knowledge_sharing_behaviour; confidence 4/5]
+12. Roof and attic ventilation and airflow [technical_subject; confidence 5/5]
+13. Wall, cavity and floor insulation [technical_subject; confidence 5/5]
+14. Thermostat wiring and smart heating controls [technical_subject; confidence 5/5]
+15. Vapour barriers and moisture control [technical_subject; confidence 5/5]
+16. Prospective choices, recommendations and alternatives [knowledge_sharing_behaviour; confidence 3/5]
+
+Interpretive caution
+--------------------
+The 16 topics are latent NMF components, not mutually exclusive manual categories.
+Dominant-topic assignments are used for descriptive prevalence summaries only; comments can carry weight on multiple topics.
+Topics 10 and 16 remain lower-confidence cross-cutting discourse components.
+Topic 6 captures social endorsement, not evidence of technical correctness.
+Topics 12 and 15 were retained despite isolated unstable subsampling runs because their median stability, substantive coherence and preprocessing robustness were strong.
+
+Hashes
+------
+Source review SHA-256: 7187ac3652d065251232fdd2edb8d99430bb8268ec963ff4ea87d2c7812adf68
+Locked output SHA-256: de464bf50139656e1210e93a7b4d5dcc4c51cb510d57c05298abe37ca9a687c3
+
+Created
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\07c_final_k16_topic_interpretation_locked.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\07c_final_k16_interpretation.json

@@ -1,0 +1,13 @@
+{
+  "analysis_stage": "Equal-comment video-profile robustness",
+  "comments_per_video_conditions": [
+    10,
+    20
+  ],
+  "repetitions": 100,
+  "base_seed": 20260828,
+  "sampling": "without replacement within each video",
+  "topic_profile": "mean row-normalised NMF topic weights for exactly N sampled comments",
+  "association": "Spearman rank correlation",
+  "purpose": "Assess sensitivity of Stage 08c associations to unequal numbers of modelled comments per video."
+}

@@ -1,0 +1,866 @@
+YOUTUBE RETROFIT FINAL k=16 NMF TOPIC REVIEW
+=================================================
+
+Model status
+------------
+Selected model: inclusive primary TF-IDF, k=16 NMF
+Comments represented: 42,443
+Videos represented: 1,158
+
+Purpose
+-------
+This report supports final human interpretation and naming of the selected 16-topic NMF solution.
+Provisional labels are review aids. They are not treated as final topic labels until explicitly approved by the researcher.
+
+======================================================================
+TOPIC 01
+======================================================================
+
+Provisional label: Household retrofit experience, older homes and general problems
+Provisional type: mixed
+Provisional confidence: moderate
+
+Top 20 terms:
+house | not | just | when | never | years | no | like | good | more | old | time | heating | new | way | over | people | windows | problem | really
+
+Dominant comments: 5,105 (12.03%)
+Unique videos: 693
+Largest single-video share: 1.76%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (1,220; 23.9%) | airtightness_draught_proofing (766; 15.0%) | damp_condensation_moisture (630; 12.3%) | smart_heating_controls (582; 11.4%) | loft_roof_insulation (331; 6.5%)
+  Creator types: diy_renovator_homeowner (1,587; 31.1%) | training_educational (1,374; 26.9%) | installer_tradesperson (1,274; 25.0%) | builder_contractor (870; 17.0%)
+  Video types: how_to_installation_demo (2,468; 48.3%) | practical_advice_explainer (1,317; 25.8%) | problem_warning_mistakes (972; 19.0%) | project_walkthrough (348; 6.8%)
+  Existing rule-based themes: theme_practical_advice (1,423; 27.9%) | theme_question_request (1,061; 20.8%) | theme_personal_experience (520; 10.2%) | theme_cost_finance (482; 9.4%) | theme_damp_moisture_condensation (421; 8.2%)
+
+Sampling stability:
+  Mean cosine: 0.9247
+  Median cosine: 0.9200
+  Minimum cosine: 0.8267
+  Mean top-20 Jaccard: 0.6586
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 05
+  Cosine similarity: 0.8096
+  Top-20 Jaccard: 0.3333
+
+Representative comments (first 10 of 20):
+  1. [weight=0.0561; relative=1.000] I do everything myself on my house 🏘️
+  2. [weight=0.0561; relative=1.000] Is that my house?
+  3. [weight=0.0561; relative=1.000] can you do our house please?
+  4. [weight=0.0561; relative=1.000] I have it at my house and it’s divine
+  5. [weight=0.0434; relative=0.806] Them old house , were not house as we called them now , they were more like shelter. They had an open fire continously burning. Not shower to create steam . They had no money to use good materials to build the house in the first place. As we have experience the same problem, I came to the conclusion is to build a new house in the old one and often it's the best. Keep the old walls for the look outside and build new ones inside. It will reduce the space but in the short term it will not upset you and you will have a good home to live in . I know this because I moved in the West of Ireland into an old rectory. Dampness of tge North West of Europe is nothing to the one of Normandie. Oh , by the way , I'm French too 😂😂
+  6. [weight=0.0419; relative=0.363] Assuming a modern gas boiler and (and assuming you used the free cavity/roof insulation offers when they were available years ago), Set your heating to the outside temp, and then turn it up by 1C at a time (waiting at least half an hour between each) until you are not uncomfortable but not cold. this is the temp you need to set at night or times of non occupancy. Then turn it up 0.5C at a time (with 1 hour waits) until you are just comfortable. That's the temperature you need to set during occupancy time. You save by setting semi-constant and low heat settings because: (1) your boiler will work at its most efficient when set at low temps for long times rather than at high temps for short bursts, and (2) your house maintains the heat better when the differential between inside and outside is as low as possible. Many people turn up the heat for psychological comfort rather than physical...
+  7. [weight=0.0414; relative=0.528] I have a solid brick old terraced house. After 3 years of being here I have only just attempted this. Last year I had the same boiler, same thermostat but it was on a timer, now my issue is that when my heating is not on for a few hours it could drop to 17 degrees, so last year when it was on a timer it was having to go from 16/17 to 19/20 each time. This year I have kept my heating at 19 when I am in the house and 18 when I am not in the house. I’ve just got my bill and it says that my usage is down 85%. In certain houses this does in fact work and I wish I knew this 3 years ago!! I move out in a few months.
+  8. [weight=0.0409; relative=0.451] I will say as a pretty competent DIYer mainly focused on carpentry you have to understand the tissue backed pir might look good on a spec sheet and I've never used it but my assumption is people don't want to use it for a few reasons 1. It's going to be a nightmare to put in without ripping or breaking and that suvirely decreases the insulations thermal performance 2 then imagine you get it in and any moisture not just water gets to it even the slightest condensation it's going to be ruined and make a big mess. 3 at the end of the day the tradesperson has to 'back' the work they do and might not be comfortable using a new or cheap product that's is inferior because if something goes wrong they have to take the time and spend they're money to fix it when we have had insulations that work fine for over a hundred years. Just my two cents as someone who does alot of this stuff for themsel...
+  9. [weight=0.0399; relative=1.000] Depending on your climate it may not be of any value to insulate an old house. Good way to rot out a house that has stood for 150 years or more already. Same with windows. Refurbish the old windows. New windows just have to be replaced in 15 years. No energy saving overall.
+  10. [weight=0.0394; relative=0.385] My last home had damp problems. Funny how this new house with older windows doesn't have mold on the walls. We only have mold on the black window sill between the glass and the frame. Our bathroom extractor fan is shit and we still get no mold. Make sure you close your bathroom door because the moisture will travel around the house otherwise. I always have my window open in the day because I get hot easily and I like having new air in my bedroom. I live my parents by the way. Mold is a strange issue for sure because some people do everything wrong yet they never get mold because they have old windows or just lucky.
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 02
+======================================================================
+
+Provisional label: Spray foam and foam insulation
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+foam | spray | spray foam | cell | use | foam insulation | closed | closed cell | expanding | foam board | board | expanding foam | cell spray | use spray | foam not | attic | seal | cell foam | wool | mortgage
+
+Dominant comments: 1,636 (3.85%)
+Unique videos: 220
+Largest single-video share: 11.86%
+
+Corpus context:
+  Retrofit areas: loft_roof_insulation (461; 28.2%) | airtightness_draught_proofing (379; 23.2%) | damp_condensation_moisture (279; 17.1%) | internal_wall_insulation (115; 7.0%) | floor_insulation (114; 7.0%)
+  Creator types: builder_contractor (792; 48.4%) | diy_renovator_homeowner (361; 22.1%) | installer_tradesperson (271; 16.6%) | training_educational (212; 13.0%)
+  Video types: how_to_installation_demo (738; 45.1%) | problem_warning_mistakes (611; 37.3%) | practical_advice_explainer (148; 9.0%) | project_walkthrough (139; 8.5%)
+  Existing rule-based themes: theme_product_material_tool (588; 35.9%) | theme_question_request (314; 19.2%) | theme_practical_advice (231; 14.1%) | theme_energy_performance (173; 10.6%) | theme_damp_moisture_condensation (116; 7.1%)
+
+Sampling stability:
+  Mean cosine: 0.9993
+  Median cosine: 0.9993
+  Minimum cosine: 0.9991
+  Mean top-20 Jaccard: 0.9524
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 02
+  Cosine similarity: 0.9996
+  Top-20 Jaccard: 1.0000
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2306; relative=1.000] SPRAY FOAM IS A RIPOFF!
+  2. [weight=0.2306; relative=1.000] SPRAY FOAM! 😉🤣
+  3. [weight=0.2306; relative=1.000] 😂 spray foam bandit struck again!
+  4. [weight=0.2101; relative=1.000] Spray foam man. SPRAY FOAM!!
+  5. [weight=0.2060; relative=0.992] Time for closecell spray foam
+  6. [weight=0.2012; relative=0.999] Spray foam, got it.
+  7. [weight=0.1930; relative=0.995] i thought spray foam was hazardeous?
+  8. [weight=0.1755; relative=1.000] I hate spray foam.
+  9. [weight=0.1750; relative=0.991] That spray foam is going to leave you bankrupt😂
+  10. [weight=0.1683; relative=1.000] Or foam it
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 03
+======================================================================
+
+Provisional label: What, which and specification questions
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: moderate
+
+Top 20 terms:
+what | what happens | happens | know what | what brand | using | what would | what kind | brand | kind | what cost | what did | what size | size | called | know | cost | what type | use | doing
+
+Dominant comments: 2,806 (6.61%)
+Unique videos: 647
+Largest single-video share: 1.35%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (617; 22.0%) | smart_heating_controls (371; 13.2%) | solar_renewable_integration (319; 11.4%) | airtightness_draught_proofing (282; 10.0%) | damp_condensation_moisture (245; 8.7%)
+  Creator types: installer_tradesperson (892; 31.8%) | diy_renovator_homeowner (766; 27.3%) | training_educational (668; 23.8%) | builder_contractor (480; 17.1%)
+  Video types: how_to_installation_demo (1,558; 55.5%) | practical_advice_explainer (619; 22.1%) | problem_warning_mistakes (430; 15.3%) | project_walkthrough (199; 7.1%)
+  Existing rule-based themes: theme_question_request (2,076; 74.0%) | theme_practical_advice (190; 6.8%) | theme_energy_performance (118; 4.2%) | theme_cost_finance (96; 3.4%) | theme_product_material_tool (79; 2.8%)
+
+Sampling stability:
+  Mean cosine: 0.9994
+  Median cosine: 0.9995
+  Minimum cosine: 0.9991
+  Mean top-20 Jaccard: 0.8797
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 03
+  Cosine similarity: 0.9997
+  Top-20 Jaccard: 0.9048
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2812; relative=1.000] What about VanEE ? 6:59 7:02
+  2. [weight=0.2812; relative=1.000] what was the invoice?
+  3. [weight=0.2812; relative=1.000] What's your name ?
+  4. [weight=0.2812; relative=1.000] What’s the ig?
+  5. [weight=0.2812; relative=1.000] what is this?
+  6. [weight=0.2812; relative=1.000] What about Airkrete?
+  7. [weight=0.2812; relative=1.000] So, what’s the verdict ?
+  8. [weight=0.2812; relative=1.000] Since you have your what out ?
+  9. [weight=0.2812; relative=1.000] His what out???
+  10. [weight=0.2812; relative=1.000] What for ?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 04
+======================================================================
+
+Provisional label: How-to, implementation and cost questions
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: moderate
+
+Top 20 terms:
+how | cost | how did | how does | how long | know | long | how would | know how | how cost | how know | video how | how fix | fix | how install | not how | did cost | does cost | insulate | set
+
+Dominant comments: 2,369 (5.58%)
+Unique videos: 621
+Largest single-video share: 1.31%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (577; 24.4%) | smart_heating_controls (384; 16.2%) | solar_renewable_integration (274; 11.6%) | airtightness_draught_proofing (209; 8.8%) | damp_condensation_moisture (181; 7.6%)
+  Creator types: installer_tradesperson (795; 33.6%) | diy_renovator_homeowner (702; 29.6%) | training_educational (527; 22.2%) | builder_contractor (345; 14.6%)
+  Video types: how_to_installation_demo (1,370; 57.8%) | practical_advice_explainer (469; 19.8%) | problem_warning_mistakes (352; 14.9%) | project_walkthrough (178; 7.5%)
+  Existing rule-based themes: theme_question_request (1,650; 69.6%) | theme_practical_advice (226; 9.5%) | theme_energy_performance (143; 6.0%) | theme_cost_finance (108; 4.6%) | theme_personal_experience (69; 2.9%)
+
+Sampling stability:
+  Mean cosine: 0.9970
+  Median cosine: 0.9988
+  Minimum cosine: 0.9913
+  Mean top-20 Jaccard: 0.8110
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 04
+  Cosine similarity: 0.9992
+  Top-20 Jaccard: 0.7391
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2796; relative=1.000] Please how can I get this
+  2. [weight=0.2796; relative=1.000] How can I get this.
+  3. [weight=0.2796; relative=1.000] How is he a gangster in paradise?
+  4. [weight=0.2796; relative=1.000] So, that's how it done...? 😱
+  5. [weight=0.2796; relative=1.000] How much? 😂😂😂😂😂😂
+  6. [weight=0.2796; relative=1.000] how do i do that
+  7. [weight=0.2796; relative=1.000] How much is the PF?
+  8. [weight=0.2796; relative=1.000] how much all???
+  9. [weight=0.2796; relative=1.000] How much is this?
+  10. [weight=0.2796; relative=1.000] How much for that system??? 😊
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 05
+======================================================================
+
+Provisional label: Heat pumps and heating systems
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+heat | pump | heat pump | gas | water | pumps | heating | heat pumps | boiler | hot | hot water | temperature | electric | air | radiators | furnace | heater | loss | heat loss | run
+
+Dominant comments: 2,965 (6.99%)
+Unique videos: 363
+Largest single-video share: 5.83%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (2,291; 77.3%) | smart_heating_controls (221; 7.5%) | solar_renewable_integration (68; 2.3%) | general_energy_retrofit (62; 2.1%) | damp_condensation_moisture (55; 1.9%)
+  Creator types: installer_tradesperson (1,114; 37.6%) | training_educational (1,062; 35.8%) | diy_renovator_homeowner (528; 17.8%) | builder_contractor (261; 8.8%)
+  Video types: practical_advice_explainer (1,427; 48.1%) | how_to_installation_demo (1,192; 40.2%) | problem_warning_mistakes (176; 5.9%) | project_walkthrough (170; 5.7%)
+  Existing rule-based themes: theme_question_request (1,066; 36.0%) | theme_practical_advice (545; 18.4%) | theme_energy_performance (418; 14.1%) | theme_cost_finance (411; 13.9%) | theme_personal_experience (282; 9.5%)
+
+Sampling stability:
+  Mean cosine: 0.9918
+  Median cosine: 0.9987
+  Minimum cosine: 0.9417
+  Mean top-20 Jaccard: 0.9056
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 07
+  Cosine similarity: 0.9705
+  Top-20 Jaccard: 0.6667
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2037; relative=1.000] Do you also have a heat pump?
+  2. [weight=0.1829; relative=0.989] Heat pump At 50c! , you need to rethink that one.
+  3. [weight=0.1645; relative=0.729] There seem to be two heat pumps out the front. What is the second heat pump for?
+  4. [weight=0.1458; relative=1.000] Get a quote for a heat pump: https://tech.referrals.octopus.energy/uOYXOG2p
+  5. [weight=0.1393; relative=0.776] I don't have the funds for this heat pump solution or do I have the space.
+  6. [weight=0.1334; relative=0.620] How noisy is your heat pump?
+  7. [weight=0.1327; relative=0.970] Is it a heat storage heat pump boiler?
+  8. [weight=0.1325; relative=0.985] Are you showing the installation of the heat pump?
+  9. [weight=0.1292; relative=1.000] Do you have a heat pump episode?
+  10. [weight=0.1287; relative=1.000] So a heat pump comes pre installed? Also are all heat pump heaters electric?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 06
+======================================================================
+
+Provisional label: Praise, gratitude and social endorsement
+Provisional type: social_interaction
+Provisional confidence: high
+
+Top 20 terms:
+video | great | great video | thanks | thank | video thanks | hi | thanks video | videos | question | informative | thanks great | video what | job | helpful | nice | excellent | sharing | good | really
+
+Dominant comments: 3,750 (8.84%)
+Unique videos: 590
+Largest single-video share: 2.08%
+
+Corpus context:
+  Retrofit areas: smart_heating_controls (824; 22.0%) | heat_pump_heating_retrofit (815; 21.7%) | airtightness_draught_proofing (434; 11.6%) | solar_renewable_integration (317; 8.5%) | damp_condensation_moisture (284; 7.6%)
+  Creator types: diy_renovator_homeowner (1,244; 33.2%) | installer_tradesperson (1,020; 27.2%) | training_educational (948; 25.3%) | builder_contractor (538; 14.3%)
+  Video types: how_to_installation_demo (2,067; 55.1%) | practical_advice_explainer (740; 19.7%) | problem_warning_mistakes (657; 17.5%) | project_walkthrough (286; 7.6%)
+  Existing rule-based themes: theme_question_request (1,583; 42.2%) | theme_practical_advice (656; 17.5%) | theme_personal_experience (345; 9.2%) | theme_energy_performance (293; 7.8%) | theme_cost_finance (207; 5.5%)
+
+Sampling stability:
+  Mean cosine: 0.9989
+  Median cosine: 0.9989
+  Minimum cosine: 0.9985
+  Mean top-20 Jaccard: 0.9169
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 16
+  Cosine similarity: 0.0958
+  Top-20 Jaccard: 0.0526
+Review cues: inspect_preprocessing_dependence | expected_social_topic_preprocessing_change
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2703; relative=1.000] Great video as always!!
+  2. [weight=0.2703; relative=1.000] As always, great video!
+  3. [weight=0.2703; relative=1.000] Great video as always 👍
+  4. [weight=0.2358; relative=1.000] As always, great video, thanks so much.
+  5. [weight=0.2033; relative=0.999] Great video. Is that polished metal one?
+  6. [weight=0.2027; relative=1.000] Top video as always 👍👍
+  7. [weight=0.2019; relative=0.694] Another great video. Have you said what your first name is?
+  8. [weight=0.1973; relative=1.000] I always keep the screws for reusing, great video thanks
+  9. [weight=0.1868; relative=0.965] Great video thanks. So do you have to remove the plaster first?
+  10. [weight=0.1793; relative=0.996] Ps. Great video & thanks. It highlights the problem.
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 07
+======================================================================
+
+Provisional label: Why questions, alternatives and challenges
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: moderate
+
+Top 20 terms:
+why | why not | not | use | why would | not just | not use | why did | just | instead | understand | just use | why use | why does | know why | would not | understand why | illegal | not understand | why no
+
+Dominant comments: 1,754 (4.13%)
+Unique videos: 523
+Largest single-video share: 2.22%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (376; 21.4%) | smart_heating_controls (237; 13.5%) | solar_renewable_integration (216; 12.3%) | airtightness_draught_proofing (182; 10.4%) | loft_roof_insulation (164; 9.4%)
+  Creator types: installer_tradesperson (594; 33.9%) | diy_renovator_homeowner (448; 25.5%) | training_educational (417; 23.8%) | builder_contractor (295; 16.8%)
+  Video types: how_to_installation_demo (993; 56.6%) | practical_advice_explainer (400; 22.8%) | problem_warning_mistakes (262; 14.9%) | project_walkthrough (99; 5.6%)
+  Existing rule-based themes: theme_question_request (1,264; 72.1%) | theme_practical_advice (224; 12.8%) | theme_energy_performance (73; 4.2%) | theme_product_material_tool (42; 2.4%) | theme_cost_finance (37; 2.1%)
+
+Sampling stability:
+  Mean cosine: 0.9793
+  Median cosine: 0.9958
+  Minimum cosine: 0.9501
+  Mean top-20 Jaccard: 0.7995
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 06
+  Cosine similarity: 0.9713
+  Top-20 Jaccard: 0.8182
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2859; relative=0.928] why brazing and not stabrite8??
+  2. [weight=0.2760; relative=1.000] Why the blurring?
+  3. [weight=0.2760; relative=1.000] Why only 70 ?
+  4. [weight=0.2760; relative=1.000] why all the curses?
+  5. [weight=0.2673; relative=0.988] Why install from top to bottom? Why not bottom to top????
+  6. [weight=0.2301; relative=0.920] why aren't you boris's heating tzar yet?
+  7. [weight=0.2191; relative=0.985] Why not do this why not do that?
+  8. [weight=0.2177; relative=0.864] Why not use a calkline?
+  9. [weight=0.2136; relative=0.636] why the cone off insulation
+  10. [weight=0.2135; relative=0.629] boring! why video?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 08
+======================================================================
+
+Provisional label: Solar PV, batteries and grid integration
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+solar | panels | battery | solar panels | power | panel | inverter | batteries | grid | cost | charge | energy | use | solar panel | electric | kwh | more | electricity | need | day
+
+Dominant comments: 3,400 (8.01%)
+Unique videos: 424
+Largest single-video share: 3.35%
+
+Corpus context:
+  Retrofit areas: solar_renewable_integration (2,234; 65.7%) | heat_pump_heating_retrofit (506; 14.9%) | smart_heating_controls (299; 8.8%) | loft_roof_insulation (90; 2.6%) | ventilation_mvhr (42; 1.2%)
+  Creator types: training_educational (1,253; 36.9%) | installer_tradesperson (1,125; 33.1%) | diy_renovator_homeowner (897; 26.4%) | builder_contractor (125; 3.7%)
+  Video types: how_to_installation_demo (1,633; 48.0%) | practical_advice_explainer (1,056; 31.1%) | project_walkthrough (411; 12.1%) | problem_warning_mistakes (300; 8.8%)
+  Existing rule-based themes: theme_question_request (1,256; 36.9%) | theme_cost_finance (794; 23.4%) | theme_practical_advice (546; 16.1%) | theme_energy_performance (272; 8.0%) | theme_personal_experience (234; 6.9%)
+
+Sampling stability:
+  Mean cosine: 0.9962
+  Median cosine: 0.9972
+  Minimum cosine: 0.9893
+  Mean top-20 Jaccard: 0.9351
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 15
+  Cosine similarity: 0.9951
+  Top-20 Jaccard: 0.8182
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2339; relative=0.718] How to interconnect 2 solar panels?
+  2. [weight=0.2005; relative=0.922] I have Tesla solar panels, can I use this system with them?
+  3. [weight=0.1793; relative=0.728] Where can I get these solar generators to buy and do they come with solar panels?
+  4. [weight=0.1749; relative=0.734] What solar panels are these?
+  5. [weight=0.1720; relative=1.000] Yeah the solar panels leak. Always!
+  6. [weight=0.1719; relative=0.803] Hi Finn, I have a 6.65kw solar system inc.14 panels on the roof, with a Goodwe inverter. I have been told about fitting a 7.68kw Jinko battery to our system, as we have Jinko panels on the roof. Do you have any thoughts on this battery and fitment please?
+  7. [weight=0.1679; relative=1.000] I’m upgrading my setup with additional solar panels and a 9.4kWh battery. I already have a 10-year-old 4kW solar system, so this will be an add-on. The full package, 8.5kW of solar panels, a 6kW inverter, a 9.4kWh battery, installation, anti-bird protection, and scaffolding, costs £8,650 all in. There’s also the option to expand the battery storage at a later date with extra 9.4kWh batteries at £2,000 each.
+  8. [weight=0.1673; relative=0.733] What is the use of the Powmr brand 4.2kw, 24v battery system for 200watt 18.6v solar panels?
+  9. [weight=0.1663; relative=1.000] So all the solar panels with battery and install all for 4 grand thats cheap
+  10. [weight=0.1660; relative=0.701] What kind of solar panels are those?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 09
+======================================================================
+
+Provisional label: Does it work? Performance and troubleshooting
+Provisional type: mixed
+Provisional confidence: moderate
+
+Top 20 terms:
+does | does not | not | work | how does | does work | not work | mean | need | what does | matter | not need | does cost | does mean | why does | know | does know | where does | does need | foam does
+
+Dominant comments: 2,435 (5.74%)
+Unique videos: 619
+Largest single-video share: 1.15%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (529; 21.7%) | smart_heating_controls (521; 21.4%) | airtightness_draught_proofing (246; 10.1%) | solar_renewable_integration (223; 9.2%) | ventilation_mvhr (177; 7.3%)
+  Creator types: installer_tradesperson (844; 34.7%) | diy_renovator_homeowner (670; 27.5%) | training_educational (544; 22.3%) | builder_contractor (377; 15.5%)
+  Video types: how_to_installation_demo (1,380; 56.7%) | practical_advice_explainer (533; 21.9%) | problem_warning_mistakes (390; 16.0%) | project_walkthrough (132; 5.4%)
+  Existing rule-based themes: theme_question_request (1,262; 51.8%) | theme_practical_advice (415; 17.0%) | theme_energy_performance (169; 6.9%) | theme_cost_finance (123; 5.1%) | theme_personal_experience (94; 3.9%)
+
+Sampling stability:
+  Mean cosine: 0.9764
+  Median cosine: 0.9934
+  Minimum cosine: 0.9370
+  Mean top-20 Jaccard: 0.7457
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 08
+  Cosine similarity: 0.9589
+  Top-20 Jaccard: 0.6667
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2360; relative=0.983] So, it doesn’t work.
+  2. [weight=0.1919; relative=0.953] Don’t fck with me. Does this work?
+  3. [weight=0.1853; relative=0.950] That cheap plastic doesn't work.
+  4. [weight=0.1762; relative=0.856] No loft or flat this doesn't work.
+  5. [weight=0.1754; relative=0.768] this video doesn't work
+  6. [weight=0.1754; relative=0.964] Doesn't work. My garage is still freezing
+  7. [weight=0.1720; relative=0.972] Does it work??
+  8. [weight=0.1720; relative=0.972] Does this work for a 830?
+  9. [weight=0.1655; relative=0.791] Mine does move like that and I bleed the reditoar but one that doesn't heat up?
+  10. [weight=0.1636; relative=0.900] I have two of these old thermostats actually. The one upstairs doesn't work. The light comes on to say it's on but it doesn't seem to have any effect on the radiators.
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 10
+======================================================================
+
+Provisional label: Reported actions and implementation experience
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: low
+
+Top 20 terms:
+did | did not | how did | not | why did | did use | what did | where did | use | did cost | job | not know | cost | install | say | work | video did | know | did install | not use
+
+Dominant comments: 1,714 (4.04%)
+Unique videos: 497
+Largest single-video share: 2.22%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (364; 21.2%) | smart_heating_controls (215; 12.5%) | loft_roof_insulation (181; 10.6%) | airtightness_draught_proofing (167; 9.7%) | solar_renewable_integration (154; 9.0%)
+  Creator types: diy_renovator_homeowner (680; 39.7%) | installer_tradesperson (447; 26.1%) | builder_contractor (300; 17.5%) | training_educational (287; 16.7%)
+  Video types: how_to_installation_demo (998; 58.2%) | problem_warning_mistakes (315; 18.4%) | practical_advice_explainer (246; 14.4%) | project_walkthrough (155; 9.0%)
+  Existing rule-based themes: theme_question_request (680; 39.7%) | theme_personal_experience (363; 21.2%) | theme_practical_advice (258; 15.1%) | theme_energy_performance (129; 7.5%) | theme_cost_finance (94; 5.5%)
+
+Sampling stability:
+  Mean cosine: 0.7422
+  Median cosine: 0.9928
+  Minimum cosine: 0.0173
+  Mean top-20 Jaccard: 0.4953
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 09
+  Cosine similarity: 0.9937
+  Top-20 Jaccard: 0.6000
+Review cues: inspect_sampling_stability
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2500; relative=1.000] I did that.
+  2. [weight=0.2500; relative=1.000] I get it, but did you have to crumble it on yourself 😆 🤣
+  3. [weight=0.2500; relative=1.000] Also, did you have to readjust the tensioner?
+  4. [weight=0.1440; relative=0.751] I did this and it didn't work
+  5. [weight=0.1431; relative=0.637] You didn't show the slant ceiling area. How did you insulate that?
+  6. [weight=0.1368; relative=0.802] 🔵 *u didn't show product name or brand* 👎
+  7. [weight=0.1351; relative=0.613] Hi, did you do earthing with it? Thanks!
+  8. [weight=0.1308; relative=0.480] How much did your power bill go up?
+  9. [weight=0.1307; relative=0.715] It said on the can use gloves ?????? didn't see them
+  10. [weight=0.1300; relative=0.519] How much did your electric bill go down by ?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 11
+======================================================================
+
+Provisional label: Finding, buying and locating products or resources
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: moderate
+
+Top 20 terms:
+where | buy | where buy | where did | where does | live | know where | link | located | where live | video where | know | based | where would | tool | uk | where not | goes | door | purchase
+
+Dominant comments: 1,043 (2.46%)
+Unique videos: 435
+Largest single-video share: 1.92%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (216; 20.7%) | airtightness_draught_proofing (131; 12.6%) | smart_heating_controls (124; 11.9%) | solar_renewable_integration (108; 10.4%) | damp_condensation_moisture (107; 10.3%)
+  Creator types: diy_renovator_homeowner (335; 32.1%) | installer_tradesperson (314; 30.1%) | training_educational (213; 20.4%) | builder_contractor (181; 17.4%)
+  Video types: how_to_installation_demo (625; 59.9%) | practical_advice_explainer (196; 18.8%) | problem_warning_mistakes (162; 15.5%) | project_walkthrough (60; 5.8%)
+  Existing rule-based themes: theme_question_request (645; 61.8%) | theme_practical_advice (105; 10.1%) | theme_energy_performance (69; 6.6%) | theme_product_material_tool (48; 4.6%) | theme_damp_moisture_condensation (48; 4.6%)
+
+Sampling stability:
+  Mean cosine: 0.9953
+  Median cosine: 0.9989
+  Minimum cosine: 0.9801
+  Mean top-20 Jaccard: 0.7742
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 10
+  Cosine similarity: 0.9998
+  Top-20 Jaccard: 0.9048
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2380; relative=1.000] Where do you get that smoker at?
+  2. [weight=0.2380; relative=1.000] Where I get that?😮
+  3. [weight=0.2380; relative=1.000] Where can we get one?
+  4. [weight=0.2380; relative=1.000] Where do you get this???
+  5. [weight=0.2380; relative=1.000] Where is part 3 ?
+  6. [weight=0.2380; relative=1.000] Where are you Stakker?
+  7. [weight=0.2380; relative=1.000] Where do you get this from?
+  8. [weight=0.2380; relative=1.000] Where do you bui it ?
+  9. [weight=0.2380; relative=1.000] where can i get that vape
+  10. [weight=0.2380; relative=1.000] Where can I get this
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 12
+======================================================================
+
+Provisional label: Roof and attic ventilation, airflow and heat
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+roof | air | vents | attic | cold | vent | warm | ridge | ventilation | soffit | gap | space | warm roof | ceiling | through | fan | cold air | between | condensation | air gap
+
+Dominant comments: 4,057 (9.56%)
+Unique videos: 509
+Largest single-video share: 3.85%
+
+Corpus context:
+  Retrofit areas: loft_roof_insulation (1,021; 25.2%) | ventilation_mvhr (834; 20.6%) | damp_condensation_moisture (753; 18.6%) | airtightness_draught_proofing (403; 9.9%) | heat_pump_heating_retrofit (364; 9.0%)
+  Creator types: diy_renovator_homeowner (1,125; 27.7%) | builder_contractor (1,068; 26.3%) | training_educational (953; 23.5%) | installer_tradesperson (911; 22.5%)
+  Video types: how_to_installation_demo (1,544; 38.1%) | practical_advice_explainer (1,393; 34.3%) | problem_warning_mistakes (898; 22.1%) | project_walkthrough (222; 5.5%)
+  Existing rule-based themes: theme_question_request (1,297; 32.0%) | theme_practical_advice (768; 18.9%) | theme_energy_performance (729; 18.0%) | theme_damp_moisture_condensation (558; 13.8%) | theme_personal_experience (302; 7.4%)
+
+Sampling stability:
+  Mean cosine: 0.8986
+  Median cosine: 0.9966
+  Minimum cosine: 0.0159
+  Mean top-20 Jaccard: 0.7553
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 11
+  Cosine similarity: 0.9906
+  Top-20 Jaccard: 0.7391
+Review cues: inspect_sampling_stability
+
+Representative comments (first 10 of 20):
+  1. [weight=0.1200; relative=1.000] Warm roof then
+  2. [weight=0.1200; relative=1.000] now that`s a warm roof
+  3. [weight=0.1188; relative=0.545] What I don't quite understand about leaving an air gap is that if air is comming in vents through the soffit and going up to the ridge board where does it vent out, air will stop moving if it's not vented at the other end, and if you have roof vents you would need one between each roof joist on both sides of the roof.
+  4. [weight=0.1175; relative=0.971] Can an air to air unit be put on a flat roof?
+  5. [weight=0.1165; relative=0.787] Might be too late to help, but I have a 1905 in Pittsburgh. I replaced roof about 7-8 yrs ago. I had ridge vents put in and decided to run ridge venting from gap at soffit up to ridge vent. Once that’s done I’m going to place batt insulation along the baffles. That should allow free flowing air along the roof line and create an air space in the attic. I’ve researched this and newer homes seem to work well with this method. As long as the roof gets cold air running along it, I should retain heat. Good luck.
+  6. [weight=0.1143; relative=0.816] my flat roof(which i want to turn into a warm roof) runs into a pitched roof, would i seal the warm roof completely & then add some vent tiles to the bottom of the pitch roof to regain the ventilation i had from the old cold roof?
+  7. [weight=0.1124; relative=0.718] The hottest air in an attic will always rise out the ridge vents at the top of the roof regardless of gable vents being present. Gable vents introducing fresh cool air along with the soffit vents is NOT a bad thing. Everyone says it but can not explain why that makes any sense. Thermodynamics (heat rising) will not change because gable vents are open with soffit vents, the inrush of cool air from the gable vent to the ridge vent increases the total CFM of cool outside air moving through a hot attic. Air is just dry water, the more cool water (air) being moved through a vessel (roof) the better for cooling overall. In an all year hot climate like Florida ot Texas the more venitlation a roof gets the better.
+  8. [weight=0.1121; relative=0.633] No air gap mush ? Flat roof problem all day . Needs to be a warm roof really . Cold roof design is bad great video by the way . Yes learnt a lot for once
+  9. [weight=0.1120; relative=0.463] How does the vent work? Is the air going out into the roof ridge up into the top attic?
+  10. [weight=0.1116; relative=0.965] Dil you have to put air vents in the slate between the 50mm air gap and the out side?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 13
+======================================================================
+
+Provisional label: Wall, cavity and floor insulation
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+insulation | wall | cavity | walls | floor | wall insulation | cavity wall | between | board | brick | damp | loft | plaster | boards | external | concrete | inside | under | internal | exterior
+
+Dominant comments: 3,275 (7.72%)
+Unique videos: 442
+Largest single-video share: 5.19%
+
+Corpus context:
+  Retrofit areas: damp_condensation_moisture (500; 15.3%) | loft_roof_insulation (470; 14.4%) | internal_wall_insulation (459; 14.0%) | floor_insulation (366; 11.2%) | airtightness_draught_proofing (246; 7.5%)
+  Creator types: diy_renovator_homeowner (989; 30.2%) | builder_contractor (931; 28.4%) | training_educational (800; 24.4%) | installer_tradesperson (555; 16.9%)
+  Video types: how_to_installation_demo (1,605; 49.0%) | problem_warning_mistakes (675; 20.6%) | practical_advice_explainer (672; 20.5%) | project_walkthrough (323; 9.9%)
+  Existing rule-based themes: theme_question_request (1,008; 30.8%) | theme_energy_performance (1,004; 30.7%) | theme_practical_advice (420; 12.8%) | theme_damp_moisture_condensation (406; 12.4%) | theme_personal_experience (226; 6.9%)
+
+Sampling stability:
+  Mean cosine: 0.9934
+  Median cosine: 0.9979
+  Minimum cosine: 0.9519
+  Mean top-20 Jaccard: 0.7774
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 12
+  Cosine similarity: 0.9969
+  Top-20 Jaccard: 0.8182
+
+Representative comments (first 10 of 20):
+  1. [weight=0.1983; relative=1.000] Insulation thief. 😂
+  2. [weight=0.1983; relative=1.000] 200mm insulation - blimey
+  3. [weight=0.1983; relative=1.000] I have one for insulation!
+  4. [weight=0.1540; relative=1.000] Is that a 300mm wall and 100mm insulation?
+  5. [weight=0.1226; relative=0.993] Whatever happened to cavity wall insulation.
+  6. [weight=0.1220; relative=0.364] why the cone off insulation
+  7. [weight=0.1119; relative=0.997] Can this be done in a 90s build property thats had cavity wall insulation?
+  8. [weight=0.1107; relative=0.832] I know of a company that used to specialise in cavity wall insulation. They now specialise in its removal. Cavity wall insulation can wreck a house. Don’t do it!
+  9. [weight=0.1100; relative=1.000] Is external wall insulation better or internal wall insulation?
+  10. [weight=0.1081; relative=0.999] are you kidding me? NO, cavity wall insulation is a nightmare
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 14
+======================================================================
+
+Provisional label: Thermostat wiring and smart heating controls
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+wire | thermostat | wires | boiler | nest | connected | connect | blue | red | need | white | smart | hive | furnace | honeywell | control | common | old | terminal | blue wire
+
+Dominant comments: 1,843 (4.34%)
+Unique videos: 319
+Largest single-video share: 6.13%
+
+Corpus context:
+  Retrofit areas: smart_heating_controls (1,409; 76.5%) | heat_pump_heating_retrofit (240; 13.0%) | solar_renewable_integration (83; 4.5%) | external_wall_insulation (22; 1.2%) | airtightness_draught_proofing (20; 1.1%)
+  Creator types: installer_tradesperson (858; 46.6%) | diy_renovator_homeowner (491; 26.6%) | training_educational (432; 23.4%) | builder_contractor (62; 3.4%)
+  Video types: how_to_installation_demo (1,341; 72.8%) | practical_advice_explainer (327; 17.7%) | problem_warning_mistakes (148; 8.0%) | project_walkthrough (27; 1.5%)
+  Existing rule-based themes: theme_question_request (1,072; 58.2%) | theme_practical_advice (283; 15.4%) | theme_personal_experience (178; 9.7%) | theme_energy_performance (86; 4.7%) | theme_safety_risk_warning (71; 3.9%)
+
+Sampling stability:
+  Mean cosine: 0.9950
+  Median cosine: 0.9967
+  Minimum cosine: 0.9793
+  Mean top-20 Jaccard: 0.8062
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 13
+  Cosine similarity: 0.9955
+  Top-20 Jaccard: 1.0000
+
+Representative comments (first 10 of 20):
+  1. [weight=0.1270; relative=0.730] Hi Jay, I have an old Lennox furnace from the 90’s and it does not have a c terminal. I am installing a Honeywell smart thermostat requiring a c terminal. When I follow the 2 wire from the A/C unit outside to the furnace the red wire goes to the “R” terminal on the furnace panel but the white wire does not connect to the furnace panel it is connected with the yellow wire from the thermostat cable of wires with a wire nut. Does that mean the common can be achieve by connecting into the white and yellow wires that are in the wire nut? In the thermostat bundle of wires is an unused blue wire that is not connected at either end. I was planning to use that blue wire as my c wire. Can I connect that blue wire into the wire nut bundle I mentioned and then connect the blue wire to the “c” on the smart thermostat?
+  2. [weight=0.1216; relative=0.957] I have an older Honeywell thermostat and it has a white wire to W yellow wire to Y green wire to G black wire to W2 and blue wire to Y2. I don't see that I have a C wire. I want to install a newer thermostat with wifi. can I do this with the existing wires? Or do I need to install a converter at the AC unit?
+  3. [weight=0.1208; relative=0.986] I am replacing my honeywell thermostat with nest. But nest requires a c wire. When I remove the old thermostat it is connected on R and W wire. There are 2 extra wires sitting in the box (not connected). So I went to boiler and see that 3 wires connected to the zone terminal. I am wondering if the 3rd wire is a C wire? Any suggestions?
+  4. [weight=0.1208; relative=0.904] I have a thermostat with 2 wires connected, the R and W wire, however there are 3 other wires not used. Two of the 3 wires provides 24 volts when I tested it. Do I need a C wire? It's a boiler only setup. Can this work if I connect the 2 two wires to match the color on the nest thermostat?
+  5. [weight=0.1207; relative=0.867] I'm trying to connect the C wire from thermostat at the furnace end to the correct wire. There is no terminal block or control board with marking, just bunch of wires.I have the brown from condenser with two leads.1. White wire connecting to Yellow on Thermostat wire (Y). 2. Red wire connecting to a blue wire that goes to the steel frame of furnace board. My guess is red wire is the C wire in my case and need to connect thermostat C wire with that. Did I identify C wire correctly since it goes to the frame?
+  6. [weight=0.1203; relative=1.000] my thermostat has 5wires, red to RH, white to o/b, Y to yellow, G to green and C to blue wire, do i swap the G green wire & connect it to the C and the blue wire to G? and do i connect the red wire to RC or R on the honeywell thermostat? any assistance is appreciated, thank you!
+  7. [weight=0.1188; relative=1.000] If I have a previous thermostat with a "G" wire, Can I connect the "G" wire to the C at this thermostat model? Do you think that will be enough?
+  8. [weight=0.1185; relative=0.905] Question - I do not have a C wire to my knowledge in my thermostat wiring.I have the white wire but it is hooked up to the W.My thermostat right now is battery operated.In my furnace I do have a white wire connected to the C slot.So do I have a common wire for power for a smart thermostat?I have a red to RV.A black to R.White to W or O/B.Another black to Y and a green to G in my existing thermostat.C is empty but again in the furnace a white is hooked up to the C.
+  9. [weight=0.1158; relative=0.752] Great video. I have both the blue and green wire connected to the C on my old iComfort thermostat. Trying to upgrade to the Nest 4th gen thermostat , can I connect green and blue wire to the C slot in the Nest thermostat or do I separate them?
+  10. [weight=0.1158; relative=0.752] Great video. I have both the blue and green wire connected to the C on my old iComfort thermostat. Trying to upgrade to the Nest 4th gen thermostat , can I connect green and blue wire to the C slot in the Nest thermostat or do I separate them?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 15
+======================================================================
+
+Provisional label: Vapour barriers and moisture control
+Provisional type: technical_subject
+Provisional confidence: high
+
+Top 20 terms:
+barrier | vapour | vapour barrier | vapor | vapor barrier | use | moisture | inside | no vapour | joists | foil | drywall | osb | radiant | between | radiant barrier | plasterboard | no | plastic | steve
+
+Dominant comments: 1,600 (3.77%)
+Unique videos: 278
+Largest single-video share: 4.56%
+
+Corpus context:
+  Retrofit areas: damp_condensation_moisture (412; 25.8%) | loft_roof_insulation (363; 22.7%) | airtightness_draught_proofing (213; 13.3%) | floor_insulation (161; 10.1%) | internal_wall_insulation (112; 7.0%)
+  Creator types: builder_contractor (512; 32.0%) | training_educational (479; 29.9%) | diy_renovator_homeowner (353; 22.1%) | installer_tradesperson (256; 16.0%)
+  Video types: how_to_installation_demo (644; 40.2%) | practical_advice_explainer (523; 32.7%) | problem_warning_mistakes (303; 18.9%) | project_walkthrough (130; 8.1%)
+  Existing rule-based themes: theme_question_request (654; 40.9%) | theme_damp_moisture_condensation (468; 29.2%) | theme_practical_advice (238; 14.9%) | theme_product_material_tool (80; 5.0%) | theme_personal_experience (54; 3.4%)
+
+Sampling stability:
+  Mean cosine: 0.8704
+  Median cosine: 0.9975
+  Minimum cosine: 0.0510
+  Mean top-20 Jaccard: 0.6678
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 14
+  Cosine similarity: 0.9992
+  Top-20 Jaccard: 0.9048
+Review cues: inspect_sampling_stability
+
+Representative comments (first 10 of 20):
+  1. [weight=0.2594; relative=0.737] Where is the vapour barrier ?
+  2. [weight=0.2163; relative=1.000] No vapour barrier too!
+  3. [weight=0.2163; relative=1.000] No vapour barrier
+  4. [weight=0.2163; relative=1.000] No vapour barrier?
+  5. [weight=0.2163; relative=1.000] No vapour barrier on top?
+  6. [weight=0.2163; relative=1.000] No vapour barrier?
+  7. [weight=0.2118; relative=1.000] Any links to the vapour barrier
+  8. [weight=0.2115; relative=0.763] Do you have a subfloor? What about a vapour barrier?
+  9. [weight=0.2106; relative=0.763] I would put vapor barrier on the ground itself
+  10. [weight=0.2088; relative=0.938] OSB is like a vapor barrier
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:
+
+======================================================================
+TOPIC 16
+======================================================================
+
+Provisional label: Recommendations, hypothetical choices and advice-seeking
+Provisional type: knowledge_sharing_behaviour
+Provisional confidence: moderate
+
+Top 20 terms:
+would | like | would not | would like | work | recommend | what would | how would | why would | love | would recommend | would need | would love | better | would work | think | could | would use | looks | would never
+
+Dominant comments: 2,691 (6.34%)
+Unique videos: 570
+Largest single-video share: 1.49%
+
+Corpus context:
+  Retrofit areas: heat_pump_heating_retrofit (676; 25.1%) | smart_heating_controls (316; 11.7%) | airtightness_draught_proofing (262; 9.7%) | solar_renewable_integration (249; 9.3%) | damp_condensation_moisture (244; 9.1%)
+  Creator types: diy_renovator_homeowner (799; 29.7%) | installer_tradesperson (760; 28.2%) | training_educational (693; 25.8%) | builder_contractor (439; 16.3%)
+  Video types: how_to_installation_demo (1,426; 53.0%) | practical_advice_explainer (617; 22.9%) | problem_warning_mistakes (419; 15.6%) | project_walkthrough (229; 8.5%)
+  Existing rule-based themes: theme_question_request (1,261; 46.9%) | theme_practical_advice (396; 14.7%) | theme_energy_performance (230; 8.5%) | theme_cost_finance (223; 8.3%) | theme_personal_experience (149; 5.5%)
+
+Sampling stability:
+  Mean cosine: 0.7953
+  Median cosine: 0.9925
+  Minimum cosine: 0.0220
+  Mean top-20 Jaccard: 0.6690
+
+Preprocessing sensitivity:
+  Matched sensitivity topic: 01
+  Cosine similarity: 0.5046
+  Top-20 Jaccard: 0.1765
+Review cues: inspect_sampling_stability | inspect_preprocessing_dependence
+
+Representative comments (first 10 of 20):
+  1. [weight=0.1209; relative=0.919] I'd do it with rockwool 🤩🤩🤩
+  2. [weight=0.1025; relative=0.545] How would this be made into a 240v system? Would I need 5 of these 48v batteries?
+  3. [weight=0.1004; relative=0.911] Who would I call to do this job ? HVAC ?
+  4. [weight=0.1001; relative=0.759] I would use this in the bottom corners, but then i would tape the rest
+  5. [weight=0.0996; relative=0.531] What would you recommend please ? Thank you 🙏
+  6. [weight=0.0978; relative=0.727] Our dimmers get hot. Is it good idea to seal them? They would get hotter wouldn’t they.
+  7. [weight=0.0974; relative=0.555] How Dunelm would you like your bedroom? Yes.
+  8. [weight=0.0967; relative=0.945] I would never even has though to do this
+  9. [weight=0.0964; relative=0.609] It would not only keep the insulation in one spot it would also help insulate
+  10. [weight=0.0936; relative=0.744] Would wd-40 work as a lubricant on the pin?
+
+Researcher review:
+  Final label:
+  Topic type:
+  Interpretation:
+  Confidence (1-5):
+  Retain as distinct topic:
+  Possible overlap:
+  Notes:

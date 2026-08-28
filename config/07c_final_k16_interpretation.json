@@ -1,0 +1,22 @@
+{
+  "analysis_stage": "Final interpretation lock for selected inclusive k=16 NMF",
+  "source_review_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\review\\07b_final_k16_topic_review.csv",
+  "source_review_sha256": "7187ac3652d065251232fdd2edb8d99430bb8268ec963ff4ea87d2c7812adf68",
+  "locked_output_file": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\review\\07c_final_k16_topic_interpretation_locked.csv",
+  "locked_output_sha256": "de464bf50139656e1210e93a7b4d5dcc4c51cb510d57c05298abe37ca9a687c3",
+  "topic_count": 16,
+  "all_topics_retained": true,
+  "interpretive_status": "human-reviewed and locked",
+  "topic_type_counts": {
+    "technical_subject": 7,
+    "knowledge_sharing_behaviour": 7,
+    "mixed": 1,
+    "social_interaction": 1
+  },
+  "confidence_counts": {
+    "3": 2,
+    "4": 6,
+    "5": 8
+  },
+  "important_methodological_note": "NMF is a soft-membership model. Final labels describe latent components; they are not mutually exclusive manual categories and do not imply that each comment belongs exclusively to one topic."
+}

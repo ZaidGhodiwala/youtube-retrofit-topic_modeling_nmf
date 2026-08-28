@@ -1,0 +1,20 @@
+{
+  "analysis_stage": "k=16 preprocessing sensitivity comparison",
+  "inclusive_model": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\outputs\\models\\05_inclusive_candidates\\inclusive_nmf_k16.joblib",
+  "content_focused_matrix": "D:\\work\\youtube_retrofit_project\\topic_modeling_nmf\\data\\processed\\04_tfidf_matrix_content_focused.npz",
+  "topic_count": 16,
+  "topic_matching": "Hungarian one-to-one assignment using cosine similarity after projection into shared vocabulary",
+  "shared_vocabulary_features": 14019,
+  "nmf_parameters": {
+    "init": "nndsvda",
+    "solver": "cd",
+    "beta_loss": "frobenius",
+    "tol": 0.0001,
+    "max_iter": 500,
+    "random_state": 20260806,
+    "alpha_W": 0.0,
+    "alpha_H": 0.0,
+    "l1_ratio": 0.0,
+    "shuffle": false
+  }
+}

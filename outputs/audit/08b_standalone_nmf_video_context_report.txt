@@ -1,0 +1,93 @@
+YOUTUBE RETROFIT STANDALONE NMF ANALYSIS — STAGE 08b
+==========================================================
+
+Overall status: PASS
+
+Scope
+-----
+This stage aggregates the frozen k=16 NMF solution to video level and examines neutral contextual distributions.
+No rule-based comment theme, knowledge-sharing mode or predefined retrofit-domain classification is used.
+
+Video-level corpus
+------------------
+Videos represented: 1,158
+Median modelled comments per video: 10.0
+IQR modelled comments per video: 3.0 – 39.0
+
+Video-level topic mixture
+-------------------------
+Median dominant topic weight: 0.2750
+Median secondary topic weight: 0.1606
+Median dominance margin: 0.0898
+Median effective topic count: 8.81
+
+Dominant topic by video
+-----------------------
+01. Situated household retrofit experience and building context: 200 videos (17.27%); mean video weight 13.03%
+13. Wall, cavity and floor insulation: 147 videos (12.69%); mean video weight 7.76%
+12. Roof and attic ventilation and airflow: 116 videos (10.02%); mean video weight 7.73%
+05. Heat pumps and heating systems: 105 videos (9.07%); mean video weight 5.62%
+14. Thermostat wiring and smart heating controls: 96 videos (8.29%); mean video weight 5.60%
+08. Solar PV, batteries and power systems: 92 videos (7.94%); mean video weight 6.57%
+03. Clarification and specification questions: 82 videos (7.08%); mean video weight 7.94%
+06. Praise, gratitude and social endorsement: 68 videos (5.87%); mean video weight 7.45%
+04. Implementation, cost and how-to questions: 60 videos (5.18%); mean video weight 6.75%
+09. Performance checking and troubleshooting: 34 videos (2.94%); mean video weight 6.23%
+02. Spray foam and foam insulation: 31 videos (2.68%); mean video weight 2.71%
+15. Vapour barriers and moisture control: 27 videos (2.33%); mean video weight 3.50%
+10. Implementation follow-up, outcomes and retrospective questions: 27 videos (2.33%); mean video weight 3.98%
+07. Alternative methods, challenges and "why" questions: 25 videos (2.16%); mean video weight 5.28%
+16. Prospective choices, recommendations and alternatives: 25 videos (2.16%); mean video weight 6.52%
+11. Product sourcing, access and location questions: 23 videos (1.99%); mean video weight 3.34%
+
+Topic concentration across videos
+---------------------------------
+02. Spray foam and foam insulation: largest video 9.49%; top 10 videos 40.72%
+08. Solar PV, batteries and power systems: largest video 2.90%; top 10 videos 24.04%
+14. Thermostat wiring and smart heating controls: largest video 4.00%; top 10 videos 23.28%
+05. Heat pumps and heating systems: largest video 3.87%; top 10 videos 22.90%
+15. Vapour barriers and moisture control: largest video 2.91%; top 10 videos 21.55%
+13. Wall, cavity and floor insulation: largest video 3.57%; top 10 videos 19.79%
+12. Roof and attic ventilation and airflow: largest video 2.99%; top 10 videos 18.70%
+06. Praise, gratitude and social endorsement: largest video 1.84%; top 10 videos 12.73%
+01. Situated household retrofit experience and building context: largest video 1.51%; top 10 videos 12.12%
+10. Implementation follow-up, outcomes and retrospective questions: largest video 1.62%; top 10 videos 11.17%
+11. Product sourcing, access and location questions: largest video 1.30%; top 10 videos 10.05%
+07. Alternative methods, challenges and "why" questions: largest video 1.59%; top 10 videos 9.92%
+16. Prospective choices, recommendations and alternatives: largest video 1.17%; top 10 videos 9.38%
+09. Performance checking and troubleshooting: largest video 1.11%; top 10 videos 8.88%
+04. Implementation, cost and how-to questions: largest video 1.12%; top 10 videos 8.85%
+03. Clarification and specification questions: largest video 1.37%; top 10 videos 8.49%
+
+Low-comment-video sensitivity
+-----------------------------
+At least 1 modelled comments: 1,158 videos
+At least 5 modelled comments: 789 videos
+At least 10 modelled comments: 591 videos
+At least 20 modelled comments: 433 videos
+
+Context availability
+--------------------
+Creator type available: yes
+Video type available: yes
+Publication date available: yes
+Publication-date source column: final_published_at
+
+Interpretive cautions
+--------------------
+Video-level topic weights are averages of comment-level relative NMF weights. They describe the composition of the observed comment discussion, not the technical content of the video itself.
+Videos with few modelled comments provide less reliable estimates of discussion-topic composition; threshold summaries are therefore reported.
+Topic concentration based on summed comment weights is influenced by discussion volume and is used specifically to assess whether topic discussion is concentrated in a small set of videos.
+Creator- and video-type comparisons in this stage are descriptive contextual analyses, not causal effects.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_video_level_nmf_profiles.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_video_topic_prevalence.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_video_comment_count_sensitivity.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_topic_video_concentration.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_top_videos_by_topic_weight.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_creator_and_video_type_distributions.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_publication_year_topic_distribution.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08b_global_video_membership_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\08b_nmf_video_context_config.json

@@ -1,0 +1,23 @@
+{
+  "analysis_stage": "Standalone contextual analysis of locked k=16 NMF",
+  "model_status": "frozen; no NMF fitting performed",
+  "videos": 1158,
+  "video_topic_aggregation": "Mean row-normalised NMF topic weight across modelled comments within each video.",
+  "contextual_variables_used": [
+    "creator_type",
+    "video_type",
+    "final_published_at"
+  ],
+  "explicitly_excluded_from_stage_08b": [
+    "retrofit_topic",
+    "primary_theme",
+    "rule-based knowledge-sharing modes"
+  ],
+  "low_comment_video_sensitivity_thresholds": [
+    1,
+    5,
+    10,
+    20
+  ],
+  "inferential_tests": "None. Stage 08b is descriptive."
+}

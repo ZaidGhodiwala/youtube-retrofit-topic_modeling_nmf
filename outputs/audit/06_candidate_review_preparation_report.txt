@@ -1,0 +1,19 @@
+YOUTUBE RETROFIT CANDIDATE REVIEW PREPARATION
+==============================================
+
+Overall status: PASS
+
+Candidate topic counts prepared: 12, 16, 20
+Total candidate topics reviewed: 48
+Channel concentration available: False
+Channel field used: None available
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\06_candidate_topic_profiles.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\06_candidate_topic_reviewer_sheet.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\06_candidate_interpretability_review.txt
+
+Next decision
+-------------
+Review topic coherence, distinctiveness, source concentration and representative-comment meaning before selecting topic counts for repeated stability analysis.

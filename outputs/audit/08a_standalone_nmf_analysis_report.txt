@@ -1,0 +1,143 @@
+YOUTUBE RETROFIT STANDALONE NMF ANALYSIS — STAGE 08a
+==========================================================
+
+Overall status: PASS
+
+Scope
+-----
+This stage analyses the locked k=16 NMF solution on its own.
+No predefined rule-based comment themes or knowledge-sharing modes are used.
+
+Corpus
+------
+Comments: 42,443
+Videos: 1,158
+Topics: 16
+
+Overall topic-membership structure
+----------------------------------
+Median dominant relative NMF weight: 0.4729
+IQR dominant relative NMF weight: 0.3603 – 0.6270
+Median secondary relative NMF weight: 0.2227
+Median dominant-secondary margin: 0.2011
+Median effective topic count per comment: 3.81
+IQR effective topic count: 2.67 – 5.11
+
+Topic prevalence
+----------------
+01. Situated household retrofit experience and building context
+    Dominant comments: 5,105 (12.03%)
+    Soft prevalence: 14.02%
+    Median dominant relative weight: 0.432
+    Median dominance margin: 0.173
+12. Roof and attic ventilation and airflow
+    Dominant comments: 4,057 (9.56%)
+    Soft prevalence: 8.56%
+    Median dominant relative weight: 0.457
+    Median dominance margin: 0.193
+06. Praise, gratitude and social endorsement
+    Dominant comments: 3,750 (8.84%)
+    Soft prevalence: 8.19%
+    Median dominant relative weight: 0.494
+    Median dominance margin: 0.234
+08. Solar PV, batteries and power systems
+    Dominant comments: 3,400 (8.01%)
+    Soft prevalence: 7.33%
+    Median dominant relative weight: 0.515
+    Median dominance margin: 0.268
+13. Wall, cavity and floor insulation
+    Dominant comments: 3,275 (7.72%)
+    Soft prevalence: 7.70%
+    Median dominant relative weight: 0.467
+    Median dominance margin: 0.198
+05. Heat pumps and heating systems
+    Dominant comments: 2,965 (6.99%)
+    Soft prevalence: 6.25%
+    Median dominant relative weight: 0.454
+    Median dominance margin: 0.204
+03. Clarification and specification questions
+    Dominant comments: 2,806 (6.61%)
+    Soft prevalence: 6.61%
+    Median dominant relative weight: 0.550
+    Median dominance margin: 0.322
+16. Prospective choices, recommendations and alternatives
+    Dominant comments: 2,691 (6.34%)
+    Soft prevalence: 6.85%
+    Median dominant relative weight: 0.430
+    Median dominance margin: 0.138
+09. Performance checking and troubleshooting
+    Dominant comments: 2,435 (5.74%)
+    Soft prevalence: 5.79%
+    Median dominant relative weight: 0.439
+    Median dominance margin: 0.144
+04. Implementation, cost and how-to questions
+    Dominant comments: 2,369 (5.58%)
+    Soft prevalence: 5.38%
+    Median dominant relative weight: 0.507
+    Median dominance margin: 0.227
+14. Thermostat wiring and smart heating controls
+    Dominant comments: 1,843 (4.34%)
+    Soft prevalence: 4.78%
+    Median dominant relative weight: 0.485
+    Median dominance margin: 0.214
+07. Alternative methods, challenges and "why" questions
+    Dominant comments: 1,754 (4.13%)
+    Soft prevalence: 4.84%
+    Median dominant relative weight: 0.526
+    Median dominance margin: 0.201
+10. Implementation follow-up, outcomes and retrospective questions
+    Dominant comments: 1,714 (4.04%)
+    Soft prevalence: 3.72%
+    Median dominant relative weight: 0.443
+    Median dominance margin: 0.125
+02. Spray foam and foam insulation
+    Dominant comments: 1,636 (3.85%)
+    Soft prevalence: 3.42%
+    Median dominant relative weight: 0.548
+    Median dominance margin: 0.320
+15. Vapour barriers and moisture control
+    Dominant comments: 1,600 (3.77%)
+    Soft prevalence: 3.94%
+    Median dominant relative weight: 0.463
+    Median dominance margin: 0.220
+11. Product sourcing, access and location questions
+    Dominant comments: 1,043 (2.46%)
+    Soft prevalence: 2.62%
+    Median dominant relative weight: 0.457
+    Median dominance margin: 0.125
+
+Most common secondary topic
+---------------------------
+01 Situated household retrofit experience and building context -> 12 Roof and attic ventilation and airflow (12.8% of dominant-topic comments; mean secondary weight 0.240)
+02 Spray foam and foam insulation -> 01 Situated household retrofit experience and building context (20.2% of dominant-topic comments; mean secondary weight 0.155)
+03 Clarification and specification questions -> 01 Situated household retrofit experience and building context (23.8% of dominant-topic comments; mean secondary weight 0.174)
+04 Implementation, cost and how-to questions -> 01 Situated household retrofit experience and building context (23.7% of dominant-topic comments; mean secondary weight 0.179)
+05 Heat pumps and heating systems -> 01 Situated household retrofit experience and building context (27.2% of dominant-topic comments; mean secondary weight 0.220)
+06 Praise, gratitude and social endorsement -> 01 Situated household retrofit experience and building context (28.6% of dominant-topic comments; mean secondary weight 0.204)
+07 Alternative methods, challenges and "why" questions -> 01 Situated household retrofit experience and building context (15.3% of dominant-topic comments; mean secondary weight 0.157)
+08 Solar PV, batteries and power systems -> 01 Situated household retrofit experience and building context (27.8% of dominant-topic comments; mean secondary weight 0.203)
+09 Performance checking and troubleshooting -> 01 Situated household retrofit experience and building context (16.6% of dominant-topic comments; mean secondary weight 0.202)
+10 Implementation follow-up, outcomes and retrospective questions -> 01 Situated household retrofit experience and building context (18.0% of dominant-topic comments; mean secondary weight 0.214)
+11 Product sourcing, access and location questions -> 01 Situated household retrofit experience and building context (18.8% of dominant-topic comments; mean secondary weight 0.191)
+12 Roof and attic ventilation and airflow -> 01 Situated household retrofit experience and building context (26.2% of dominant-topic comments; mean secondary weight 0.221)
+13 Wall, cavity and floor insulation -> 01 Situated household retrofit experience and building context (28.3% of dominant-topic comments; mean secondary weight 0.219)
+14 Thermostat wiring and smart heating controls -> 01 Situated household retrofit experience and building context (18.8% of dominant-topic comments; mean secondary weight 0.212)
+15 Vapour barriers and moisture control -> 13 Wall, cavity and floor insulation (19.7% of dominant-topic comments; mean secondary weight 0.209)
+16 Prospective choices, recommendations and alternatives -> 01 Situated household retrofit experience and building context (23.9% of dominant-topic comments; mean secondary weight 0.225)
+
+Interpretive cautions
+--------------------
+NMF provides continuous topic weights. Dominant-topic prevalence is therefore a descriptive simplification rather than a claim that each comment belongs exclusively to one topic.
+Soft prevalence preserves information from all 16 topic weights and should be reported alongside dominant-topic prevalence.
+Row-normalised NMF weights are relative weights, not probabilistic posterior topic assignments.
+The effective-topic-count measure describes membership concentration only and is not an additional fitted model.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_topic_prevalence_and_strength.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_global_membership_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_leading_secondary_topic_by_dominant_topic.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_dominant_secondary_topic_pairs.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_dominant_topic_soft_profiles.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08a_comment_membership_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\08a_standalone_nmf_analysis_config.json

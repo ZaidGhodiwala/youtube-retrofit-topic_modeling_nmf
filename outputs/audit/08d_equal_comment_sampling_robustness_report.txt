@@ -1,0 +1,60 @@
+YOUTUBE RETROFIT NMF EQUAL-COMMENT ROBUSTNESS — STAGE 08d
+==============================================================
+
+Overall status: PASS
+
+Purpose
+-------
+This robustness analysis standardises the number of comments contributing to each video-level NMF topic profile.
+It addresses the strong relationship between modelled-comment count and apparent topic-mixture breadth identified in Stage 08c.
+
+Design
+------
+Repeated samples: 100 per condition
+10 comments/video: 591 videos
+20 comments/video: 433 videos
+
+Strongest associations with the same median sign
+------------------------------------------------
+T06 Praise, gratitude and social endorsement × duration_minutes: median rho 10=0.396 [0.347, 0.433]; 20=0.429 [0.381, 0.463]
+T05 Heat pumps and heating systems × api_comments_per_1000_views: median rho 10=0.286 [0.261, 0.319]; 20=0.327 [0.297, 0.356]
+T06 Praise, gratitude and social endorsement × views_per_day: median rho 10=-0.278 [-0.311, -0.240]; 20=-0.307 [-0.340, -0.267]
+T02 Spray foam and foam insulation × api_comments_per_1000_views: median rho 10=-0.239 [-0.277, -0.194]; 20=-0.251 [-0.291, -0.215]
+T05 Heat pumps and heating systems × duration_minutes: median rho 10=0.214 [0.181, 0.247]; 20=0.244 [0.213, 0.276]
+T05 Heat pumps and heating systems × view_count: median rho 10=-0.211 [-0.246, -0.176]; 20=-0.228 [-0.254, -0.195]
+T06 Praise, gratitude and social endorsement × api_comments_per_1000_views: median rho 10=0.224 [0.183, 0.255]; 20=0.207 [0.155, 0.255]
+T16 Prospective choices, recommendations and alternatives × api_comments_per_1000_views: median rho 10=0.200 [0.151, 0.259]; 20=0.219 [0.154, 0.266]
+T08 Solar PV, batteries and power systems × likes_per_1000_views: median rho 10=0.198 [0.164, 0.239]; 20=0.218 [0.175, 0.258]
+T02 Spray foam and foam insulation × duration_minutes: median rho 10=-0.198 [-0.245, -0.160]; 20=-0.202 [-0.235, -0.168]
+T16 Prospective choices, recommendations and alternatives × duration_minutes: median rho 10=0.192 [0.141, 0.251]; 20=0.220 [0.166, 0.268]
+T06 Praise, gratitude and social endorsement × view_count: median rho 10=-0.187 [-0.226, -0.150]; 20=-0.187 [-0.234, -0.144]
+T02 Spray foam and foam insulation × views_per_day: median rho 10=0.179 [0.134, 0.220]; 20=0.213 [0.179, 0.244]
+T05 Heat pumps and heating systems × views_per_day: median rho 10=-0.178 [-0.214, -0.148]; 20=-0.202 [-0.228, -0.164]
+T08 Solar PV, batteries and power systems × api_comments_per_day: median rho 10=0.168 [0.125, 0.209]; 20=0.197 [0.163, 0.234]
+T05 Heat pumps and heating systems × likes_per_1000_views: median rho 10=0.160 [0.131, 0.189]; 20=0.174 [0.144, 0.206]
+T08 Solar PV, batteries and power systems × api_comments_per_1000_views: median rho 10=0.155 [0.119, 0.202]; 20=0.171 [0.131, 0.215]
+T16 Prospective choices, recommendations and alternatives × likes_per_1000_views: median rho 10=0.148 [0.106, 0.193]; 20=0.161 [0.113, 0.209]
+T06 Praise, gratitude and social endorsement × api_comments_per_day: median rho 10=-0.145 [-0.187, -0.107]; 20=-0.220 [-0.252, -0.178]
+T15 Vapour barriers and moisture control × api_comments_per_1000_views: median rho 10=-0.143 [-0.174, -0.105]; 20=-0.186 [-0.217, -0.152]
+T05 Heat pumps and heating systems × like_count: median rho 10=-0.141 [-0.177, -0.106]; 20=-0.152 [-0.183, -0.118]
+T06 Praise, gratitude and social endorsement × like_count: median rho 10=-0.137 [-0.178, -0.102]; 20=-0.176 [-0.218, -0.137]
+T14 Thermostat wiring and smart heating controls × api_comments_per_day: median rho 10=-0.136 [-0.172, -0.092]; 20=-0.152 [-0.188, -0.120]
+T07 Alternative methods, challenges and "why" questions × api_comments_per_1000_views: median rho 10=-0.135 [-0.187, -0.079]; 20=-0.148 [-0.207, -0.101]
+T02 Spray foam and foam insulation × view_count: median rho 10=0.135 [0.091, 0.170]; 20=0.162 [0.128, 0.206]
+
+Cross-threshold robustness
+--------------------------
+Associations whose 2.5th–97.5th percentile resampling interval excludes zero in both conditions: 74
+
+Interpretive caution
+--------------------
+The percentile ranges are empirical resampling intervals describing sensitivity to which comments are selected. They are not population confidence intervals.
+The analysis remains observational and compositional; it does not establish causal effects of discussion topics on engagement.
+Results that disappear after equal-comment sampling should be treated as sensitive to unequal discussion-sample size rather than as robust topic–engagement relationships.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08d_equal_comment_sampling_design.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08d_equal_comment_sampling_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08d_equal_comment_cross_threshold_summary.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\tables\08d_equal_comment_sampling_replicates.csv

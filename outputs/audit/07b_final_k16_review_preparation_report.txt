@@ -1,0 +1,26 @@
+YOUTUBE RETROFIT FINAL k=16 REVIEW PREPARATION
+=================================================
+
+Overall status: PASS
+
+Selected model: inclusive k=16
+Topics prepared for review: 16
+Representative comments prepared: 320
+Representative comments per topic: 20
+
+Review flags
+------------
+Topics with mean sampling cosine < 0.90: 10, 12, 15, 16
+Topics with preprocessing cosine < 0.80: 6, 16
+
+Important
+---------
+These flags are review cues only. They are not automatic thresholds for rejecting a topic.
+Topic 6 is expected to change strongly under the content-focused sensitivity condition because praise, gratitude and platform vocabulary were deliberately removed.
+
+Outputs
+-------
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\07b_final_k16_topic_review.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\07b_final_k16_representative_comments.csv
+D:\work\youtube_retrofit_project\topic_modeling_nmf\outputs\review\07b_final_k16_topic_review.txt
+D:\work\youtube_retrofit_project\topic_modeling_nmf\config\07b_final_k16_topic_review_config.json

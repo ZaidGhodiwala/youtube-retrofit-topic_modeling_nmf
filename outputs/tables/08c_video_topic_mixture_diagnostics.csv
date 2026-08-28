@@ -1,0 +1,4 @@
+﻿mixture_measure,comparison_variable,valid_n,spearman_rho,p_value
+dominant_relative_weight,modelled_comment_count,1158,-0.5129791648449478,1.0119194707365718e-78
+dominance_margin,modelled_comment_count,1158,-0.2168533022284439,8.628302110966428e-14
+effective_topic_count,modelled_comment_count,1158,0.7810348769766644,1.2671761285875133e-238

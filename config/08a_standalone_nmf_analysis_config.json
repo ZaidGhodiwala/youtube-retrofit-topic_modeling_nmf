@@ -1,0 +1,16 @@
+{
+  "analysis_stage": "Standalone descriptive analysis of locked k=16 NMF solution",
+  "model_status": "frozen; no model fitting performed",
+  "selected_model": "inclusive primary TF-IDF k=16 NMF",
+  "comments": 42443,
+  "videos": 1158,
+  "topics": 16,
+  "locked_interpretation_sha256": "de464bf50139656e1210e93a7b4d5dcc4c51cb510d57c05298abe37ca9a687c3",
+  "relative_weight_method": "Each comment's 16 NMF document-topic weights were divided by their row sum. These values are descriptive relative NMF weights and are not interpreted as generative probabilities.",
+  "prevalence_measures": {
+    "dominant_prevalence": "Share of comments for which a topic has the largest relative NMF weight.",
+    "soft_prevalence": "Mean relative NMF weight for a topic across all comments."
+  },
+  "membership_dispersion": "Shannon entropy and exp(entropy) effective-topic count calculated from relative NMF weights for descriptive purposes.",
+  "important_exclusion": "No predefined rule-based comment theme or knowledge-sharing classification is used in Stage 08a."
+}

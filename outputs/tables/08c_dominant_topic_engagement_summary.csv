@@ -1,0 +1,129 @@
+﻿topic_number,topic_label,topic_type,dominant_video_count,metric,metric_family,valid_n,median,q25,q75
+1,Situated household retrofit experience and building context,mixed,200,duration_minutes,video_context,200,2.325,0.6625,8.525
+1,Situated household retrofit experience and building context,mixed,200,view_count,reach,200,89071.5,18755.5,238402.0
+1,Situated household retrofit experience and building context,mixed,200,like_count,reach,200,978.0,170.0,3159.75
+1,Situated household retrofit experience and building context,mixed,200,api_comment_count,discussion_volume,200,67.5,17.0,221.5
+1,Situated household retrofit experience and building context,mixed,200,likes_per_1000_views,engagement_rate,200,11.396158451568045,7.733204927848775,17.804219504767218
+1,Situated household retrofit experience and building context,mixed,200,api_comments_per_1000_views,discussion_rate,200,0.8547270717921047,0.3284920604516246,2.025494657553152
+1,Situated household retrofit experience and building context,mixed,200,views_per_day,age_normalised_provisional,200,100.51010632698178,25.401592596702454,278.3575522804362
+1,Situated household retrofit experience and building context,mixed,200,api_comments_per_day,age_normalised_provisional,200,0.06736322188449845,0.02196952262206825,0.2411159869870343
+2,Spray foam and foam insulation,technical_subject,31,duration_minutes,video_context,31,1.2666666666666666,0.35,5.558333333333334
+2,Spray foam and foam insulation,technical_subject,31,view_count,reach,31,75797.0,29441.5,490837.0
+2,Spray foam and foam insulation,technical_subject,31,like_count,reach,31,785.0,251.0,3191.0
+2,Spray foam and foam insulation,technical_subject,31,api_comment_count,discussion_volume,31,90.0,15.5,356.5
+2,Spray foam and foam insulation,technical_subject,31,likes_per_1000_views,engagement_rate,31,11.03144198246704,5.714945405852983,15.32461960974123
+2,Spray foam and foam insulation,technical_subject,31,api_comments_per_1000_views,discussion_rate,31,0.7347835640518566,0.38941687242065715,1.3409476446446937
+2,Spray foam and foam insulation,technical_subject,31,views_per_day,age_normalised_provisional,31,180.79285714285717,35.315829730275254,701.7586308043515
+2,Spray foam and foam insulation,technical_subject,31,api_comments_per_day,age_normalised_provisional,31,0.0900243309002433,0.031090549857927002,0.4375144375144375
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,duration_minutes,video_context,82,0.775,0.35,2.316666666666667
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,view_count,reach,82,69820.5,19515.75,160050.0
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,like_count,reach,82,492.5,120.25,1395.5
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,api_comment_count,discussion_volume,82,22.0,11.0,42.0
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,likes_per_1000_views,engagement_rate,82,7.2951735563425375,5.151555770886293,11.7033381555622
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,api_comments_per_1000_views,discussion_rate,82,0.3882224029956778,0.12452938345749756,1.0748227769494303
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,views_per_day,age_normalised_provisional,82,68.75311649130094,23.353800642952134,166.7262694296403
+3,Clarification and specification questions,knowledge_sharing_behaviour,82,api_comments_per_day,age_normalised_provisional,82,0.02568547365754805,0.01065662266280605,0.054285743859958775
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,duration_minutes,video_context,60,1.7666666666666666,0.5541666666666667,8.083333333333334
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,view_count,reach,60,16142.0,5234.0,91617.5
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,like_count,reach,60,187.0,31.0,570.5
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,api_comment_count,discussion_volume,60,14.5,5.0,34.0
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,likes_per_1000_views,engagement_rate,60,8.93912303958151,5.279605372749363,12.901293103296108
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,api_comments_per_1000_views,discussion_rate,60,0.6708116927356333,0.3186565084486966,2.305334339432651
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,views_per_day,age_normalised_provisional,60,21.96873836031701,7.540765087648869,102.46036536018063
+4,"Implementation, cost and how-to questions",knowledge_sharing_behaviour,60,api_comments_per_day,age_normalised_provisional,60,0.017718741428627352,0.006882604950455475,0.05052361995080758
+5,Heat pumps and heating systems,technical_subject,105,duration_minutes,video_context,105,8.516666666666667,3.5166666666666666,14.283333333333331
+5,Heat pumps and heating systems,technical_subject,105,view_count,reach,105,36839.0,12900.0,102440.0
+5,Heat pumps and heating systems,technical_subject,105,like_count,reach,105,486.0,146.0,1872.0
+5,Heat pumps and heating systems,technical_subject,105,api_comment_count,discussion_volume,105,86.0,24.0,227.0
+5,Heat pumps and heating systems,technical_subject,105,likes_per_1000_views,engagement_rate,105,15.302727877578176,8.989678517257962,20.89543066097164
+5,Heat pumps and heating systems,technical_subject,105,api_comments_per_1000_views,discussion_rate,105,2.1969322117763483,1.0858230215982023,4.409571363724791
+5,Heat pumps and heating systems,technical_subject,105,views_per_day,age_normalised_provisional,105,48.24087591240876,18.21495327102804,107.054844606947
+5,Heat pumps and heating systems,technical_subject,105,api_comments_per_day,age_normalised_provisional,105,0.1241534988713318,0.0343980343980344,0.3109048723897912
+6,"Praise, gratitude and social endorsement",social_interaction,68,duration_minutes,video_context,68,7.658333333333333,2.5833333333333335,15.425
+6,"Praise, gratitude and social endorsement",social_interaction,68,view_count,reach,68,43002.5,14986.75,152047.0
+6,"Praise, gratitude and social endorsement",social_interaction,68,like_count,reach,68,437.5,188.0,1715.75
+6,"Praise, gratitude and social endorsement",social_interaction,68,api_comment_count,discussion_volume,68,54.5,20.5,186.25
+6,"Praise, gratitude and social endorsement",social_interaction,68,likes_per_1000_views,engagement_rate,68,12.961877168556097,7.288985189851991,20.015537428360233
+6,"Praise, gratitude and social endorsement",social_interaction,68,api_comments_per_1000_views,discussion_rate,68,1.0067376653445699,0.6224769454981389,2.1476009757648478
+6,"Praise, gratitude and social endorsement",social_interaction,68,views_per_day,age_normalised_provisional,68,44.326002091321016,16.56605338286645,120.36317500985416
+6,"Praise, gratitude and social endorsement",social_interaction,68,api_comments_per_day,age_normalised_provisional,68,0.053750669316707,0.0171404776453957,0.15220052861374836
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,duration_minutes,video_context,25,0.9,0.5,2.45
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,view_count,reach,25,35325.0,6676.0,82797.0
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,like_count,reach,25,276.0,106.0,598.0
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,api_comment_count,discussion_volume,25,11.0,8.0,22.0
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,likes_per_1000_views,engagement_rate,25,7.903818323499943,5.45913499281375,15.611633875106929
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,api_comments_per_1000_views,discussion_rate,25,0.5566069241901369,0.2135788699304682,1.4170996693434106
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,views_per_day,age_normalised_provisional,25,52.890488431876605,12.943778110944528,118.2
+7,"Alternative methods, challenges and ""why"" questions",knowledge_sharing_behaviour,25,api_comments_per_day,age_normalised_provisional,25,0.015299026425591,0.0077054794520547,0.027431421446384
+8,"Solar PV, batteries and power systems",technical_subject,92,duration_minutes,video_context,92,7.35,1.4625,14.054166666666667
+8,"Solar PV, batteries and power systems",technical_subject,92,view_count,reach,92,93043.0,15329.0,335128.25
+8,"Solar PV, batteries and power systems",technical_subject,92,like_count,reach,92,1190.5,144.75,5216.0
+8,"Solar PV, batteries and power systems",technical_subject,92,api_comment_count,discussion_volume,92,96.5,17.5,341.75
+8,"Solar PV, batteries and power systems",technical_subject,92,likes_per_1000_views,engagement_rate,92,12.152956551816846,7.856021054810542,22.498860507033108
+8,"Solar PV, batteries and power systems",technical_subject,92,api_comments_per_1000_views,discussion_rate,92,1.111575562524643,0.45232028736910623,2.2773788104530013
+8,"Solar PV, batteries and power systems",technical_subject,92,views_per_day,age_normalised_provisional,92,116.7668203366856,27.376585480209258,552.9963776276276
+8,"Solar PV, batteries and power systems",technical_subject,92,api_comments_per_day,age_normalised_provisional,92,0.10621490056313321,0.02685554675169485,0.4444190866912965
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,duration_minutes,video_context,34,0.65,0.4583333333333333,3.0
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,view_count,reach,34,27519.0,10411.25,76497.75
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,like_count,reach,34,128.5,21.75,359.0
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,api_comment_count,discussion_volume,34,12.5,4.25,33.5
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,likes_per_1000_views,engagement_rate,34,4.456398378159663,2.7556234473951418,9.140890265709732
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,api_comments_per_1000_views,discussion_rate,34,0.3657418816716558,0.16029760284074376,0.8498062623917593
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,views_per_day,age_normalised_provisional,34,34.20070823589121,10.160971964543393,90.33025506385724
+9,Performance checking and troubleshooting,knowledge_sharing_behaviour,34,api_comments_per_day,age_normalised_provisional,34,0.0128992969052759,0.004852296795383375,0.048117612724354275
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,duration_minutes,video_context,27,1.2666666666666666,0.5333333333333333,6.825
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,view_count,reach,27,14947.0,2476.5,39947.0
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,like_count,reach,27,117.0,15.5,337.5
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,api_comment_count,discussion_volume,27,8.0,4.5,16.5
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,likes_per_1000_views,engagement_rate,27,7.902735562310031,5.943222822201689,14.26837403639129
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,api_comments_per_1000_views,discussion_rate,27,0.8728859792689581,0.3309390728470232,1.553365003828813
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,views_per_day,age_normalised_provisional,27,27.47074122236671,3.8486190174994728,65.80067654180317
+10,"Implementation follow-up, outcomes and retrospective questions",knowledge_sharing_behaviour,27,api_comments_per_day,age_normalised_provisional,27,0.0123042505592841,0.0038926681783824496,0.03285217525923585
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,duration_minutes,video_context,23,0.95,0.2583333333333333,2.6500000000000004
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,view_count,reach,23,14039.0,3963.0,47512.5
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,like_count,reach,23,77.0,32.0,448.5
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,api_comment_count,discussion_volume,23,8.0,2.5,20.5
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,likes_per_1000_views,engagement_rate,23,7.775421589417348,3.4904702715976352,9.800109199301332
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,api_comments_per_1000_views,discussion_rate,23,0.6475460702047865,0.10184864358963536,1.1680959915287106
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,views_per_day,age_normalised_provisional,23,18.89908256880734,6.866176560842386,58.90527405621745
+11,"Product sourcing, access and location questions",knowledge_sharing_behaviour,23,api_comments_per_day,age_normalised_provisional,23,0.0121049092131809,0.0041206051034826,0.0218121669836717
+12,Roof and attic ventilation and airflow,technical_subject,116,duration_minutes,video_context,116,3.6166666666666663,0.9625000000000001,7.620833333333334
+12,Roof and attic ventilation and airflow,technical_subject,116,view_count,reach,116,73427.5,22326.25,139352.75
+12,Roof and attic ventilation and airflow,technical_subject,116,like_count,reach,116,644.5,142.25,1987.75
+12,Roof and attic ventilation and airflow,technical_subject,116,api_comment_count,discussion_volume,116,65.5,18.75,152.25
+12,Roof and attic ventilation and airflow,technical_subject,116,likes_per_1000_views,engagement_rate,116,10.857189333381788,6.956056789432264,16.291266100504345
+12,Roof and attic ventilation and airflow,technical_subject,116,api_comments_per_1000_views,discussion_rate,116,0.9685326632336992,0.545193044999975,1.8520528263561762
+12,Roof and attic ventilation and airflow,technical_subject,116,views_per_day,age_normalised_provisional,116,69.42848463907231,24.49020835921432,158.26789259746184
+12,Roof and attic ventilation and airflow,technical_subject,116,api_comments_per_day,age_normalised_provisional,116,0.06382275058002815,0.027636177102369226,0.193378167773411
+13,"Wall, cavity and floor insulation",technical_subject,147,duration_minutes,video_context,147,4.266666666666667,0.9833333333333332,8.658333333333333
+13,"Wall, cavity and floor insulation",technical_subject,147,view_count,reach,147,63867.0,12936.0,180351.5
+13,"Wall, cavity and floor insulation",technical_subject,147,like_count,reach,147,619.0,74.0,1790.0
+13,"Wall, cavity and floor insulation",technical_subject,147,api_comment_count,discussion_volume,147,45.0,14.0,173.5
+13,"Wall, cavity and floor insulation",technical_subject,147,likes_per_1000_views,engagement_rate,147,9.237559359215826,5.524861319030877,15.105074676233368
+13,"Wall, cavity and floor insulation",technical_subject,147,api_comments_per_1000_views,discussion_rate,147,1.0722135849461214,0.501387865777138,1.993077684223406
+13,"Wall, cavity and floor insulation",technical_subject,147,views_per_day,age_normalised_provisional,147,66.06058394160584,12.612840331669155,203.10074003837192
+13,"Wall, cavity and floor insulation",technical_subject,147,api_comments_per_day,age_normalised_provisional,147,0.0503246753246753,0.013189039114690049,0.17553919061958784
+14,Thermostat wiring and smart heating controls,technical_subject,96,duration_minutes,video_context,96,6.333333333333333,1.0166666666666666,12.016666666666667
+14,Thermostat wiring and smart heating controls,technical_subject,96,view_count,reach,96,60789.5,30578.5,149099.0
+14,Thermostat wiring and smart heating controls,technical_subject,96,like_count,reach,96,453.0,229.75,1112.0
+14,Thermostat wiring and smart heating controls,technical_subject,96,api_comment_count,discussion_volume,96,48.0,17.0,93.25
+14,Thermostat wiring and smart heating controls,technical_subject,96,likes_per_1000_views,engagement_rate,96,7.682075738681389,5.696574125091006,10.980030219390985
+14,Thermostat wiring and smart heating controls,technical_subject,96,api_comments_per_1000_views,discussion_rate,96,0.7622136552137904,0.4085143786694459,1.3194006486560286
+14,Thermostat wiring and smart heating controls,technical_subject,96,views_per_day,age_normalised_provisional,96,59.081788258775305,28.243161323551043,132.39027784839087
+14,Thermostat wiring and smart heating controls,technical_subject,96,api_comments_per_day,age_normalised_provisional,96,0.0496956550195884,0.02090452289456285,0.09023324493731917
+15,Vapour barriers and moisture control,technical_subject,27,duration_minutes,video_context,27,4.95,0.9999999999999999,9.858333333333334
+15,Vapour barriers and moisture control,technical_subject,27,view_count,reach,27,42033.0,22331.5,173607.5
+15,Vapour barriers and moisture control,technical_subject,27,like_count,reach,27,509.0,162.0,1971.5
+15,Vapour barriers and moisture control,technical_subject,27,api_comment_count,discussion_volume,27,46.0,10.0,143.5
+15,Vapour barriers and moisture control,technical_subject,27,likes_per_1000_views,engagement_rate,27,10.79436586757156,7.454745730610984,17.694948512339558
+15,Vapour barriers and moisture control,technical_subject,27,api_comments_per_1000_views,discussion_rate,27,0.8387947165150385,0.40217506547093834,1.1810023659048454
+15,Vapour barriers and moisture control,technical_subject,27,views_per_day,age_normalised_provisional,27,67.14786967418546,16.9329467754375,245.67622328366093
+15,Vapour barriers and moisture control,technical_subject,27,api_comments_per_day,age_normalised_provisional,27,0.0547525186158563,0.0108059189303238,0.21954784339335132
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,duration_minutes,video_context,25,1.9166666666666667,0.9166666666666666,7.266666666666667
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,view_count,reach,25,27671.0,3916.0,42631.0
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,like_count,reach,25,124.0,17.0,461.0
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,api_comment_count,discussion_volume,25,7.0,4.0,31.0
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,likes_per_1000_views,engagement_rate,25,8.423712751395177,4.341164453524004,11.970984824885408
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,api_comments_per_1000_views,discussion_rate,25,0.8916629514043691,0.3902982994145525,1.480932987782303
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,views_per_day,age_normalised_provisional,25,29.475132275132275,7.206310679611651,56.1775
+16,"Prospective choices, recommendations and alternatives",knowledge_sharing_behaviour,25,api_comments_per_day,age_normalised_provisional,25,0.0148367952522255,0.0034364261168384,0.0285714285714285
